@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-![picture of me](https://en.gravatar.com/userimage/110328564/0050dfa0b65c742713eddd5751bf005d.jpeg)
+![picture of me](https://en.gravatar.com/userimage/110328564/0050dfa0b65c742713eddd5751bf005d.jpg?size=200)
 
 I work in [Psychology](http://www2.hull.ac.uk/science/psychology.aspx) at the University of Hull
 
