@@ -2,8 +2,8 @@
 title: Shane Lindsay
 email: shanelindsay @ gmail com
 description: > # this means to ignore newlines until "baseurl:"
-  I'm a Lecturer at the University of Hull.
-  I study language, memory and vision.
+  Lecturer at the University of Hull
+  Studying language, cognition and the brain
   
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://shanelindsay.github.io" # the base hostname & protocol for your site
