@@ -21,6 +21,6 @@ markdown: kramdown
 theme: minima
 
 tags:
-- web
-- teaching
-- research
+web
+teaching
+research
