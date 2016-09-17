@@ -1,6 +1,10 @@
 # Site settings
 title: Shane Lindsay
 email: shanelindsay @ gmail com
+avatar : "bio-photo.jpg"  # placed in /images/
+bio    : "My awesome biography constrained to a sentence or two goes here."
+email  : # optional
+uri    : "http://your-site.com"
 
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Lecturer at the University of Hull.
@@ -19,11 +23,3 @@ gems:
 # Build settings
 markdown: kramdown
 theme: minima
-
-
-author:
-  name   : "Your Name"
-  avatar : "bio-photo.jpg"  # placed in /images/
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  email  : # optional
-  uri    : "http://your-site.com"
