@@ -1,7 +1,6 @@
 # Site settings
 title: Shane Lindsay
 email: shanelindsay @ gmail com
-avatar : "bio-photo.jpg"  # placed in /images/
 
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Lecturer at the University of Hull.
