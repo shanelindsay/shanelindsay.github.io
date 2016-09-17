@@ -1,6 +1,7 @@
 ---
 layout: page
 title: tags
+permalink: /tags/
 published: true
 ---
 
