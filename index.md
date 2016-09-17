@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-!(me.jpg)
+![picture of me](me.jpg)
 
 I work in [Psychology](http://www2.hull.ac.uk/science/psychology.aspx) at the University of Hull
 
