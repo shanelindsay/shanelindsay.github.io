@@ -15,9 +15,6 @@ gems:
   - jekyll-sitemap
 
 
-header:
-  teaser: photo of me shane lindsay.jpg
-
 # Build settings
 markdown: kramdown
 theme: minima
@@ -25,10 +22,3 @@ theme: minima
 # analytics
 google_analytics: UA-NNNNNNNN-N
 
-
-author:
-  name   : "Your Name"
-  avatar : "bio-photo.jpg"  # placed in /images/
-  bio    : "My awesome biography constrained to a sentence or two goes here."
-  email  : # optional
-  uri    : "http://your-site.com"
