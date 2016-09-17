@@ -1,7 +1,6 @@
 # Site settings
 title: Shane Lindsay
 email: shanelindsay @ gmail com
-
 description: > # this means to ignore newlines until "baseurl:"
   I'm a Lecturer at the University of Hull.
   I study language, memory and vision.
@@ -10,6 +9,7 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://shanelindsay.github.io" # the base hostname & protocol for your site
 twitter_username: shanelindsay
 github_username:  shanelindsay
+avatar: "me.jpg"
 permalink: /blog/:year/:month/:title.html
 
 
