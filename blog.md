@@ -1,13 +1,13 @@
 ---
 title: blog
-layout: default
+layout: page
 permalink: /blog/
 published: true
 ---
 
-# <h3><a href="http://thomasleeper.com/blog.html">blog</a> > {{ page.title}} </h3>
+ <h3><a href="http://thomasleeper.com/blog.html">blog</a> > {{ page.title}} </h3>
 
-[//]: # <h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
+ <h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
 </h2>
 <div>
 {{ site.posts.first.excerpt }} <a style="font-size: .8em; font-style: italic;" href="{{ site.url }}{{ site.posts.first.url }}">...continue reading</a>
