@@ -33,7 +33,7 @@ published: true
 {% endfor %}
 </ul>
 
-<a href="http://thomasleeper.com/feed.xml">[RSS Feed]</a>
+<a href="https://shanelindsay.github.io/feed.xml">[RSS Feed]</a>
 
 <br />
 
