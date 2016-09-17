@@ -1,6 +1,9 @@
 ---
 layout: default
 ---
+
+(me.jpg)
+
 I work in [Psychology](http://www2.hull.ac.uk/science/psychology.aspx) at the University of Hull
 
 I primarily [teach](/teach/) research methods and statistics. 
