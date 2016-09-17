@@ -4,5 +4,7 @@ title: about
 permalink: /about/
 ---
 
-* Here is a bulleted teaching point!
-* Here's another! 
+I was born in Fiji. I have never been back.
+
+* I did a post doc at Dundee
+* And one at York 
