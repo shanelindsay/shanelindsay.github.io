@@ -9,7 +9,6 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://shanelindsay.github.io" # the base hostname & protocol for your site
 twitter_username: shanelindsay
 github_username:  shanelindsay
-[official University profile](http://www2.hull.ac.uk/science/psychology/ourstaff/academics/shanelindsay.aspx)
 permalink: /blog/:year/:month/:title.html
 gems:
   - jekyll-sitemap
@@ -18,3 +17,4 @@ gems:
 # Build settings
 markdown: kramdown
 theme: minima
+
