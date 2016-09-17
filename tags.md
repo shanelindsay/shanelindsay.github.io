@@ -1,6 +1,7 @@
 ---
 layout: page
-title: Tags
+title: tags
+published: true
 ---
 
 <div class='list-group'>
