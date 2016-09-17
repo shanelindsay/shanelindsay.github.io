@@ -7,13 +7,13 @@ published: true
 
 I was born in Fiji. I have never been back, yet. 
 
-I grew up in a village called Cottenham, outside of Cambridge. After which I lived in Hatfield, St. Albans, Brighton, York, Dundee and Hull.
+I grew up in a village called Cottenham, outside of Cambridge (on a small island on the coast of Europe). After which I lived in Hatfield, St. Albans, Brighton, York, Dundee and Hull.
 
-I have a wife, [whippet](https://www.facebook.com/media/set/?set=a.10155519003550461.1073741838.833460460&type=1&l=575527ce88), and a whippersnapper.  
+I have a wife, whippet, and a whippersnapper.  
 
 Also, two cats.
 
-## web presence
+## things on the web
 
 [Google plus](https://plus.google.com/+ShaneLindsayDr/)
 
