@@ -14,7 +14,7 @@ facebook: shanelindsay
 
 permalink: /blog/:year/:month/:title.html
 
- disqus:
+disqus:
     shortname: shanelindsay
 
 gems:
