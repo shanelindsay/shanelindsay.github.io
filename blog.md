@@ -1,10 +1,11 @@
 ---
 title: blog
 layout: default
-permalink: /blog.html
+permalink: /blog/
+published: true
 ---
 
-<h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>
+# <h3><a href="http://thomasleeper.com/blog.html">Blog</a> > {{ page.title}} </h3>
 
 <h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a></h2>
 <div>
