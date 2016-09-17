@@ -9,9 +9,8 @@ description: > # this means to ignore newlines until "baseurl:"
 url: "https://shanelindsay.github.io" # the base hostname & protocol for your site
 twitter_username: shanelindsay
 github_username:  shanelindsay
-# vatar: "me.jpg"
-permalink: /blog/:year/:month/:title.html
 
+permalink: /blog/:year/:month/:title.html
 
 gems:
   - jekyll-sitemap
