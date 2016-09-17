@@ -5,9 +5,11 @@ published: true
 
 ![picture of me](https://en.gravatar.com/userimage/110328564/0050dfa0b65c742713eddd5751bf005d.jpg?size=200)
 
-I work in [Psychology](http://www2.hull.ac.uk/science/psychology.aspx) at the University of Hull
+I work at a lecturer in [Psychology](http://www2.hull.ac.uk/science/psychology.aspx) at the University of Hull. 
 
-I primarily [teach](/teach/) research methods and statistics. 
+I do [research](research) on language, cognition and cognitive neuroscience. 
 
-Here's how you link to a [webpage in your site](/teaching/), and
-here's a link to an [external site](https://www.google.com)
+I primarily [teach](/teaching/) research methods and statistics. 
+
+Here is my [official Uni page](http://www2.hull.ac.uk/science/psychology/ourstaff/academics/shanelindsay.aspx)
+
