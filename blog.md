@@ -6,7 +6,7 @@ published: true
 ---
 
 
-<h3><a href="http://thomasleeper.com/blog.html">blog</a> > {{ page.title}} </h3>
+[//]: # ( <h3><a href="http://thomasleeper.com/blog.html">blog</a> > {{ page.title}} </h3> )
 
 <h2>Latest Post: <a href="{{ site.url }}{{ site.posts.first.url }}">{{ site.posts.first.title }}</a>
 </h2>
