@@ -15,9 +15,8 @@ While psycholinguistics has been a focus in my research, understanding how langu
 ---
 
 # Word learning
-This work has concentrated how adults learn new words. 
 
-Some of this research was funded by ERSC grant in calloboration with Gareth Gaskell.
+This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
 
 Cairney, S. A., Lindsay, S., Sobczak, J. M., Paller, K. A., Gaskell, M. G. (in press). [The benefits of targeted memory reactivation for consolidation in sleep are contingent on memory accuracy and direct cue-memory associations.](https://dl.dropboxusercontent.com/u/2241767/papers/MS%20%23%20SP-00533-15.pdf). Sleep, 39(5), DOI: pii: sp-00533-15
 
@@ -41,6 +40,8 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 
 # Langugage, vision and event representation
 
+This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
+
 Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/Event%20processing%20in%20the%20visual%20world%20-%20Projected%20motion%20paths%20during%20spoken%20sentence%20comprehension.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
 
 Lindsay, S., Scheepers, C., & Kamide, Y. (2013). [To Dash or to Dawdle: Verb-Associated Speed of Motion Influences Eye Movements during Spoken Sentence Comprehension](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067187). PLOS ONE, 8(6), e67187.
@@ -52,7 +53,7 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and lingu
 
 # Speech perception and the motor system 
 
-While some of research has looked at the invovlement of motor and perceptual systems in language processin, contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
+While some of my research has looked at the invovlement of motor and perceptual systems in language processin, contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
 
 Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
 
@@ -60,7 +61,7 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 ---
 
 # Meditation
+
 I have an interest in Zen and Vipassana meditation, which led to this paper on what might be happening in the brain in certain meditative states.
 
 Lindsay, S. (2014). [Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states.](https://dl.dropboxusercontent.com/u/2241767/papers/1-s2.0-S0306987714002709-main.pdf) Medical Hypotheses. 83(4), 465-472.DOI: 10.1016/j.mehy.2014.07.01
-
