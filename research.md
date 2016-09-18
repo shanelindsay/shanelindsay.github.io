@@ -40,13 +40,22 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 ---
 
 # Langugage, vision and event representation
-Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/Event%20processing%20in%20the%20visual%20world%20-%20Projected%20motion%20paths%20during%20spoken%20sentence%20comprehension.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
 
-Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
+Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/Event%20processing%20in%20the%20visual%20world%20-%20Projected%20motion%20paths%20during%20spoken%20sentence%20comprehension.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
 
 Lindsay, S., Scheepers, C., & Kamide, Y. (2013). [To Dash or to Dawdle: Verb-Associated Speed of Motion Influences Eye Movements during Spoken Sentence Comprehension](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067187). PLOS ONE, 8(6), e67187.
 
 Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and linguistic aspects of visual imagery in sentence comprehension](https://dl.dropboxusercontent.com/u/2241767/papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf). Cognitive Science, 31, 733–764.
+
+
+---
+
+# Speech perception and the motor system 
+
+While some of research has looked at the invovlement of motor and perceptual systems in language processin, contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
+
+Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
+
 
 ---
 
