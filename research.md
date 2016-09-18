@@ -22,7 +22,7 @@ Lindsay, S., Sedin, L., & Gaskell, M. G. (2012). Acquiring novel words and their
 
 Lindsay, S. & Gaskell, M.G. (2012). Word learning and lexical development across the lifespan. In N. Seel (Ed.), Encyclopaedia of the Sciences of Learning (pp. 3465-3467), New York: Springer.
 
-Lindsay, S. & Gaskell, M. G. (2010). A complementary systems account of word learning in L1 and L2. Language Learning, 60, 45-63.
+Lindsay, S. & Gaskell, M. G. (2010). [A complementary systems account of word learning in L1 and L2](https://dl.dropboxusercontent.com/u/2241767/papers/j.1467-9922.2010.00600.x.pdf). Language Learning, 60, 45-63.
 
 Lindsay, S. & Gaskell, M. G. (2009). Spaced learning and the lexical integration of novel words. In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2517-2522). Austin, TX: Cognitive Science Society.
 
@@ -38,8 +38,3 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). Spatial and lingui
 # Meditation
 
 ...
-
-
-
-
-
