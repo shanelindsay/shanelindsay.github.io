@@ -7,7 +7,7 @@ published: true
 I run **CogLan** - _the **Cog**nition and **Lan**guage research laboratory_. See the [research](/research) page for some more information on some of the research areas of the lab. 
 
 ## Kit and tools
-We use a variety a methods in the lab to understand cognition, depending on the questions invovled. Two main methods are behavioural techniques (such as measuring reaction time) and tracking visual attention with an Eyelink 1000 eye tracker. We also have access to methods from cognitive neuroscience which include EEG, TMS and tDCS.
+We use a variety a methods in the lab to understand cognition, depending on the questions involved. Two main methods are behavioural techniques (such as measuring reaction time) and tracking visual attention with an Eyelink 1000 eye tracker. We also have access to methods from cognitive neuroscience which include EEG, TMS and tDCS.
 
 Favourite tools in the lab are R (and r-studio), good ole' Excel, Audacity, and DMDX (a free experiment running system on Windows).
 
