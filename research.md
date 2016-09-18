@@ -12,6 +12,7 @@ With a background in cognitive science, I am interested in how humans think. As 
 My research concerns the relationship of the language system with perception, action, sleep and memory. I have a specialisation in psycholinguistics and have conducted studies of language learning, sub-lexical processing, lexical processing and semantics, and discourse level processing. 
 While psycholinguistics has been a focus in my research, understanding how language permeates across the brain naturally leads to investigating other areas. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography.
 
+---
 # Word learning
 This work has concentrated how adults learn new words. 
 
@@ -35,6 +36,7 @@ Lindsay, S. & Gaskell, M. G. (2010). [A complementary systems account of word le
 
 Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integration of novel words](https://dl.dropboxusercontent.com/u/2241767/papers/Spaced%20Learning%20and%20the%20Lexical%20Integration%20of%20Novel%20Words.pdf). In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2517-2522). Austin, TX: Cognitive Science Society.
 
+---
 # Langugage, vision and event representation
 Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/Event%20processing%20in%20the%20visual%20world%20-%20Projected%20motion%20paths%20during%20spoken%20sentence%20comprehension.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
 
@@ -44,6 +46,7 @@ Lindsay, S., Scheepers, C., & Kamide, Y. (2013). [To Dash or to Dawdle: Verb-Ass
 
 Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and linguistic aspects of visual imagery in sentence comprehension](https://dl.dropboxusercontent.com/u/2241767/papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf). Cognitive Science, 31, 733–764.
 
+---
 # Meditation
 I have an interest in Zen and Vipassana meditation, which led to this paper on what might be happening in the brain in certain meditative states.
 
