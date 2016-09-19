@@ -12,12 +12,11 @@ With a background in cognitive science, I am interested in how humans think. As 
 My research concerns the relationship of the language system with perception, action, sleep and memory. I have a specialisation in psycholinguistics and have conducted studies of language learning, sub-lexical processing, lexical processing and semantics, and discourse level processing. 
 While psycholinguistics has been a focus in my research, understanding how language permeates across the brain naturally leads to investigating other areas. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are below.
 
-[Word learning][#foo]
+Word learning
 
 ---
 
-{: id="foo"}
-# Word learning
+# Word learning 
 
 This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
 
@@ -53,6 +52,8 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and lingu
 
 
 ---
+
+![mouth](https://dl.dropboxusercontent.com/u/2241767/images/mouthear.png)
 
 # Speech perception and the motor system 
 
