@@ -17,6 +17,7 @@ While psycholinguistics has been a focus in my research, understanding how langu
 ---
 
 {: id="foo"}
+
 # Word learning
 
 This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
