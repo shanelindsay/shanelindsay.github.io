@@ -15,6 +15,7 @@ While psycholinguistics has been a focus in my research, understanding how langu
 [Word learning][#foo]
 
 ---
+
 {: id="foo"}
 # Word learning
 
