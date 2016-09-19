@@ -67,6 +67,8 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 
 # Meditation
 
+!{hypersynchrony](https://dl.dropboxusercontent.com/u/2241767/images/hypersynchrony.png)
+
 I have an interest in Zen and Vipassana meditation, which led to this paper on what might be happening in the brain in certain meditative states.
 
 Lindsay, S. (2014). [Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states.](https://dl.dropboxusercontent.com/u/2241767/papers/1-s2.0-S0306987714002709-main.pdf) Medical Hypotheses. 83(4), 465-472.DOI: 10.1016/j.mehy.2014.07.01
