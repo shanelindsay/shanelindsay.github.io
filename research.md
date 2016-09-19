@@ -7,14 +7,16 @@ published: true
 
 # Research background
 
-With a background in cognitive science, I am interested in how humans think. As it turns out (and philosophers have known for quite a while), language is integral to thinking. Previously, many took a modular approach to understanding the mind and how language works within it, with the idea that there are separate systems for language, thinking, memory, perception and action. However, my research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. 
+With a background in cognitive science, I am interested in how humans think. As it turns out (and philosophers have known for quite a while), language is integral to thinking. Previously, a popular ideas in cognitive science was a modular approach to understanding the mind and how language works within it, with the idea that there are separate systems for language, thinking, memory, perception and action. However, my research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. 
 
 My research concerns the relationship of the language system with perception, action, sleep and memory. I have a specialisation in psycholinguistics and have conducted studies of language learning, sub-lexical processing, lexical processing and semantics, and discourse level processing. 
 While psycholinguistics has been a focus in my research, understanding how language permeates across the brain naturally leads to investigating other areas. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are below.
 
+[Word learning][# Word learning]
+
 ---
 
-# Word learning
+# [Word learning]
 
 This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
 
