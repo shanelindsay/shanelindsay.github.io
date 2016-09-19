@@ -67,7 +67,7 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 
 # Meditation
 
-!{hypersynchrony](https://dl.dropboxusercontent.com/u/2241767/images/hypersynchrony.png)
+![hypersynchrony](https://dl.dropboxusercontent.com/u/2241767/images/hypersynchrony.png)
 
 I have an interest in Zen and Vipassana meditation, which led to this paper on what might be happening in the brain in certain meditative states.
 
