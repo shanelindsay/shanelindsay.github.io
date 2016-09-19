@@ -55,7 +55,7 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and lingu
 
 ---
 
-![mouth](https://dl.dropboxusercontent.com/u/2241767/images/mouthear.png)
+![mouth](https://dl.dropboxusercontent.com/u/2241767/images/mouthear.png) {: .center-image }
 
 # Speech perception and the motor system 
 
