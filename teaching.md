@@ -1,6 +1,6 @@
 ---
 layout: page
-title: teaching
+title: teaching and learning
 permalink: /teaching/
 published: true
 ---
