@@ -15,7 +15,7 @@ whippet
 
 ![whippet](https://dl.dropboxusercontent.com/u/2241767/images/smidge_puppy.jpg)
 
-and whippersnapper
+and whippersnapper.
 
 ![baby](https://dl.dropboxusercontent.com/u/2241767/images/arlo.jpg)
 
