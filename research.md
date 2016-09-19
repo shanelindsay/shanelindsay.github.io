@@ -40,6 +40,8 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 
 ---
 
+![eyes](https://dl.dropboxusercontent.com/u/2241767/images/Eyes.jpg)
+
 # Langugage, vision and event representation
 
 This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
