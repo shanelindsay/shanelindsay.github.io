@@ -1,7 +1,7 @@
 ---
 layout: page
 title: teaching and learning
-permalink: /teaching/
+permalink: /teaching and learning/
 published: true
 ---
 
