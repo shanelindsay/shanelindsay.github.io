@@ -63,7 +63,6 @@ While some of my research has looked at the invovlement of motor and perceptual 
 
 Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
 
-
 ---
 
 # Meditation
