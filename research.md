@@ -14,6 +14,7 @@ While psycholinguistics has been a focus in my research, understanding how langu
 
 ---
 
+
 ![words](https://dl.dropboxusercontent.com/u/2241767/images/words.jpg)
 
 # Word learning 
@@ -39,6 +40,7 @@ Lindsay, S. & Gaskell, M. G. (2010). [A complementary systems account of word le
 Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integration of novel words](https://dl.dropboxusercontent.com/u/2241767/papers/Spaced%20Learning%20and%20the%20Lexical%20Integration%20of%20Novel%20Words.pdf). In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2517-2522). Austin, TX: Cognitive Science Society.
 
 ---
+
 
 ![eyes](https://dl.dropboxusercontent.com/u/2241767/images/Eyes.jpg)
 
