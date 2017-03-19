@@ -15,8 +15,6 @@ While psycholinguistics has been a focus in my research, understanding how langu
 ---
 
 
-![words](https://dl.dropboxusercontent.com/u/2241767/images/words.jpg)
-
 # Word learning 
 
 This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
@@ -42,8 +40,6 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 ---
 
 
-![eyes](https://dl.dropboxusercontent.com/u/2241767/images/Eyes.jpg)
-
 # Langugage, vision and event representation
 
 This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
@@ -57,8 +53,6 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and lingu
 
 ---
 
-![mouth](https://dl.dropboxusercontent.com/u/2241767/images/mouthear.png)
-
 # Speech perception and the motor system 
 
 While some of my research has looked at the invovlement of motor and perceptual systems in language processin, contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
@@ -67,7 +61,6 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 
 ---
 
-![hypersynchrony](https://dl.dropboxusercontent.com/u/2241767/images/hypersynchrony.png)
 
 # Meditation
 
