@@ -29,7 +29,7 @@ Lindsay, S., Frost, R., Guest, J., Snowden, R., & Stackhouse, A. (2014). [Sleep 
 
 Satzuki, N., Lindsay, S., & Ota, M. (2015). [A prerequisite to L1 homophone effects in L2 spoken-word recognition](10.1177-0267658314534661.pdf). Language Learning. 31(1), 29-52. DOI: 10.1177/0267658314534661
 
-Lindsay, S., & Gaskell, M. G. (2013). [Lexical integration of novel words without sleep](lexical_integration_of_novel_words_without_sleep..pdf). Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622.
+Lindsay, S., & Gaskell, M. G. (2013). [Lexical integration of novel words without sleep](lexical_integration_of_novel_words_without_sleep.pdf). Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622.
 
 Lindsay, S., Sedin, L., & Gaskell, M. G. (2012). [Acquiring novel words and their past tenses: Evidence from lexical effects on phonetic categorisation](1-s2.0-S0749596X11000763-main.pdf). Journal of Memory and Language, 66(1), 210–225.
 
@@ -46,7 +46,7 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 
 This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
 
-Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](Event_processing_in_the_visual_world.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
+Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](Event_processing_in_the_visual_world.pdf) Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
 
 Lindsay, S., Scheepers, C., & Kamide, Y. (2013). [To Dash or to Dawdle: Verb-Associated Speed of Motion Influences Eye Movements during Spoken Sentence Comprehension](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067187). PLOS ONE, 8(6), e67187.
 
