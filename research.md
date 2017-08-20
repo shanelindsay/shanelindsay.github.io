@@ -15,9 +15,11 @@ While psycholinguistics has been a focus in my research, understanding how langu
 ---
 
 
-# Word learning 
+# Word learning, sleep and memory
 
-This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
+This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell and Scott Cairney. 
+
+Cairney, S. A., Sobczak, J. M., Lindsay, S., & Gaskell, M. G. (2017).  [Mechanisms of Memory Retrieval in Slow-Wave Sleep](https://academic.oup.com/sleep/article/doi/10.1093/sleep/zsx114/3930896/Mechanisms-of-Memory-Retrieval-in-Slow-Wave-Sleep). Sleep, zsx114.
 
 Cairney, S. A., Lindsay, S., Sobczak, J. M., Paller, K. A., Gaskell, M. G. (2017). [The benefits of targeted memory reactivation for consolidation in sleep are contingent on memory accuracy and direct cue-memory associations.](https://academic.oup.com/sleep/article/39/5/1139/2454061/The-Benefits-of-Targeted-Memory-Reactivation-for). Sleep, 39(5), DOI: pii: sp-00533-15
 
