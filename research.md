@@ -35,7 +35,7 @@ Lindsay, S. & Gaskell, M.G. (2012). [Word learning and lexical development acros
 
 Lindsay, S. & Gaskell, M. G. (2010). [A complementary systems account of word learning in L1 and L2](j.1467-9922.2010.00600.x.pdf). Language Learning, 60, 45-63.
 
-Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integration of novel words](https://dl.dropboxusercontent.com/u/2241767/papers/Spaced%20Learning%20and%20the%20Lexical%20Integration%20of%20Novel%20Words.pdf). In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2517-2522). Austin, TX: Cognitive Science Society.
+Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integration of novel words](Spaced%20Learning%20and%20the%20Lexical%20Integration%20of%20Novel%20Words.pdf). In N.A. Taatgen & H. van Rijn (Eds.), Proceedings of the 31st Annual Conference of the Cognitive Science Society (pp. 2517-2522). Austin, TX: Cognitive Science Society.
 
 ---
 
