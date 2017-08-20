@@ -44,11 +44,11 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 
 This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
 
-Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](https://dl.dropboxusercontent.com/u/2241767/papers/Event%20processing%20in%20the%20visual%20world%20-%20Projected%20motion%20paths%20during%20spoken%20sentence%20comprehension.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
+Kamide, Y., Lindsay. S., Scheepers, C., & Kukona, A. (2016).  [Event processing in the visual world: Projected motion paths during spoken sentence comprehension.](Event%20processing%20in%20the%20visual%20world%20-%20Projected%20motion%20paths%20during%20spoken%20sentence%20comprehension.pdf)Journal of Experimental Psychology: Learning, Memory, and Cognition. 42(5), 804-812.
 
 Lindsay, S., Scheepers, C., & Kamide, Y. (2013). [To Dash or to Dawdle: Verb-Associated Speed of Motion Influences Eye Movements during Spoken Sentence Comprehension](http://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067187). PLOS ONE, 8(6), e67187.
 
-Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and linguistic aspects of visual imagery in sentence comprehension](https://dl.dropboxusercontent.com/u/2241767/papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf). Cognitive Science, 31, 733–764.
+Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and linguistic aspects of visual imagery in sentence comprehension](Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf). Cognitive Science, 31, 733–764.
 
 
 ---
@@ -66,7 +66,7 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 
 I have an interest in Zen and Vipassana meditation, which led to this paper on what might be happening in the brain in certain meditative states.
 
-Lindsay, S. (2014). [Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states.](https://dl.dropboxusercontent.com/u/2241767/papers/1-s2.0-S0306987714002709-main.pdf) Medical Hypotheses. 83(4), 465-472.DOI: 10.1016/j.mehy.2014.07.01
+Lindsay, S. (2014). [Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states.](1-s2.0-S0306987714002709-main.pdf) Medical Hypotheses. 83(4), 465-472.DOI: 10.1016/j.mehy.2014.07.01
 
 
 ---
