@@ -19,7 +19,7 @@ While psycholinguistics has been a focus in my research, understanding how langu
 
 This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell.
 
-Cairney, S. A., Lindsay, S., Sobczak, J. M., Paller, K. A., Gaskell, M. G. (in press). [The benefits of targeted memory reactivation for consolidation in sleep are contingent on memory accuracy and direct cue-memory associations.](https://dl.dropboxusercontent.com/u/2241767/papers/MS%20%23%20SP-00533-15.pdf). Sleep, 39(5), DOI: pii: sp-00533-15
+Cairney, S. A., Lindsay, S., Sobczak, J. M., Paller, K. A., Gaskell, M. G. (in press). [The benefits of targeted memory reactivation for consolidation in sleep are contingent on memory accuracy and direct cue-memory associations.](MS%20%23%20SP-00533-15.pdf). Sleep, 39(5), DOI: pii: sp-00533-15
 
 Tham, E., Lindsay, S., & Gaskell, M.G. (2015). [Markers of automaticity in sleep-associated consolidation of novel words](https://dl.dropboxusercontent.com/u/2241767/papers/Tham%20Lindsay%20Gaskell%20Neuropsychologia%202015.pdf). Neuropsychologia, 71, 146-5. DOI: 10.1016/j.neuropsychologia.2015.03.025
 
