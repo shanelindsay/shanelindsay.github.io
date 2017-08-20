@@ -29,7 +29,7 @@ Lindsay, S., Frost, R., Guest, J., Snowden, R., & Stackhouse, A. (2014). [Sleep 
 
 Satzuki, N., Lindsay, S., & Ota, M. (2015). [A prerequisite to L1 homophone effects in L2 spoken-word recognition](10.1177-0267658314534661.pdf). Language Learning. 31(1), 29-52. DOI: 10.1177/0267658314534661
 
-Lindsay, S., & Gaskell, M. G. (2013). [Lexical integration of novel words without sleep](lexical_integration_of_novel_words_without_sleep.pdf). Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622.
+Lindsay, S., & Gaskell, M. G. (2013). [Lexical integration of novel words without sleep](https://www.researchgate.net/profile/Shane_Lindsay/publication/229007079_Lexical_Integration_of_Novel_Words_Without_Sleep/links/54d0e1070cf29ca81103f70e.pdf). Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622.
 
 Lindsay, S., Sedin, L., & Gaskell, M. G. (2012). [Acquiring novel words and their past tenses: Evidence from lexical effects on phonetic categorisation](1-s2.0-S0749596X11000763-main.pdf). Journal of Memory and Language, 66(1), 210–225.
 
