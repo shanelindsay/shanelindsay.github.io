@@ -12,13 +12,13 @@ As a cognitive scientist interested in how humans learn, think and understand la
 ### Exemplar based peer assessment
 Increasing capability in assessment and self-regulation through multiple choice marking of exemplars
 
-With [Stuart McGugan](http://www2.hull.ac.uk/administration/leap/whos-who-2/s_mcgugan.aspx), I am working on a project to develop student understanding of assessment. This research has been supported by a Pedagogic Development Grant from the University of Hull.
+With Dr Stuart McGugan, I am working on a project to develop student understanding of assessment. This research has been supported by a Pedagogic Development Grant from the University of Hull.
 
 This work is ongoing and has been presented at conferences including [UK STEM 2016](https://ukstemconference.wordpress.com/).
 
 There is a growing body of evidence which indicates that the potential learning benefits of providing students with feedback, however well crafted, are often not realised, with many students not valuing or understanding the feedback provided [Sadler](https://uofa.ualberta.ca/-/media/ualberta/centre-for-teaching-and-learning/symposium/less-teaching-more-learning-2009/royce-sadler/articles/symposiumltmlroyce-sadlerbeyond-feedback--developing-student-capability-in-complex-appraisal.pdf) has argued that for students to benefit from feedback they must first possess the ability to make a comparison between their own performance and an expected standard. However, statements of assessment standards often fail to provide both students and staff with the effective transfer of both explicit and tacit assessment knowledge. To address this concern, as well as focusing on the quality of feedback messages, we argue that teachers in higher education should focus their efforts on strengthening skills of self-assessment amongst their students, which is helped by exposure to a range of exemplars. 
 
-### Promoting ipsative feedback with self-reflective cover sheets
+### Promoting ipsative feedback with self-reflective cover sheets (with Dr Stuart McGugan)
 
 The ideology of competitive assessment regimes are deeply embedded in HE. While benefiting some students, for others the experience may damage self-esteem, reduce motivation and undermine learning. Ipsative assessment is based on the idea of assessing progress against a prior performance. It is argued to be motivational as ‘most of the time, most people will not achieve excellence, but most people can make improvements most of the time’ (Hughes, 2014, p.1). However introducing ipsative assessment offers a very practical challenge for many programmes in knowing what progress/ipsative feedback to provide and how to make this happen. 
 
