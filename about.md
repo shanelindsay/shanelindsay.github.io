@@ -9,18 +9,17 @@ I was born in Fiji. I have never been back, yet. I grew up in a village called C
 
 I have a wife
 
-![wife](https://dl.dropboxusercontent.com/u/2241767/images/IMG_20150626_153546-01.jpeg)
+![wife](images/IMG_20150626_153546-01.jpeg)
 
 whippet
 
-![whippet](https://dl.dropboxusercontent.com/u/2241767/images/smidge_puppy.jpg)
+![whippet](images/smidge_puppy.jpg)
 
 and whippersnapper.
 
-![baby](https://dl.dropboxusercontent.com/u/2241767/images/arlo.jpg)
+![baby](images/arlo.jpg)
 
 Also, two cats.
-
 
 
 ## things on the web
@@ -28,7 +27,6 @@ Also, two cats.
 [Google plus](https://plus.google.com/+ShaneLindsayDr/)
 
 [Facebook](https://www.facebook.com/shane.r.w.lindsay)
-
 
 [Academia.edu](https://hull.academia.edu/ShaneLindsay)
 
