@@ -19,7 +19,7 @@ While psycholinguistics has been a focus in my research, understanding how langu
 
 This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell and Scott Cairney. 
 
-Cairney, S.A., Lindsay, S., Paller, K.A. & Gaskell, M.G. (2018). [Sleep Preserves Original and Distorted Memory Traces. Cortex, 99, 39-44.](papers/cairney2017.pdf)
+Cairney, S.A., Lindsay, S., Paller, K.A. & Gaskell, M.G. (2018). [Sleep Preserves Original and Distorted Memory Traces. ](papers/cairney2017.pdf) Cortex, 99, 39-44.
 
 Cairney, S. A., Sobczak, J. M., Lindsay, S., & Gaskell, M. G. (2017).  [Mechanisms of Memory Retrieval in Slow-Wave Sleep](https://academic.oup.com/sleep/article/doi/10.1093/sleep/zsx114/3930896/Mechanisms-of-Memory-Retrieval-in-Slow-Wave-Sleep). Sleep, zsx114.
 
