@@ -62,9 +62,10 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 
 ---
 
-# Meditation
+# **Meditation**
 
 Lindsay, S. (2014). [Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states.](1-s2.0-S0306987714002709-main.pdf) Medical Hypotheses. 83(4), 465-472.DOI: 10.1016/j.mehy.2014.07.01
 
 ---
+
 The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut).
