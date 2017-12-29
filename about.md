@@ -5,8 +5,6 @@ permalink: /about/
 published: true
 ---
 
-I was born in Fiji. I have never been back, yet. I grew up in a village called Cottenham, outside of Cambridge (on a small island on the coast of Europe). After which I lived in Hatfield, St. Albans, Brighton, York, Dundee and Hull.
-
 I have a wife
 
 ![wife](images/IMG_20150626_153546-01.jpeg)
