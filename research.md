@@ -7,17 +7,14 @@ published: true
 
 # Research background
 
-With a background in cognitive science, I am interested in how humans think. As it turns out (and philosophers have known for quite a while), language is integral to thinking. Previously, a popular idea in cognitive science was a modular approach to understanding the mind and how language works within it, with the idea that there are separate systems for language, thinking, memory, perception and action. However, my research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. 
-
-My research concerns the relationship of the language system with perception, action, sleep and memory. I have a specialisation in psycholinguistics and have conducted studies of language learning, sub-lexical processing, lexical processing and semantics, and discourse level processing. 
-While psycholinguistics has been a focus in my research, understanding how language permeates across the brain naturally leads to investigating other areas. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are below.
+I am interested in how humans think. As it turns out, language is integral to thinking. My research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are provided below.
 
 ---
 
 
-# Word learning, sleep and memory
+# **Word learning, sleep and memory**
 
-This work has concentrated on how adults learn new words. This research has been motivated by the idea that we can apply what we know about how learning and memory works to understand how language learning works. And in turn, understanding how language learning works can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell and Scott Cairney. 
+This work has concentrated on how adults learn new words. A key motivation is applying what we know about how learning and memory to understand how language learning works. And in turn, understanding the mechanisms involved in language learning can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell and Scott Cairney. 
 
 Cairney, S.A., Lindsay, S., Paller, K.A. & Gaskell, M.G. (2018). [Sleep Preserves Original and Distorted Memory Traces. ](papers/cairney2017.pdf) Cortex, 99, 39-44.
 
@@ -43,7 +40,7 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 
 ---
 
-# Langugage, vision and event representation
+# **Langugage, vision and event representation**
 
 This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
 
@@ -55,7 +52,8 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and lingu
 
 ---
 
-# Speech perception and the motor system 
+# **Speech perception and the motor system**
+
 Contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
 
 Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
