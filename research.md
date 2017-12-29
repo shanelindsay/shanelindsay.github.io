@@ -7,7 +7,7 @@ published: true
 
 # Research background
 
-With a background in cognitive science, I am interested in how humans think. As it turns out (and philosophers have known for quite a while), language is integral to thinking. Previously, a popular ideas in cognitive science was a modular approach to understanding the mind and how language works within it, with the idea that there are separate systems for language, thinking, memory, perception and action. However, my research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. 
+With a background in cognitive science, I am interested in how humans think. As it turns out (and philosophers have known for quite a while), language is integral to thinking. Previously, a popular idea in cognitive science was a modular approach to understanding the mind and how language works within it, with the idea that there are separate systems for language, thinking, memory, perception and action. However, my research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. 
 
 My research concerns the relationship of the language system with perception, action, sleep and memory. I have a specialisation in psycholinguistics and have conducted studies of language learning, sub-lexical processing, lexical processing and semantics, and discourse level processing. 
 While psycholinguistics has been a focus in my research, understanding how language permeates across the brain naturally leads to investigating other areas. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are below.
@@ -43,7 +43,6 @@ Lindsay, S. & Gaskell, M. G. (2009). [Spaced learning and the lexical integratio
 
 ---
 
-
 # Langugage, vision and event representation
 
 This research has investigated the interaction of visual processing in language comprehension, based on the idea that language comprehension is aided by the visual system in helping us understand events. 
@@ -54,27 +53,18 @@ Lindsay, S., Scheepers, C., & Kamide, Y. (2013). [To Dash or to Dawdle: Verb-Ass
 
 Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and linguistic aspects of visual imagery in sentence comprehension](Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf). Cognitive Science, 31, 733–764.
 
-
 ---
 
 # Speech perception and the motor system 
-
-While some of my research has looked at the invovlement of motor and perceptual systems in language processin, contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
+Contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
 
 Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
 
 ---
 
-
 # Meditation
-
-I have an interest in Zen and Vipassana meditation, which led to this paper on what might be happening in the brain in certain meditative states.
 
 Lindsay, S. (2014). [Can hyper-synchrony in meditation lead to seizures? Similarities in meditative and epileptic brain states.](1-s2.0-S0306987714002709-main.pdf) Medical Hypotheses. 83(4), 465-472.DOI: 10.1016/j.mehy.2014.07.01
 
-
 ---
-
----
-
 The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut).
