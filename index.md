@@ -9,7 +9,7 @@ I work at a lecturer in [Psychology at the University of Hull.](https://www.hull
 
 I do [research](research) on language, cognition and cognitive neuroscience. 
 
-I primarily [teach](/teaching/) research methods and statistics in psychology.
+I primarily [teach](https://shanelindsay.github.io/teaching%20and%20learning/) research methods and statistics in psychology.
 
 Here is my [official University profile](https://www.hull.ac.uk/faculties/staff-profiles/shane-lindsay)
 
