@@ -13,7 +13,7 @@ whippet
 
 ![whippet](images/smidge_puppy.jpg)
 
-and whippersnapper.
+and some whippersnappers.
 
 ![baby](images/arlo.jpg)
 
