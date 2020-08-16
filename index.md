@@ -7,7 +7,7 @@ published: true
 
 I work at a lecturer in [Psychology at the University of Hull.](https://www.hull.ac.uk/faculties/subjects/psychology)
 
-I do [research](research) on language, cognition and cognitive neuroscience, and run the CogLang lab. 
+I do [research](research) on language, cognition and cognitive neuroscience, running the CogLang lab. 
 
 I primarily [teach](https://shanelindsay.github.io/teaching%20and%20learning/) research methods and statistics in psychology.
 
