@@ -8,8 +8,6 @@ published: true
 
 [twitter](https://twitter.com/shanelindsay)
 
-[Google plus](https://plus.google.com/+ShaneLindsayDr/)
-
 [Facebook](https://www.facebook.com/shane.r.w.lindsay)
 
 [Academia.edu](https://hull.academia.edu/ShaneLindsay)
