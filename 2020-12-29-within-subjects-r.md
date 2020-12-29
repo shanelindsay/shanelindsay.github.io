@@ -1,2 +1,0 @@
-## Within-subjects correlation calculation
-
