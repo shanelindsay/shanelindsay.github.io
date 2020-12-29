@@ -12,8 +12,7 @@ We use a variety a methods in the lab to understand cognition, depending on the 
 ## Opportunities
 
 ### Undergraduate
-I am coordinator for the Research Apprenticeship Scheme and a supporter for undergraduate involvement in research. See [here](https://dus.psu.edu/mentor/2013/05/undergraduate-research-students-perspective/) for some reasons you might be interested as an undergraduate. If you are an undergraduate who would like to join us and find out more about research, please contact me to apply. For students interested in working in the lab with me as a third year project supervisor, feel free to drop by or email to discuss any ideas for projects. 
+I am coordinator for the [Research Assistantship Scheme](https://www.hull.ac.uk/faculties/fhs/psychology/research-assistantship-scheme) and am a supporter of undergraduate involvement in research. See [here](https://dus.psu.edu/mentor/2013/05/undergraduate-research-students-perspective/) for some reasons you might be interested as an undergraduate. If you are an undergraduate who would like to join us and find out more about research, please contact me. For students interested in working in the lab with me as a third year project supervisor, feel free to drop by or email to discuss any ideas for projects. 
 
 ### Masters and PhD
-At the University of Hull, we run [two research masters, a MSc, and an MRes.](http://www2.hull.ac.uk/science/psychology/postgraduate/postgraduateresearch.aspx) along with a PhD programme. Please contact me if you are interested in applying. We perodically have funded PhD scholarships from the University and the ERSC, which should be advertised nationally. Self-funded PhDs are welcome. 
-
+At the University of Hull, we run [two research masters, a MSc, and an MRes.](http://www2.hull.ac.uk/science/psychology/postgraduate/postgraduateresearch.aspx) along with a PhD programme. Please contact me if you are interested in applying. We perodically have funded PhD scholarships from the University and the ERSC, which should be advertised nationally. Self-funded PhDs are welcome.
