@@ -5,7 +5,7 @@ permalink: /teaching and learning/
 published: true
 ---
 
-I primarily teach research methods and statistics at the University of Hull. I am module leader for Research Skills 2, a first year research methods and statistics module, and Group Challenge: Psychology in Context, a research methods module based on a group project.
+I primarily teach research methods and statistics in psychology at the University of Hull. I am module leader for Research Skills 2, a first year research methods and statistics module.
 
 ## Projects
 
