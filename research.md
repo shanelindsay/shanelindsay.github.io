@@ -9,6 +9,8 @@ published: true
 
 I am interested in how humans think. As it turns out, language is very integral to thinking. My research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are provided below.
 
+Some more recent publications [can be found in my Worktribe profile (our University research output management system)](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs)
+
 ---
 
 
@@ -65,5 +67,5 @@ Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The se
 Tseng, H., Lindsay, S., & Davis, C. J. (2019). Author accepted manuscript: Semantic interpretability does not influence masked priming effects. Quarterly Journal of Experimental Psychology, 1747021819896766.
 
 ---
-
-The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut).
+---
+The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder. 
