@@ -59,7 +59,7 @@ Bergen, B., Lindsay, S., Matlock, T., & Narayanan, S. (2007). [Spatial and lingu
 
 Contrary to some claims from embodied cognition, this research provides evidence against the idea that premotor component of the speech production system is involved in speech perception.
 
-Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](/papers/jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
+Krieger-Redwood, K., Gaskell, M.G., Lindsay, S., & Jefferies, B. (2013). [The selective role of dorsal premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension.](/papers/ jocn_a_00463_1_.pdf) Journal of Cognitive Neuroscience, 25(12), 2179-2188.
 
 ---
 
