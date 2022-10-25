@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-![picture of me](https://en.gravatar.com/userimage/110328564/0050dfa0b65c742713eddd5751bf005d.jpg?size=200)
+![picture of me](images/me.jpg)
 
 I work as a lecturer in [Psychology at the University of Hull.](https://www.hull.ac.uk/faculties/subjects/psychology)
 
