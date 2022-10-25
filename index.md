@@ -3,7 +3,7 @@ layout: default
 published: true
 ---
 
-![picture of me](/images/me.jpg)
+<img src="/images/me.jpg" width="200" />
 
 I work as a lecturer in [Psychology at the University of Hull.](https://www.hull.ac.uk/faculties/subjects/psychology)
 
