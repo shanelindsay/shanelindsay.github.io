@@ -2,10 +2,10 @@
 layout: page
 title: research
 permalink: /research/
-published: true
+published: true 
 ---
 
-# Research background
+# Research background 
 
 I am interested in how humans "think". As it turns out, language is integral to "thinking". My research goal has been to understand the embedding of the language system in its broader context of a brain specialised for the goals of perception and action, rather than seeing language as an isolated modular system. This research has used behavioural measures, eye tracking and cognitive neuroscience methods, including fMRI, TMS and polysomnography. Publications arranged by topic are available
 below.
