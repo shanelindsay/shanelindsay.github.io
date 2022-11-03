@@ -17,7 +17,7 @@ Some more recent publications [can be found in my Worktribe profile (our Univers
 
 # **Word learning, sleep and memory**
 
-This work has concentrated on how adults learn new words. A key motivation is applying what we know about how learning and memory to understand how language learning works. And in turn, understanding the mechanisms involved in language learning can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell and Scott Cairney. 
+This work has focused on how adults learn new words. A key motivation is applying what we know about how learning and memory to understand how language learning works. And in turn, understanding the mechanisms involved in language learning can help inform models of memory. Some of this research was funded by an ERSC grant in colloboration with Gareth Gaskell and Scott Cairney. 
 
 Cairney, S.A., Lindsay, S., Paller, K.A. & Gaskell, M.G. (2018). [Sleep Preserves Original and Distorted Memory Traces. ](papers/cairney2017.pdf) Cortex, 99, 39-44.
 
