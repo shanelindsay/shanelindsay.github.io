@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: research
 permalink: /research/
 published: true
 ---
@@ -105,4 +105,6 @@ This section gathers interdisciplinary studies and projects that extend beyond m
 
 ---
 
-*These documents represent a selection of my work. For a comprehensive list of publications, please visit my full outputs on [Worktribe](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs). All rights are maintained by the respective authors or copyright holders.*
+*These documents represent a selection of my work. For a comprehensive list of publications, please visit my full outputs on [Worktribe](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs). 
+
+The documents distributed here have been provided as a means to ensure timely dissemination of scholarly and technical work on a noncommercial basis. Copyright and all rights therein are maintained by the authors or by other copyright holders, notwithstanding that they have offered their works here electronically. It is understood that all persons copying this information will adhere to the terms and constraints invoked by each author's copyright. These works may not be reposted without the explicit permission of the copyright holder. (Notice borrowed from Dave Plaut).
