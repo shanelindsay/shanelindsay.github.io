@@ -1,6 +1,6 @@
 ---
 layout: page
-title: research
+title: Research
 permalink: /research/
 published: true
 ---
@@ -83,7 +83,7 @@ This work examines how visual systems and language co-operate to create dynamic 
 - **Spatial and Linguistic Aspects of Visual Imagery in Sentence Comprehension (2007)**  
   Bergen, B., Lindsay, S., Matlock, T. & Narayanan, S. (2007). [Spatial and Linguistic Aspects of Visual Imagery in Sentence Comprehension.](papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf) *Cognitive Science, 31*, 733–764.
 
-## Statistics and ResearchMethods
+## Statistics and Research Methods
 
 Focusing on measurement precision and methodological rigor in developmental and cognitive research, this theme showcases my contributions to improving research practices:
 

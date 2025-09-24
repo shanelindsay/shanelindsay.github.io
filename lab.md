@@ -1,10 +1,10 @@
 ---
 layout: page
-title: lab
+title: Lab
 permalink: /lab/
 published: true
 ---
-I run the **CogLang** - _the **Cog**nition and **Lang**uage Laboratory_. See the [research](/research) page for more information on research in the lab. 
+I run the **CogLang** - _the **Cog**nition and **Lang**uage Laboratory_. See the [research]({{ '/research/' | relative_url }}) page for more information on research in the lab. 
 
 ## Kit and tools
 We use a variety a methods in the lab to understand cognition, depending on the questions involved. Two main methods are behavioural techniques (such as measuring reaction time) and tracking visual attention with an Eyelink 1000 eye tracker. We also have access to methods from cognitive neuroscience which include EEG, TMS and tDCS.

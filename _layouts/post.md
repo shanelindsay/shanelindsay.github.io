@@ -13,10 +13,10 @@ layout: default
 
 <p>
 {% if page.previous %} 
-    <a rel="prev" style="float:left;" href="{{ page.previous.url }}">&larr; Older post</a>
+    <a rel="prev" style="float:left;" href="{{ page.previous.url | relative_url }}">&larr; Older post</a>
 {% endif %}
 {% if page.next %} 
-    <a rel="next" style="float:right;" href="{{ page.next.url }}">Newer post &rarr;</a>
+    <a rel="next" style="float:right;" href="{{ page.next.url | relative_url }}">Newer post &rarr;</a>
 {% endif %}
 </p>
 <br />
