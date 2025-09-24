@@ -1,8 +1,10 @@
 ---
 layout: page
-title: teaching and learning
-permalink: /teaching and learning/
+title: Teaching and Learning
+permalink: /teaching-and-learning/
 published: true
+redirect_from:
+  - "/teaching and learning/"
 ---
 
 I teach research methods and statistics in psychology at the University of Hull. I am module leader for Research Skills 2, a first year research methods and statistics module.

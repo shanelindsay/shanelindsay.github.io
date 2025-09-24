@@ -7,8 +7,8 @@ description: > # this means to ignore newlines until "baseurl:"
   
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://shanelindsay.github.io" # the base hostname & protocol for your site
-# twitter_username: shanelindsay
-# github_username:  shanelindsay
+twitter_username: shanelindsay
+github_username:  shanelindsay
 facebook: shanelindsay
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
 
@@ -17,8 +17,11 @@ permalink: /blog/:year/:month/:title.html
 disqus:
     shortname: shanelindsay
 
-gems:
+plugins:
   - jekyll-sitemap
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-redirect-from
 
 # Build settings
 markdown: kramdown
@@ -28,3 +31,15 @@ tags:
 - web
 - teaching
 - research
+
+header_pages:
+  - about.md
+  - blog.md
+  - research.md
+  - teaching.md
+  - lab.md
+  - tags.md
+
+timezone: Europe/London
+author: Shane Lindsay
+logo: /images/me.jpg
