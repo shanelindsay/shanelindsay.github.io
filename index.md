@@ -4,7 +4,7 @@ title: Shane Lindsay
 published: true
 ---
 
-<img src="{{ '/images/me.jpg' | relative_url }}" alt="Photo of Shane Lindsay" width="200" />
+<img src="{{ '/images/me.jpg' | relative_url }}" alt="Photo of Shane Lindsay" width="150" />
 
 I work as a lecturer in [Psychology at the University of Hull.](https://www.hull.ac.uk/faculties/subjects/psychology)
 
