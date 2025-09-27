@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Teaching and Learning
+title: Teaching
 permalink: /teaching-and-learning/
 published: true
 redirect_from:
