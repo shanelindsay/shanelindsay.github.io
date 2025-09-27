@@ -9,7 +9,7 @@ redirect_from:
 
 I teach research methods and statistics in psychology at the University of Hull. I am module leader for Research Skills 2, a first year research methods and statistics module.
 
-I teach on the third year module "Psychology of AI". 
+I teach on the third year modules "Psychology of AI" and "Psychology of Language". 
 
 ## Projects
 
