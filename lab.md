@@ -3,6 +3,7 @@ layout: page
 title: Lab
 permalink: /lab/
 published: true
+lede: CogLang explores language, cognition, and memory with behavioural and neuroscience tools.
 ---
 I run the **CogLang** - _the **Cog**nition and **Lang**uage Laboratory_. See the [research]({{ '/research/' | relative_url }}) page for more information on research in the lab. 
 
