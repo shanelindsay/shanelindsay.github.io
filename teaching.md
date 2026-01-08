@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching-and-learning/
 published: true
+lede: Module leadership, curriculum design, and supervision across psychology programmes.
 redirect_from:
   - "/teaching and learning/"
 ---

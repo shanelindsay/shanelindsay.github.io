@@ -1,0 +1,58 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" />
+  </head>
+  <body class="layout-{{ page.layout | default: 'default' }} page-{{ page.title | slugify }}">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-shell">
+      <header class="site-header">
+        <div class="container nav">
+          <a class="brand" href="{{ '/' | relative_url }}">
+            <span class="brand-title">{{ site.title }}</span>
+            <span class="brand-subtitle">{{ site.description }}</span>
+          </a>
+          <nav class="nav-links" aria-label="Primary">
+            {% for path in site.header_pages %}
+              {% assign my_page = site.pages | where: "path", path | first %}
+              {% if my_page.title %}
+                <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </nav>
+        </div>
+      </header>
+
+      <main id="main" class="site-main">
+        {{ content }}
+      </main>
+
+      <footer class="site-footer">
+        <div class="container footer-grid">
+          <div>
+            <p class="footer-title">{{ site.title }}</p>
+            <p class="footer-text">Psychology lecturer at the University of Hull. Research on language, cognition, and the brain.</p>
+          </div>
+          <div>
+            <p class="footer-title">Links</p>
+            <div class="footer-links">
+              <a href="https://www.hull.ac.uk/faculties/staff-profiles/shane-lindsay">University profile</a>
+              <a href="https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs">Worktribe outputs</a>
+              <a href="https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en">Google Scholar</a>
+            </div>
+          </div>
+        </div>
+        <div class="container footer-bottom">
+          <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
+          <span>Built with Jekyll + GitHub Pages</span>
+        </div>
+      </footer>
+    </div>
+  </body>
+</html>

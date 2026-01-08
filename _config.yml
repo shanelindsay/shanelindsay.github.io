@@ -27,6 +27,12 @@ plugins:
 markdown: kramdown
 theme: minima
 
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "page"
+
 tags:
 - web
 - teaching

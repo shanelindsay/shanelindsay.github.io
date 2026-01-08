@@ -3,9 +3,10 @@ layout: page
 title: Research
 permalink: /research/
 published: true
+lede: Research themes spanning word learning, sleep, language processing, and methodological rigor.
 ---
 
-# Research Background
+## Research background
 
 I am passionate about understanding how humans think and how language interacts with perception, action, and memory. Rather than viewing language as an isolated system, my work emphasizes its embedded nature within a brain optimized for multiple functions. By combining behavioural methods, eye tracking, and cognitive neuroscience techniques (such as fMRI, TMS, and polysomnography), I explore the dynamic processes underlying language, learning, and memory across the lifespan.
 
@@ -13,11 +14,11 @@ For an up-to-date overview of my scholarly outputs, please visit my [Worktribe p
 
 ---
 
-# Selected Publications
+## Selected publications
 
 My research is organized around several core themes. Below are representative publications grouped by topic.
 
-## Word Learning, Sleep, and Memory
+### Word Learning, Sleep, and Memory
 
 This research investigates how new words are acquired, consolidated, and integrated—with a particular focus on sleep and related factors that shape memory processes.
 
@@ -60,7 +61,7 @@ This research investigates how new words are acquired, consolidated, and integra
 - **Spaced Learning and the Lexical Integration of Novel Words (2009)**  
   Lindsay, S. & Gaskell, M.G. (2009). [Spaced Learning and the Lexical Integration of Novel Words.](papers/Spaced_Learning_and_the_Lexical_Integration_of_Novel_Words.pdf) In *Proceedings of the 31st Annual Conference of the Cognitive Science Society*, Austin, TX.
 
-## Speech Perception and Production
+### Speech Perception and Production
 
 This theme explores how perceptual and motor systems interact in processing spoken language, challenging conventional notions of motor involvement in comprehension.
 
@@ -70,7 +71,7 @@ This theme explores how perceptual and motor systems interact in processing spok
 - **The Selective Role of Dorsal Premotor Cortex in Speech Perception (2013)**  
   Krieger-Redwood, K., Gaskell, M.G., Lindsay, S. & Jefferies, E. (2013). [The Selective Role of Dorsal Premotor Cortex in Speech Perception: A Contribution to Phoneme Judgements but Not Speech Comprehension.](papers/jocn_a_00463_1_.pdf) *Journal of Cognitive Neuroscience, 25(12)*, 2179–2188.
 
-## Language, Vision, and Event Representation
+### Language, Vision, and Event Representation
 
 This work examines how visual systems and language co-operate to create dynamic representations of events.
 
@@ -83,7 +84,7 @@ This work examines how visual systems and language co-operate to create dynamic 
 - **Spatial and Linguistic Aspects of Visual Imagery in Sentence Comprehension (2007)**  
   Bergen, B., Lindsay, S., Matlock, T. & Narayanan, S. (2007). [Spatial and Linguistic Aspects of Visual Imagery in Sentence Comprehension.](papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf) *Cognitive Science, 31*, 733–764.
 
-## Statistics and Research Methods
+### Statistics and Research Methods
 
 Focusing on measurement precision and methodological rigor in developmental and cognitive research, this theme showcases my contributions to improving research practices:
 
@@ -96,7 +97,7 @@ Focusing on measurement precision and methodological rigor in developmental and 
 - **Data from an International Multi-Centre Study of Statistics and Mathematics Anxieties and Related Variables in University Students (2023)**  
   Terry, J., Ross, R.M., Nagy, T., Salgado, M., Garrido-Vásquez, P., Sarfo, J.O., Cooper, S., Buttner, A.C., Lima, T.J., Öztürk, İ., Akay, N., Santos, F.H., Artemenko, C., Copping, L.T., Elsherif, M.M., Milovanović, I., Cribbie, R.A., Drushlyak, M.G., Swainston, K., Shou, Y., …Field, A.P. (2023). *Journal of Open Psychology Data, 11(1)*, Article 8. [https://doi.org/10.5334/jopd.80](https://doi.org/10.5334/jopd.80).
 
-## Other Recent Publications
+### Other Recent Publications
 
 This section gathers interdisciplinary studies and projects that extend beyond my core research themes.
 
