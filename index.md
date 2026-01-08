@@ -23,7 +23,9 @@ published: true
       </div>
     </div>
     <div class="hero-card">
-      <img src="{{ '/images/me.jpg' | relative_url }}" alt="Photo of Shane Lindsay" />
+      <div class="hero-photo">
+        <img src="{{ '/images/me.jpg' | relative_url }}" alt="Photo of Shane Lindsay" />
+      </div>
       <div class="hero-card-meta">
         <p class="hero-name">Shane Lindsay</p>
         <p class="hero-role">Lecturer in Psychology</p>
@@ -107,7 +109,7 @@ published: true
       {% if latest_posts.size > 0 %}
         {% for post in latest_posts %}
           <article class="post-card">
-            <div class="date">{{ post.date | date: "%B %e, %Y" }}</div>
+            <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time>
             <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
             <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
             <a href="{{ post.url | relative_url }}" class="post-nav-link">Read the post</a>

@@ -49,8 +49,10 @@ img {
 
 a {
   color: var(--accent);
-  text-decoration: none;
-  transition: color 0.2s ease;
+  text-decoration: underline;
+  text-decoration-thickness: 1.5px;
+  text-underline-offset: 0.12em;
+  transition: color 0.2s ease, text-decoration-color 0.2s ease;
 }
 
 a:hover {
@@ -130,11 +132,19 @@ a:hover {
   color: var(--ink);
   padding: 6px 0;
   border-bottom: 2px solid transparent;
+  text-decoration: none;
 }
 
 .nav-links a:hover {
   border-color: var(--accent);
   color: var(--accent);
+}
+
+.nav-links a:focus-visible {
+  border-color: var(--accent);
+  color: var(--accent);
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
 }
 
 .site-main {
@@ -195,6 +205,7 @@ a:hover {
   color: var(--white);
   font-weight: 600;
   border: 1px solid transparent;
+  text-decoration: none;
   transition: transform 0.2s ease, box-shadow 0.2s ease, background 0.2s ease;
 }
 
@@ -208,6 +219,18 @@ a:hover {
   background: transparent;
   color: var(--accent);
   border-color: var(--accent);
+}
+
+.button:focus-visible {
+  outline: 3px solid var(--accent-dark);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 4px rgba(27, 106, 107, 0.35);
+}
+
+.button.ghost:focus-visible {
+  outline: 3px solid var(--accent);
+  outline-offset: 3px;
+  box-shadow: 0 0 0 4px rgba(27, 106, 107, 0.35);
 }
 
 .hero-links {
@@ -228,10 +251,30 @@ a:hover {
   animation: rise 0.6s ease both;
 }
 
-.hero-card img {
+.hero-photo {
   border-radius: 16px;
+  overflow: hidden;
   aspect-ratio: 4 / 5;
+}
+
+.hero-photo img {
+  width: 100%;
+  height: 100%;
   object-fit: cover;
+}
+
+@supports not (aspect-ratio: 1 / 1) {
+  .hero-photo {
+    position: relative;
+    padding-top: 125%;
+  }
+
+  .hero-photo img {
+    position: absolute;
+    inset: 0;
+    width: 100%;
+    height: 100%;
+  }
 }
 
 .hero-card-meta {
@@ -243,11 +286,13 @@ a:hover {
 .hero-name {
   font-weight: 700;
   font-size: 1.2rem;
+  margin: 0;
 }
 
 .hero-role {
   color: var(--muted);
   font-size: 0.95rem;
+  margin: 0;
 }
 
 .section {

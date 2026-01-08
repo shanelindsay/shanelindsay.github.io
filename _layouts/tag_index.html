@@ -5,35 +5,56 @@ layout: default
   <div class="container">
     <p class="eyebrow">Blog</p>
     <h1>{{ page.title }}</h1>
-    <p class="lede">Browse posts by tag.</p>
+    {% if page.tag %}
+      <p class="lede">Posts tagged with {{ page.tag }}.</p>
+    {% else %}
+      <p class="lede">Browse posts by tag.</p>
+    {% endif %}
   </div>
 </section>
 
 <section class="page-content">
   <div class="container prose">
-    <ul class="tag-index">
-      {% assign tags = site.tags | sort %}
-      {% for tag in tags %}
-        {% assign tag_name = tag[0] %}
-        <li>
-          <a href="#{{ tag_name | slugify }}">{{ tag_name }}</a> ({{ tag[1].size }})
-        </li>
-      {% endfor %}
-    </ul>
-
-    <hr />
-
-    {% for tag in tags %}
-      {% assign tag_name = tag[0] %}
-      <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
-      <ul class="tag-posts">
-        {% for post in tag[1] %}
+    {% if page.tag %}
+      {% assign tagged_posts = site.tags[page.tag] %}
+      {% if tagged_posts %}
+        <ul class="tag-posts">
+          {% for post in tagged_posts %}
+            <li>
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time>
+              — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% else %}
+        <p>No posts found for this tag yet.</p>
+      {% endif %}
+      <p><a href="{{ '/tags/' | relative_url }}">Back to all tags</a></p>
+    {% else %}
+      <ul class="tag-index">
+        {% assign tags = site.tags | sort %}
+        {% for tag in tags %}
+          {% assign tag_name = tag[0] %}
           <li>
-            <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %d, %Y' }}</time>
-            — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            <a href="#{{ tag_name | slugify }}">{{ tag_name }}</a> ({{ tag[1].size }})
           </li>
         {% endfor %}
       </ul>
-    {% endfor %}
+
+      <hr />
+
+      {% for tag in tags %}
+        {% assign tag_name = tag[0] %}
+        <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
+        <ul class="tag-posts">
+          {% for post in tag[1] %}
+            <li>
+              <time datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: '%b %d, %Y' }}</time>
+              — <a href="{{ post.url | relative_url }}">{{ post.title }}</a>
+            </li>
+          {% endfor %}
+        </ul>
+      {% endfor %}
+    {% endif %}
   </div>
 </section>
