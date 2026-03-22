@@ -16,10 +16,12 @@ published: true
       <div class="hero-actions">
         <a class="button" href="{{ '/research/' | relative_url }}">Research</a>
         <a class="button ghost" href="{{ '/teaching-and-learning/' | relative_url }}">Teaching</a>
+        <a class="button ghost" href="{{ '/lab/' | relative_url }}">Lab</a>
       </div>
       <div class="hero-links">
         <a href="https://www.hull.ac.uk/faculties/staff-profiles/shane-lindsay">University profile</a>
         <a href="https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs">Worktribe outputs</a>
+        <a href="https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en">Google Scholar</a>
       </div>
     </div>
     <div class="hero-card">
@@ -82,6 +84,35 @@ published: true
 <section class="section">
   <div class="container">
     <div class="section-heading">
+      <h2>Selected outputs</h2>
+      <p>Routes into publications, working papers, and a fuller public record of outputs.</p>
+    </div>
+    <div class="grid grid-3">
+      <div class="card">
+        <span class="tag">Publications</span>
+        <h3>Research themes and papers</h3>
+        <p>Browse grouped publications on word learning, sleep, speech, and event cognition.</p>
+        <a class="post-nav-link" href="{{ '/research/' | relative_url }}">View research</a>
+      </div>
+      <div class="card">
+        <span class="tag">Worktribe</span>
+        <h3>Up-to-date output record</h3>
+        <p>See the latest accepted papers, datasets, and scholarly activity via the University of Hull profile.</p>
+        <a class="post-nav-link" href="https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs">Open Worktribe</a>
+      </div>
+      <div class="card">
+        <span class="tag">Scholar profile</span>
+        <h3>Citations and discoverability</h3>
+        <p>Use Google Scholar for citation links, related work, and older publications not highlighted here.</p>
+        <a class="post-nav-link" href="https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en">Open Scholar profile</a>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section alt">
+  <div class="container">
+    <div class="section-heading">
       <h2>CogLang lab</h2>
       <p>A collaborative lab investigating cognition and language with behavioural and neuroscience tools.</p>
     </div>
@@ -99,6 +130,29 @@ published: true
 </section>
 
 <section class="section alt">
+  <div class="container">
+    <div class="section-heading">
+      <h2>Work with me</h2>
+      <p>I welcome conversations about supervision, collaboration, and student research opportunities.</p>
+    </div>
+    <div class="grid grid-3">
+      <div class="card">
+        <h3>Undergraduate projects</h3>
+        <p>Third-year projects and research assistantship opportunities linked to language, memory, and methods.</p>
+      </div>
+      <div class="card">
+        <h3>Postgraduate supervision</h3>
+        <p>MSc, MRes, and PhD applicants are welcome, especially for work spanning cognition and language.</p>
+      </div>
+      <div class="card">
+        <h3>Collaboration</h3>
+        <p>If your work connects with language, perception, memory, or research methods, I would be glad to hear from you.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section">
   <div class="container">
     <div class="section-heading">
       <h2>Latest writing</h2>

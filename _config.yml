@@ -30,8 +30,13 @@ theme: minima
 defaults:
   - scope:
       path: ""
+      type: "pages"
     values:
       layout: "page"
+  - scope:
+      path: "css/"
+    values:
+      layout: null
 
 tags:
 - web

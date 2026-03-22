@@ -1,4 +1,11 @@
-This site was based on is a starter kit for making an academic webpage using github pages, hosted at [www.jabranham.com](http://www.jabranham.com).
+This site is a Jekyll academic website deployed with GitHub Pages.
 
-Feel free to fork this project in order to get your own site going (see a [blog post](http://jabranham.com/blog/2016/01/making-academic-website.html) that should help you get started).
+## Local preview
 
+```bash
+bundle config set --local path vendor/bundle
+bundle install
+bundle exec jekyll serve
+```
+
+The site was originally based on a starter kit for academic webpages hosted at [www.jabranham.com](http://www.jabranham.com). If you want a similar starting point for your own site, the accompanying [blog post](http://jabranham.com/blog/2016/01/making-academic-website.html) is still a useful overview.

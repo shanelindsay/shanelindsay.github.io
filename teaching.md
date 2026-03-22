@@ -8,7 +8,7 @@ redirect_from:
   - "/teaching and learning/"
 ---
 
-I teach research methods and statistics in psychology at the University of Hull. I am module leader for Research Skills 2, a first year research methods and statistics module.
+I teach research methods and statistics in psychology at the University of Hull. I am module leader for Research Skills 2, a first-year research methods and statistics module.
 
 I teach on the third year modules "Psychology of AI" and "Psychology of Language". 
 
@@ -25,10 +25,11 @@ There is a growing body of evidence which indicates that the potential learning 
 
 The ideology of competitive assessment regimes are deeply embedded in HE. While benefiting some students, for others the experience may damage self-esteem, reduce motivation and undermine learning. Ipsative assessment is based on the idea of assessing progress against a prior performance. It is argued to be motivational as ‘most of the time, most people will not achieve excellence, but most people can make improvements most of the time’ (Hughes, 2014, p.1). However introducing ipsative assessment offers a very practical challenge for many programmes in knowing what progress/ipsative feedback to provide and how to make this happen. 
 
-We address this challenge through the use of interactive cover sheets (Bloxham, 2010). Here students are encouraged to enter into a dialogue with tutors through a process of self-assessment of their performance and to identify help needed. This research addressses the following questions:
-What use do staff make of ipsative feedback?
-What use do students make of interactive coversheets? 
-Do interactive cover sheets have the potential to promote ipsative feedback? 
+We address this challenge through the use of interactive cover sheets (Bloxham, 2010). Here students are encouraged to enter into a dialogue with tutors through a process of self-assessment of their performance and to identify help needed. This research addresses the following questions:
+
+- What use do staff make of ipsative feedback?
+- What use do students make of interactive cover sheets?
+- Do interactive cover sheets have the potential to promote ipsative feedback?
 
 References: 
 
