@@ -17,48 +17,36 @@
       <div class="site-atmosphere__grid"></div>
     </div>
     <div class="site-shell">
-      <header class="site-header">
-        <div class="container nav">
-          <a class="brand" href="{{ '/' | relative_url }}">
-            <span class="brand-title">{{ site.title }}</span>
-            <span class="brand-subtitle">{{ site.short_description }}</span>
-          </a>
-          <nav class="nav-links" aria-label="Primary">
-            {% for path in site.header_pages %}
-              {% assign my_page = site.pages | where: "path", path | first %}
-              {% if my_page.title %}
-                <a href="{{ my_page.url | relative_url }}"{% if page.url == my_page.url %} aria-current="page"{% endif %}>{{ my_page.title }}</a>
-              {% endif %}
-            {% endfor %}
-          </nav>
-        </div>
-      </header>
+      {% unless page.url == "/" %}
+        <header class="site-header">
+          <div class="container nav">
+            <a class="brand" href="{{ '/' | relative_url }}">
+              <span class="brand-title">{{ site.title }}</span>
+            </a>
+            <nav class="nav-links" aria-label="Primary">
+              {% for path in site.header_pages %}
+                {% assign my_page = site.pages | where: "path", path | first %}
+                {% if my_page.title %}
+                  <a href="{{ my_page.url | relative_url }}"{% if page.url == my_page.url %} aria-current="page"{% endif %}>{{ my_page.title }}</a>
+                {% endif %}
+              {% endfor %}
+            </nav>
+          </div>
+        </header>
+      {% endunless %}
 
       <main id="main" class="site-main">
         {{ content }}
       </main>
 
-      <footer class="site-footer">
-        <div class="container footer-grid">
-          <div>
-            <p class="footer-title">{{ site.title }}</p>
-            <p class="footer-text">Psychology lecturer at the University of Hull. Research on language, cognition, and the brain.</p>
+      {% unless page.url == "/" %}
+        <footer class="site-footer">
+          <div class="container footer-bottom">
+            <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
+            <span><a href="{{ site.university_profile_url }}">University profile</a> · <a href="{{ site.google_scholar_url }}">Google Scholar</a> · <a href="mailto:{{ site.email }}">Email</a></span>
           </div>
-          <div>
-            <p class="footer-title">Links</p>
-            <div class="footer-links">
-              <a href="{{ site.university_profile_url }}">University profile</a>
-              <a href="{{ site.worktribe_url }}">Worktribe outputs</a>
-              <a href="{{ site.google_scholar_url }}">Google Scholar</a>
-              <a href="mailto:{{ site.email }}">Email</a>
-            </div>
-          </div>
-        </div>
-        <div class="container footer-bottom">
-          <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
-          <span>{{ site.lab_name }} · University of Hull</span>
-        </div>
-      </footer>
+        </footer>
+      {% endunless %}
     </div>
   </body>
 </html>

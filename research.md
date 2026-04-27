@@ -3,12 +3,9 @@ layout: page
 title: Research
 permalink: /research/
 published: true
-lede: Research on word learning, language processing, memory consolidation, and methodological rigour in psychology.
 ---
 
 My research examines how language is learned, represented, and used in the context of memory, perception, and action. I work across psycholinguistics, cognitive psychology, and research methods, using behavioural experiments, eye tracking, and cognitive neuroscience approaches to study how people understand and remember language in the real world.
-
-For a thematic overview, this page is the main route in. For a fuller and more current list of outputs, see the dedicated [Publications]({{ '/publications/' | relative_url }}) page as well as my [Worktribe profile](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs) and [Google Scholar profile](https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en).
 
 ## Current research questions
 
@@ -65,8 +62,6 @@ Selected outputs:
 
 I welcome conversations about student projects, postgraduate supervision, and collaborations connected to language, memory, cognition, or research methods. The [Research Students]({{ '/research-students/' | relative_url }}) and [CogLang Lab]({{ '/lab/' | relative_url }}) pages outline the kinds of questions, methods, and supervision routes that fit especially well with this work.
 
-## Full outputs and manuscript copies
+## Full outputs
 
-This page is a curated overview rather than a complete bibliography. For a fuller publication record, use the website [Publications]({{ '/publications/' | relative_url }}) page, [Worktribe](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs), or [Google Scholar](https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en).
-
-Some manuscript files are hosted here to support access to published work where sharing is permitted. Copyright remains with the authors and publishers as appropriate, and any locally hosted manuscripts should be treated in line with the relevant copyright restrictions.
+[Publications]({{ '/publications/' | relative_url }}) · [Worktribe](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs) · [Google Scholar](https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en)

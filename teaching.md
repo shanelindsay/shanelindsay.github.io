@@ -3,7 +3,6 @@ layout: page
 title: Teaching
 permalink: /teaching-and-learning/
 published: true
-lede: Teaching research methods, statistics, language, and AI in psychology, with supervision across undergraduate and postgraduate study.
 redirect_from:
   - "/teaching and learning/"
 ---

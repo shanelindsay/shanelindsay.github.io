@@ -3,13 +3,10 @@ layout: page
 title: Publications
 permalink: /publications/
 published: true
-lede: A fuller research record, with recent publications first and current work grouped separately from established outputs.
 eyebrow: Research record
 ---
 
-<div class="page-note">
-  <p>This page is a working publication record for the website rather than a full CV dump. For the most complete externally maintained record, see <a href="{{ site.google_scholar_url }}">Google Scholar</a>, <a href="{{ site.worktribe_url }}">Worktribe</a>, and the <a href="{{ site.university_profile_url }}">University of Hull profile</a>.</p>
-</div>
+<p class="pub-links"><a href="{{ site.google_scholar_url }}">Google Scholar</a> · <a href="{{ site.worktribe_url }}">Worktribe</a> · <a href="{{ site.university_profile_url }}">University profile</a></p>
 
 <section class="content-block">
   <h2>Recent publications</h2>

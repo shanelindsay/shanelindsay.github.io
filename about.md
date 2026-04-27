@@ -3,7 +3,6 @@ layout: page
 title: About
 permalink: /about/
 published: true
-lede: Lecturer in Psychology at the University of Hull, studying language, memory, and cognition across behavioural and neuroscience contexts.
 ---
 
 I am a Lecturer in Psychology at the University of Hull. My work sits across psycholinguistics, cognitive psychology, and research methods, with a particular focus on how language is learned, represented, and used in the context of perception, action, and memory.
@@ -27,7 +26,3 @@ I run **CogLang**, a lab environment for work on language, cognition, learning, 
 - [ResearchGate](https://www.researchgate.net/profile/Shane_Lindsay)
 - [Academia.edu](https://hull.academia.edu/ShaneLindsay)
 - Email: [S.Lindsay@hull.ac.uk](mailto:S.Lindsay@hull.ac.uk)
-
-## Getting in touch
-
-The best reasons to get in touch are usually research fit, postgraduate supervision, collaboration, or teaching-related questions. If you are writing about a potential project, it helps to include a short description of the topic, why it fits the work here, and any relevant background or methodological interests.

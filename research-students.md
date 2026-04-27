@@ -3,13 +3,8 @@ layout: page
 title: Research Students
 permalink: /research-students/
 published: true
-lede: Current doctoral research, incoming projects, and the kinds of postgraduate work that fit best with the broader research programme.
 eyebrow: Supervision
 ---
-
-<div class="page-note">
-  <p>This page focuses on current doctoral work and supervision fit. For broader research themes, see <a href="{{ '/research/' | relative_url }}">Research</a>. For the lab context and methods environment, see <a href="{{ '/lab/' | relative_url }}">CogLang Lab</a>.</p>
-</div>
 
 <section class="content-block">
   <h2>Current doctoral projects</h2>
