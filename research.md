@@ -26,7 +26,7 @@ This strand of work examines how people acquire new vocabulary, how those repres
 
 Selected outputs:
 
-- Lindsay, S. & Holle, H. (in press). *Does oral respiration disrupt memory consolidation during wakeful rest?* Quarterly Journal of Experimental Psychology. [Worktribe record](https://hull-repository.worktribe.com/output/4831740/does-oral-respiration-disrupt-memory-consolidation-during-wakeful-rest)
+- Richards, B., Holle, H. & Lindsay, S. (2025). *Does oral breathing disrupt memory consolidation during waking rest? A registered report.* Quarterly Journal of Experimental Psychology. [DOI](https://doi.org/10.1177/17470218251328994)
 - Cairney, S. A., Lindsay, S., Paller, K. A. & Gaskell, M. G. (2018). *Sleep preserves original and distorted memory traces.* Cortex, 99, 39-44. [PDF](papers/cairney2017.pdf)
 - Tham, E., Lindsay, S. & Gaskell, M. G. (2015). *Markers of automaticity in sleep-associated consolidation of novel words.* Neuropsychologia, 71, 146-157. [PDF](papers/Tham_Lindsay_Gaskell.pdf)
 - Lindsay, S. & Gaskell, M. G. (2013). *Lexical integration of novel words without sleep.* Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622. [PDF](papers/Lexical_integration_of_novel_words_without_sleep.pdf)
