@@ -16,13 +16,13 @@
         <div class="container nav">
           <a class="brand" href="{{ '/' | relative_url }}">
             <span class="brand-title">{{ site.title }}</span>
-            <span class="brand-subtitle">{{ site.description }}</span>
+            <span class="brand-subtitle">{{ site.short_description }}</span>
           </a>
           <nav class="nav-links" aria-label="Primary">
             {% for path in site.header_pages %}
               {% assign my_page = site.pages | where: "path", path | first %}
               {% if my_page.title %}
-                <a href="{{ my_page.url | relative_url }}">{{ my_page.title }}</a>
+                <a href="{{ my_page.url | relative_url }}"{% if page.url == my_page.url %} aria-current="page"{% endif %}>{{ my_page.title }}</a>
               {% endif %}
             {% endfor %}
           </nav>
@@ -42,15 +42,16 @@
           <div>
             <p class="footer-title">Links</p>
             <div class="footer-links">
-              <a href="https://www.hull.ac.uk/faculties/staff-profiles/shane-lindsay">University profile</a>
-              <a href="https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs">Worktribe outputs</a>
-              <a href="https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en">Google Scholar</a>
+              <a href="{{ site.university_profile_url }}">University profile</a>
+              <a href="{{ site.worktribe_url }}">Worktribe outputs</a>
+              <a href="{{ site.google_scholar_url }}">Google Scholar</a>
+              <a href="mailto:{{ site.email }}">Email</a>
             </div>
           </div>
         </div>
         <div class="container footer-bottom">
           <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
-          <span>Built with Jekyll + GitHub Pages</span>
+          <span>{{ site.lab_name }} · University of Hull</span>
         </div>
       </footer>
     </div>

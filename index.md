@@ -8,20 +8,22 @@ published: true
   <div class="container hero-grid">
     <div class="hero-copy">
       <p class="eyebrow">Psychology lecturer · University of Hull</p>
-      <h1>Language, cognition, and the brain.</h1>
+      <h1>How language becomes part of memory, and how perception shapes understanding.</h1>
       <p class="lede">
-        I study how language interacts with perception, action, and memory, drawing on
-        behavioural methods, eye tracking, and cognitive neuroscience. I run the CogLang lab.
+        I study word learning, memory consolidation, psycholinguistics, and experimental
+        method using behavioural research, eye tracking, and cognitive neuroscience approaches.
+        I run CogLang and welcome conversations about student supervision, collaboration, and
+        psychologically serious work on language and cognition.
       </p>
       <div class="hero-actions">
-        <a class="button" href="{{ '/research/' | relative_url }}">Research</a>
-        <a class="button ghost" href="{{ '/teaching-and-learning/' | relative_url }}">Teaching</a>
-        <a class="button ghost" href="{{ '/lab/' | relative_url }}">Lab</a>
+        <a class="button" href="{{ '/research/' | relative_url }}">Explore research</a>
+        <a class="button ghost" href="{{ '/lab/' | relative_url }}">Supervision &amp; lab opportunities</a>
+        <a class="button ghost" href="{{ '/research/' | relative_url }}#full-outputs-and-manuscript-copies">Selected publications</a>
       </div>
       <div class="hero-links">
-        <a href="https://www.hull.ac.uk/faculties/staff-profiles/shane-lindsay">University profile</a>
-        <a href="https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs">Worktribe outputs</a>
-        <a href="https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en">Google Scholar</a>
+        <a href="{{ site.university_profile_url }}">University profile</a>
+        <a href="{{ site.worktribe_url }}">Worktribe outputs</a>
+        <a href="{{ site.google_scholar_url }}">Google Scholar</a>
       </div>
     </div>
     <div class="hero-card">
@@ -38,25 +40,38 @@ published: true
 
 <section class="section">
   <div class="container">
+    <div class="profile-strip" aria-label="Academic profile summary">
+      <span>Lecturer in Psychology</span>
+      <span>University of Hull</span>
+      <span>CogLang</span>
+      <span>Behavioural methods</span>
+      <span>Eye tracking</span>
+      <span>Supervision welcome</span>
+    </div>
+  </div>
+</section>
+
+<section class="section">
+  <div class="container">
     <div class="section-heading">
-      <h2>Research focus</h2>
-      <p>Core themes in my work, spanning language, memory, and the visual world.</p>
+      <h2>Research questions</h2>
+      <p>Core questions that organise my work across psycholinguistics, cognition, and research methods.</p>
     </div>
     <div class="grid grid-3">
       <div class="card">
-        <span class="tag">Word learning</span>
-        <h3>Sleep, memory, and consolidation</h3>
-        <p>How new words are acquired, stabilised, and integrated over time.</p>
+        <span class="tag">Learning and memory</span>
+        <h3>How do new words become part of memory?</h3>
+        <p>Work on word learning, consolidation, sleep, and wakeful rest asks how new knowledge stabilises over time.</p>
       </div>
       <div class="card">
-        <span class="tag">Speech &amp; action</span>
-        <h3>Perception and production</h3>
-        <p>How perceptual and motor systems interact during spoken-language processing.</p>
+        <span class="tag">Language in context</span>
+        <h3>How do perception and action shape language processing?</h3>
+        <p>Research on speech, action, and visual context examines how comprehension unfolds in realistic settings.</p>
       </div>
       <div class="card">
-        <span class="tag">Vision &amp; language</span>
-        <h3>Event representation</h3>
-        <p>How visual and linguistic cues combine to build dynamic mental models.</p>
+        <span class="tag">Methods</span>
+        <h3>How can we make psychological evidence more trustworthy?</h3>
+        <p>Methodological work focuses on measurement precision, analytic choices, and stronger research practice.</p>
       </div>
     </div>
   </div>
@@ -65,17 +80,27 @@ published: true
 <section class="section alt">
   <div class="container">
     <div class="section-heading">
-      <h2>Teaching &amp; supervision</h2>
-      <p>Research methods, statistics, and applied psychology across undergraduate and postgraduate teaching.</p>
+      <h2>Selected outputs</h2>
+      <p>A few representative routes into the research record, with fuller publication details on the research page and Worktribe.</p>
     </div>
-    <div class="grid grid-2">
+    <div class="grid grid-3">
       <div class="card">
-        <h3>Research methods leadership</h3>
-        <p>Module leadership and curriculum design for research methods and statistics in psychology.</p>
+        <span class="tag">Memory</span>
+        <h3>Word learning and consolidation</h3>
+        <p>Research on how new words are learned, stabilised, and retained across sleep and wakeful rest.</p>
+        <p class="meta">Quarterly Journal of Experimental Psychology · Cortex · Neuropsychologia</p>
       </div>
       <div class="card">
-        <h3>Project supervision</h3>
-        <p>Supervision for undergraduate dissertations, MSc/MRes projects, and doctoral research.</p>
+        <span class="tag">Psycholinguistics</span>
+        <h3>Speech and event understanding</h3>
+        <p>Studies of spoken-language processing, visual-world comprehension, and the role of perception in meaning.</p>
+        <p class="meta">JEP:LMC · PLOS ONE · Cognitive Science</p>
+      </div>
+      <div class="card">
+        <span class="tag">Methods</span>
+        <h3>Measurement and research quality</h3>
+        <p>Work on precision, analytic decision-making, and better inference in developmental and cognitive research.</p>
+        <p class="meta">Infant and Child Development · BMC Biology</p>
       </div>
     </div>
   </div>
@@ -84,69 +109,40 @@ published: true
 <section class="section">
   <div class="container">
     <div class="section-heading">
-      <h2>Selected outputs</h2>
-      <p>Routes into publications, working papers, and a fuller public record of outputs.</p>
-    </div>
-    <div class="grid grid-3">
-      <div class="card">
-        <span class="tag">Publications</span>
-        <h3>Research themes and papers</h3>
-        <p>Browse grouped publications on word learning, sleep, speech, and event cognition.</p>
-        <a class="post-nav-link" href="{{ '/research/' | relative_url }}">View research</a>
-      </div>
-      <div class="card">
-        <span class="tag">Worktribe</span>
-        <h3>Up-to-date output record</h3>
-        <p>See the latest accepted papers, datasets, and scholarly activity via the University of Hull profile.</p>
-        <a class="post-nav-link" href="https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs">Open Worktribe</a>
-      </div>
-      <div class="card">
-        <span class="tag">Scholar profile</span>
-        <h3>Citations and discoverability</h3>
-        <p>Use Google Scholar for citation links, related work, and older publications not highlighted here.</p>
-        <a class="post-nav-link" href="https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en">Open Scholar profile</a>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section alt">
-  <div class="container">
-    <div class="section-heading">
-      <h2>CogLang lab</h2>
-      <p>A collaborative lab investigating cognition and language with behavioural and neuroscience tools.</p>
-    </div>
-    <div class="grid grid-2">
-      <div class="card">
-        <h3>Methods</h3>
-        <p>Behavioural experiments, eye tracking, EEG, TMS, and related cognitive neuroscience techniques.</p>
-      </div>
-      <div class="card">
-        <h3>Opportunities</h3>
-        <p>Opportunities for undergraduate assistants, Masters students, and PhD applicants.</p>
-      </div>
-    </div>
-  </div>
-</section>
-
-<section class="section alt">
-  <div class="container">
-    <div class="section-heading">
-      <h2>Work with me</h2>
-      <p>I welcome conversations about supervision, collaboration, and student research opportunities.</p>
+      <h2>Work with CogLang</h2>
+      <p>Routes for undergraduate researchers, postgraduate applicants, and collaborators.</p>
     </div>
     <div class="grid grid-3">
       <div class="card">
         <h3>Undergraduate projects</h3>
-        <p>Third-year projects and research assistantship opportunities linked to language, memory, and methods.</p>
+        <p>Third-year projects in language, memory, attention, and methods, including opportunities linked to live research questions.</p>
       </div>
       <div class="card">
         <h3>Postgraduate supervision</h3>
-        <p>MSc, MRes, and PhD applicants are welcome, especially for work spanning cognition and language.</p>
+        <p>MSc, MRes, and PhD work is welcome where the fit is strong around cognition, language, memory, or methods.</p>
       </div>
       <div class="card">
         <h3>Collaboration</h3>
-        <p>If your work connects with language, perception, memory, or research methods, I would be glad to hear from you.</p>
+        <p>Collaborative work is especially welcome on psycholinguistics, eye tracking, learning and memory, and research design.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section class="section alt">
+  <div class="container">
+    <div class="section-heading">
+      <h2>Teaching and supervision</h2>
+      <p>Methods, language, and AI teaching in psychology, with project supervision across undergraduate and postgraduate study.</p>
+    </div>
+    <div class="grid grid-2">
+      <div class="card">
+        <h3>Current teaching</h3>
+        <p>Research Skills 2, Psychology of AI, Psychology of Language, and research-project supervision.</p>
+      </div>
+      <div class="card">
+        <h3>Teaching approach</h3>
+        <p>Teaching emphasises practical judgement, research design, quantitative reasoning, and the skills students need to do good psychological science.</p>
       </div>
     </div>
   </div>
@@ -155,25 +151,18 @@ published: true
 <section class="section">
   <div class="container">
     <div class="section-heading">
-      <h2>Latest writing</h2>
-      <p>Selected posts from the blog.</p>
+      <h2>Get in touch</h2>
+      <p>The best routes in are research, supervision, or collaborative questions with a clear fit.</p>
     </div>
-    <div class="posts">
-      {% assign latest_posts = site.posts | slice: 0, 2 %}
-      {% if latest_posts.size > 0 %}
-        {% for post in latest_posts %}
-          <article class="post-card">
-            <time class="date" datetime="{{ post.date | date_to_xmlschema }}">{{ post.date | date: "%B %e, %Y" }}</time>
-            <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-            <p>{{ post.excerpt | strip_html | truncate: 160 }}</p>
-            <a href="{{ post.url | relative_url }}" class="post-nav-link">Read the post</a>
-          </article>
-        {% endfor %}
-      {% else %}
-        <div class="card">
-          <p>No posts yet. Check back soon for updates.</p>
-        </div>
-      {% endif %}
+    <div class="grid grid-2">
+      <div class="card">
+        <h3>Prospective students</h3>
+        <p>If you are interested in a dissertation, Masters project, or PhD topic, start with the lab and research pages and then get in touch by email.</p>
+      </div>
+      <div class="card">
+        <h3>Collaborators</h3>
+        <p>If your work connects with language, memory, perception, eye tracking, or methodology, I would be glad to hear from you.</p>
+      </div>
     </div>
   </div>
 </section>
