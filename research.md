@@ -26,9 +26,9 @@ This strand of work examines how people acquire new vocabulary, how those repres
 
 Selected outputs:
 
-- Richards, B., Holle, H. & Lindsay, S. (2025). *Does oral breathing disrupt memory consolidation during waking rest? A registered report.* Quarterly Journal of Experimental Psychology. [DOI](https://doi.org/10.1177/17470218251328994)
-- Cairney, S. A., Lindsay, S., Paller, K. A. & Gaskell, M. G. (2018). *Sleep preserves original and distorted memory traces.* Cortex, 99, 39-44. [PDF](papers/cairney2017.pdf)
-- Tham, E., Lindsay, S. & Gaskell, M. G. (2015). *Markers of automaticity in sleep-associated consolidation of novel words.* Neuropsychologia, 71, 146-157. [PDF](papers/Tham_Lindsay_Gaskell.pdf)
+- Richards, B., Holle, H. & Lindsay, S. (2025). *Does oral breathing disrupt memory consolidation during waking rest? A registered report.* Quarterly Journal of Experimental Psychology, 78(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994)
+- Cairney, S. A., Lindsay, S., Paller, K. A. & Gaskell, M. G. (2018). *Sleep preserves original and distorted memory traces.* Cortex, 99, 39-44. [DOI](https://doi.org/10.1016/j.cortex.2017.10.005)
+- Tham, E. K. H., Lindsay, S. & Gaskell, M. G. (2015). *Markers of automaticity in sleep-associated consolidation of novel words.* Neuropsychologia, 71, 146-157. [DOI](https://doi.org/10.1016/j.neuropsychologia.2015.03.025)
 - Lindsay, S. & Gaskell, M. G. (2013). *Lexical integration of novel words without sleep.* Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622. [PDF](papers/Lexical_integration_of_novel_words_without_sleep.pdf)
 
 ### Speech, perception, and production
@@ -37,8 +37,8 @@ This work investigates how perceptual and motor systems contribute to spoken-lan
 
 Selected outputs:
 
-- Lindsay, S., Clayards, M., Gennari, S. & Gaskell, M. G. (2022). *Plasticity of categories in speech perception and production.* Language, Cognition and Neuroscience. [Worktribe record](https://hull-repository.worktribe.com/output/3894641)
-- Krieger-Redwood, K., Gaskell, M. G., Lindsay, S. & Jefferies, E. (2013). *The selective role of dorsal premotor cortex in speech perception.* Journal of Cognitive Neuroscience, 25(12), 2179-2188. [PDF](papers/jocn_a_00463_1_.pdf)
+- Lindsay, S., Clayards, M., Gennari, S. & Gaskell, M. G. (2022). *Plasticity of categories in speech perception and production.* Language, Cognition and Neuroscience, 37(6), 707-731. [DOI](https://doi.org/10.1080/23273798.2021.2018471)
+- Krieger-Redwood, K., Gaskell, M. G., Lindsay, S. & Jefferies, E. (2013). *The selective role of premotor cortex in speech perception: a contribution to phoneme judgements but not speech comprehension.* Journal of Cognitive Neuroscience, 25(12), 2179-2188. [PDF](papers/jocn_a_00463_1_.pdf)
 - Lindsay, S., Sedin, L. & Gaskell, M. G. (2012). *Acquiring novel words and their past tenses: evidence from lexical effects on phonetic categorisation.* Journal of Memory and Language, 66(1), 210-225. [PDF](papers/1-s2.0-S0749596X11000763-main.pdf)
 
 ### Language, vision, and event representation
@@ -57,7 +57,7 @@ I am also interested in measurement precision, analytic decision-making, and the
 
 Selected outputs:
 
-- Lindsay, S. & Mather, E. (2022). *Developmental psychologists should care about measurement precision.* Infant and Child Development. [Worktribe record](https://hull-repository.worktribe.com/output/4000108/developmental-psychologists-should-care-about-measurement-precision)
+- Lindsay, S. & Mather, E. (2022). *Developmental psychologists should care about measurement precision.* Infant and Child Development, 31(1), e2321. [DOI](https://doi.org/10.1002/icd.2321)
 - Gould, E., Fraser, H. S., Parker, T. H., Nakagawa, S., Griffith, S. C., Vesk, P. A., Fidler, F., Hamilton, D. G., Abbott, J. K., Aguirre, L. A., Altschul, D., Atkins, J. W., Atkinson, J., Baker, C. M., Lindsay, S. & Bell, K. (2025). *Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.* BMC Biology, 23, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x)
 - Terry, J. et al. (2023). *Data from an international multi-centre study of statistics and mathematics anxieties and related variables in university students.* Journal of Open Psychology Data, 11(1), Article 8. [DOI](https://doi.org/10.5334/jopd.80)
 
