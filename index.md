@@ -25,6 +25,10 @@ published: true
         <a href="{{ site.worktribe_url }}">Worktribe outputs</a>
         <a href="{{ site.google_scholar_url }}">Google Scholar</a>
       </div>
+      <div class="hero-signal">
+        <p class="hero-signal-label">Current focus</p>
+        <p class="hero-signal-text">Word learning, consolidation, eye tracking, and methods work that makes psychological evidence sharper rather than just larger.</p>
+      </div>
     </div>
     <div class="hero-card">
       <div class="hero-photo">
@@ -33,6 +37,20 @@ published: true
       <div class="hero-card-meta">
         <p class="hero-name">Shane Lindsay</p>
         <p class="hero-role">Lecturer in Psychology</p>
+      </div>
+      <div class="hero-facts" aria-label="Research summary">
+        <div>
+          <span class="hero-fact-value">CogLang</span>
+          <span class="hero-fact-label">Research environment</span>
+        </div>
+        <div>
+          <span class="hero-fact-value">Language + memory</span>
+          <span class="hero-fact-label">Core research axis</span>
+        </div>
+        <div>
+          <span class="hero-fact-value">Supervision open</span>
+          <span class="hero-fact-label">Projects and collaboration</span>
+        </div>
       </div>
     </div>
   </div>
@@ -74,6 +92,16 @@ published: true
         <p>Methodological work focuses on measurement precision, analytic choices, and stronger research practice.</p>
       </div>
     </div>
+  </div>
+</section>
+
+<section class="section section-band">
+  <div class="container band-grid">
+    <div>
+      <p class="band-label">Academic direction</p>
+      <h2>Research questions with experimental bite, not just broad themes.</h2>
+    </div>
+    <p class="band-copy">The site is organised for three audiences at once: students looking for supervision, collaborators looking for fit, and peers who need a fast read on the work. The emphasis is on live questions, methods, and concrete routes into the research record.</p>
   </div>
 </section>
 
