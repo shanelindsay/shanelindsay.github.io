@@ -5,6 +5,10 @@ permalink: /lab/
 published: true
 ---
 
+<figure class="page-strip">
+  <img src="{{ '/images/generated/lab-strip.webp' | relative_url }}" alt="" loading="lazy" />
+</figure>
+
 ## What CogLang studies
 
 Current interests include:

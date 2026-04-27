@@ -6,6 +6,10 @@ published: true
 eyebrow: Supervision
 ---
 
+<figure class="page-strip">
+  <img src="{{ '/images/generated/students-strip.webp' | relative_url }}" alt="" loading="lazy" />
+</figure>
+
 <section class="content-block">
   <h2>Current doctoral projects</h2>
 

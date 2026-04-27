@@ -6,6 +6,10 @@ published: true
 eyebrow: Research record
 ---
 
+<figure class="page-strip">
+  <img src="{{ '/images/generated/publications-strip.webp' | relative_url }}" alt="" loading="lazy" />
+</figure>
+
 <p class="pub-links"><a href="{{ site.google_scholar_url }}">Google Scholar</a> · <a href="{{ site.worktribe_url }}">Worktribe</a> · <a href="{{ site.university_profile_url }}">University profile</a></p>
 
 <section class="content-block">
