@@ -315,6 +315,18 @@ a:focus-visible {
   position: relative;
 }
 
+.hero-art {
+  border-radius: 18px;
+  overflow: hidden;
+  border: 1px solid rgba(23, 19, 17, 0.08);
+  background: rgba(255, 255, 255, 0.55);
+}
+
+.hero-art img {
+  width: 100%;
+  height: auto;
+}
+
 .hero-card::after {
   content: "";
   position: absolute;
@@ -423,6 +435,58 @@ a:focus-visible {
 
 .section-band {
   padding: 36px 0;
+}
+
+.route-grid {
+  display: grid;
+  grid-template-columns: repeat(2, minmax(0, 1fr));
+  gap: 22px;
+  margin-top: 32px;
+}
+
+.route-card {
+  display: grid;
+  gap: 10px;
+  padding: 24px 24px 24px 28px;
+  border-radius: 20px;
+  background: rgba(255, 252, 249, 0.88);
+  border: 1px solid rgba(23, 19, 17, 0.07);
+  box-shadow: var(--shadow);
+  text-decoration: none;
+  color: var(--ink);
+  position: relative;
+  overflow: hidden;
+}
+
+.route-card::before {
+  content: "";
+  position: absolute;
+  inset: 0 auto 0 0;
+  width: 5px;
+  background: linear-gradient(180deg, var(--accent), rgba(161, 79, 42, 0.14));
+}
+
+.route-card h3 {
+  margin: 0;
+  font-size: 1.2rem;
+}
+
+.route-card p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.route-label {
+  display: inline-flex;
+  align-items: center;
+  width: fit-content;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background: var(--surface-strong);
+  color: var(--accent-dark);
+  font-size: 0.78rem;
+  font-weight: 700;
+  letter-spacing: 0.03em;
 }
 
 .band-grid {
@@ -554,7 +618,7 @@ a:focus-visible {
 }
 
 .prose {
-  max-width: 75ch;
+  max-width: 78ch;
 }
 
 .prose h2,
@@ -586,6 +650,84 @@ a:focus-visible {
   border-left: 3px solid var(--accent);
   background: var(--surface);
   border-radius: 12px;
+}
+
+.page-note {
+  margin: 0 0 32px;
+  padding: 18px 20px;
+  background: rgba(255, 251, 247, 0.76);
+  border: 1px solid rgba(23, 19, 17, 0.08);
+  border-radius: 18px;
+  box-shadow: 0 10px 28px rgba(23, 19, 17, 0.05);
+}
+
+.page-note p {
+  margin: 0;
+  color: var(--muted);
+}
+
+.content-block + .content-block {
+  margin-top: 48px;
+}
+
+.publication-entry,
+.student-dossier {
+  display: grid;
+  grid-template-columns: 110px minmax(0, 1fr);
+  gap: 18px;
+  padding: 18px 0 22px;
+  border-top: 1px solid rgba(23, 19, 17, 0.10);
+}
+
+.publication-entry:last-child,
+.student-dossier:last-child {
+  border-bottom: 1px solid rgba(23, 19, 17, 0.10);
+}
+
+.publication-year,
+.student-status {
+  margin: 0;
+  color: var(--muted);
+  font-size: 0.9rem;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.publication-entry h3,
+.student-dossier h3 {
+  margin: 0 0 6px;
+  font-size: 1.15rem;
+}
+
+.publication-entry p,
+.student-dossier p {
+  margin: 0 0 8px;
+}
+
+.pub-source,
+.student-funding {
+  color: var(--muted);
+}
+
+.pub-links {
+  font-weight: 600;
+}
+
+.student-dossier {
+  align-items: start;
+}
+
+.student-meta {
+  display: grid;
+  gap: 6px;
+}
+
+.student-title {
+  font-family: var(--font-serif);
+  font-size: 1.15rem;
+  line-height: 1.2;
+  color: var(--ink);
 }
 
 .posts {
@@ -689,6 +831,7 @@ a:focus-visible {
 @media (max-width: 900px) {
   .hero-grid,
   .band-grid,
+  .route-grid,
   .grid-2,
   .grid-3,
   .footer-grid {
@@ -703,6 +846,12 @@ a:focus-visible {
 
   .hero-facts {
     grid-template-columns: 1fr;
+  }
+
+  .publication-entry,
+  .student-dossier {
+    grid-template-columns: 1fr;
+    gap: 10px;
   }
 
   .footer-bottom {

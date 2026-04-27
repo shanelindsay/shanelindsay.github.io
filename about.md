@@ -27,3 +27,7 @@ I run **CogLang**, a lab environment for work on language, cognition, learning, 
 - [ResearchGate](https://www.researchgate.net/profile/Shane_Lindsay)
 - [Academia.edu](https://hull.academia.edu/ShaneLindsay)
 - Email: [S.Lindsay@hull.ac.uk](mailto:S.Lindsay@hull.ac.uk)
+
+## Getting in touch
+
+The best reasons to get in touch are usually research fit, postgraduate supervision, collaboration, or teaching-related questions. If you are writing about a potential project, it helps to include a short description of the topic, why it fits the work here, and any relevant background or methodological interests.

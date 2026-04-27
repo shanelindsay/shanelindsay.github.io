@@ -35,7 +35,7 @@ I strongly support undergraduate involvement in research, including third-year p
 
 ### Masters and doctoral study
 
-I welcome enquiries from prospective MSc, MRes, and PhD students whose interests overlap with language, cognition, memory, or methods. The University of Hull offers [postgraduate research routes](https://www.hull.ac.uk/study/postgraduate), and funded opportunities are sometimes available through university or external schemes.
+I welcome enquiries from prospective MSc, MRes, and PhD students whose interests overlap with language, cognition, memory, or methods. The University of Hull offers [postgraduate research routes](https://www.hull.ac.uk/study/postgraduate), and funded opportunities are sometimes available through university or external schemes. Current doctoral work is outlined on the [Research Students]({{ '/research-students/' | relative_url }}) page.
 
 ### Collaboration
 

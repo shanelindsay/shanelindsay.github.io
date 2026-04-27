@@ -32,7 +32,7 @@ I welcome projects connected to:
 - research methods, statistics, and measurement
 - psychology and AI
 
-If you are considering a dissertation, Masters project, or doctoral application, the [CogLang lab]({{ '/lab/' | relative_url }}) page gives a better sense of the kinds of questions and methods that fit well with my supervision.
+If you are considering a dissertation, Masters project, or doctoral application, the [Research Students]({{ '/research-students/' | relative_url }}) and [CogLang Lab]({{ '/lab/' | relative_url }}) pages give a better sense of the kinds of questions and methods that fit well with my supervision.
 
 ## Teaching scholarship
 

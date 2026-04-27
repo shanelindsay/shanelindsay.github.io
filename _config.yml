@@ -51,6 +51,8 @@ tags:
 
 header_pages:
   - research.md
+  - publications.md
+  - research-students.md
   - lab.md
   - teaching.md
   - about.md
