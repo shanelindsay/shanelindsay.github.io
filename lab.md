@@ -5,13 +5,11 @@ permalink: /lab/
 published: true
 ---
 
-<figure class="page-strip">
-  <img src="{{ '/images/generated/lab-strip.webp' | relative_url }}" alt="" loading="lazy" />
+<figure class="page-art page-art-wide">
+  <img src="{{ '/images/generated/lab-methods-panel.webp' | relative_url }}" alt="" loading="lazy" />
 </figure>
 
-## What CogLang studies
-
-Current interests include:
+## Research questions
 
 - how new words are learned, consolidated, and integrated into memory
 - how sleep and rest shape memory consolidation
@@ -19,9 +17,7 @@ Current interests include:
 - how language and visual scenes interact during comprehension
 - how measurement and analytic choices affect psychological inference
 
-## Methods and infrastructure
-
-Depending on the research question, the lab uses:
+## How we study them
 
 - behavioural experiments and reaction-time measures
 - eye tracking, including Eyelink 1000-based visual attention work
@@ -29,6 +25,8 @@ Depending on the research question, the lab uses:
 - experimental design and analytic workflows for rigorous psychological research
 
 ## Students and collaboration
+
+Current doctoral work connected to this environment includes verbal fluency, psychometrics, AI-supported quantitative methods, and student judgement in higher education. See [Research Students]({{ '/research-students/' | relative_url }}) for project summaries.
 
 ### Undergraduate projects
 

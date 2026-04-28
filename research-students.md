@@ -6,18 +6,18 @@ published: true
 eyebrow: Supervision
 ---
 
-<figure class="page-strip">
-  <img src="{{ '/images/generated/students-strip.webp' | relative_url }}" alt="" loading="lazy" />
-</figure>
-
 <section class="content-block">
-  <h2>Current doctoral projects</h2>
+  <h2>Doctoral projects</h2>
+
+  <figure class="page-art page-art-wide">
+    <img src="{{ '/images/generated/students-project-panel.webp' | relative_url }}" alt="" loading="lazy" />
+  </figure>
 
   <article class="student-dossier">
     <div class="student-meta">
       <p class="student-status">Current PhD student</p>
       <h3>Yumeng Lyu</h3>
-      <p class="student-funding">PhD project on verbal fluency, supervised at Hull</p>
+      <p class="student-funding">China Scholarship Council-funded PhD</p>
     </div>
     <div class="student-body">
       <p class="student-title">Verbal fluency as a multi-component word production task: reliability, latent structure, and external validation of process measures</p>
@@ -41,25 +41,7 @@ eyebrow: Supervision
 </section>
 
 <section class="content-block">
-  <h2>Incoming project</h2>
-
-  <article class="student-dossier">
-    <div class="student-meta">
-      <p class="student-status">Starting next</p>
-      <h3>Ruihao Zhou</h3>
-      <p class="student-funding">Chinese Research Council-funded</p>
-    </div>
-    <div class="student-body">
-      <p class="student-title">Project details to be finalised</p>
-      <p>An incoming doctoral project is due to begin with Chinese Research Council funding. A fuller public summary will be added once the project framing and first-phase plans are in place.</p>
-    </div>
-  </article>
-</section>
-
-<section class="content-block">
-  <h2>Supervision fit</h2>
-
-  <p>I am usually most interested in supervising projects that connect clearly to one or more of the following:</p>
+  <h2>Good supervision fits</h2>
 
   <ul>
     <li>language, psycholinguistics, and word learning</li>
@@ -72,7 +54,7 @@ eyebrow: Supervision
 </section>
 
 <section class="content-block">
-  <h2>Prospective research students</h2>
+  <h2>Working with me</h2>
 
   <p>If you are considering a PhD, MSc, or MRes project, the most helpful first step is usually to read the <a href="{{ '/research/' | relative_url }}">Research</a> and <a href="{{ '/lab/' | relative_url }}">CogLang Lab</a> pages and then make contact with a concise summary of your interests, background, and the kind of problem you want to work on.</p>
   <p>Projects tend to work best when there is a clear fit with the current research programme, a sensible methodological route, and a topic that is specific enough to become a real study rather than only a broad area of interest.</p>
