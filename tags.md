@@ -3,11 +3,10 @@ layout: page
 title: Tags
 permalink: /tags/
 published: true
+lede: Browse posts by topic.
 ---
 
-<h1>Tags</h1>
-
-<ul>
+<ul class="tag-index">
   {% assign tags = site.tags | sort %}
   {% for tag in tags %}
     {% assign tag_name = tag[0] %}
@@ -22,7 +21,7 @@ published: true
 {% for tag in tags %}
   {% assign tag_name = tag[0] %}
   <h2 id="{{ tag_name | slugify }}">{{ tag_name }}</h2>
-  <ul>
+  <ul class="tag-posts">
     {% for post in tag[1] %}
       <li>
         <time datetime="{{ post.date | date: '%Y-%m-%d' }}">{{ post.date | date: '%b %d, %Y' }}</time>
@@ -31,4 +30,3 @@ published: true
     {% endfor %}
   </ul>
 {% endfor %}
-

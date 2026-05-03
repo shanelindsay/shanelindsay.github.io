@@ -1,0 +1,50 @@
+<!doctype html>
+<html lang="en-GB">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    {% seo %}
+    <link rel="preconnect" href="https://fonts.googleapis.com" />
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+    <link href="https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,700&family=Manrope:wght@400;500;600;700&display=swap" rel="stylesheet" />
+    <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" />
+  </head>
+  <body class="layout-{{ page.layout | default: 'default' }} page-{{ page.title | slugify }}">
+    <a class="skip-link" href="#main">Skip to content</a>
+    <div class="site-atmosphere" aria-hidden="true">
+      <div class="site-atmosphere__halo site-atmosphere__halo--one"></div>
+      <div class="site-atmosphere__halo site-atmosphere__halo--two"></div>
+      <div class="site-atmosphere__grid"></div>
+    </div>
+    <div class="site-shell">
+      <header class="site-header">
+        <div class="container nav">
+          <a class="brand" href="{{ '/' | relative_url }}">
+            <span class="brand-title">{{ site.title }}</span>
+          </a>
+          <nav class="nav-links" aria-label="Primary">
+            {% for path in site.header_pages %}
+              {% assign my_page = site.pages | where: "path", path | first %}
+              {% if my_page.title %}
+                <a href="{{ my_page.url | relative_url }}"{% if page.url == my_page.url %} aria-current="page"{% endif %}>{{ my_page.title }}</a>
+              {% endif %}
+            {% endfor %}
+          </nav>
+        </div>
+      </header>
+
+      <main id="main" class="site-main">
+        {{ content }}
+      </main>
+
+      {% unless page.url == "/" %}
+        <footer class="site-footer">
+          <div class="container footer-bottom">
+            <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
+            <span><a href="{{ '/about/' | relative_url }}">About</a> · <a href="{{ site.university_profile_url }}">University profile</a> · <a href="{{ site.google_scholar_url }}">Google Scholar</a> · <a href="{{ site.worktribe_url }}">Worktribe</a> · <a href="mailto:{{ site.email }}">Email</a></span>
+          </div>
+        </footer>
+      {% endunless %}
+    </div>
+  </body>
+</html>

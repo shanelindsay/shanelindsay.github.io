@@ -1,6 +1,6 @@
 # Site settings
 title: Shane Lindsay
-email: shanelindsay @ gmail com
+email: S.Lindsay@hull.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
   Psychology lecturer at the University of Hull.
   Studying language, cognition and the brain
@@ -11,6 +11,12 @@ twitter_username: shanelindsay
 github_username:  shanelindsay
 facebook: shanelindsay
 #avatar: https://raw.githubusercontent.com/barryclark/jekyll-now/master/images/jekyll-logo.png
+university_profile_url: "https://www.hull.ac.uk/staff-directory/shane-lindsay"
+worktribe_url: "https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs"
+google_scholar_url: "https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en"
+researchgate_url: "https://www.researchgate.net/profile/Shane_Lindsay"
+lab_name: "CogLang"
+short_description: "Language, memory, and cognition"
 
 permalink: /blog/:year/:month/:title.html
 
@@ -27,6 +33,17 @@ plugins:
 markdown: kramdown
 theme: minima
 
+defaults:
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      layout: "page"
+  - scope:
+      path: "css/"
+    values:
+      layout: null
+
 tags:
 - web
 - teaching
@@ -34,11 +51,11 @@ tags:
 
 header_pages:
   - about.md
-  - blog.md
   - research.md
+  - publications.md
+  - research-students.md
   - teaching.md
   - lab.md
-  - tags.md
 
 timezone: Europe/London
 author: Shane Lindsay
