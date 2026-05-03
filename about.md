@@ -3,6 +3,7 @@ layout: page
 title: About
 permalink: /about/
 published: true
+lede: Background, research focus, and routes into my work at Hull.
 ---
 
 I am a Lecturer in Psychology at the University of Hull. My work sits across psycholinguistics, cognitive psychology, and research methods, with a particular focus on how language is learned, represented, and used in the context of perception, action, and memory.

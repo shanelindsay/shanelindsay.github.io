@@ -41,7 +41,7 @@
         <footer class="site-footer">
           <div class="container footer-bottom">
             <span>© {{ site.time | date: "%Y" }} {{ site.title }}</span>
-            <span><a href="{{ site.university_profile_url }}">University profile</a> · <a href="{{ site.google_scholar_url }}">Google Scholar</a> · <a href="mailto:{{ site.email }}">Email</a></span>
+            <span><a href="{{ '/about/' | relative_url }}">About</a> · <a href="{{ site.university_profile_url }}">University profile</a> · <a href="{{ site.google_scholar_url }}">Google Scholar</a> · <a href="{{ site.worktribe_url }}">Worktribe</a> · <a href="mailto:{{ site.email }}">Email</a></span>
           </div>
         </footer>
       {% endunless %}

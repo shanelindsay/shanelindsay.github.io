@@ -3,6 +3,7 @@ layout: page
 title: Research
 permalink: /research/
 published: true
+lede: Current questions, main research strands, and selected outputs.
 ---
 
 My research examines how language is learned, represented, and used in the context of memory, perception, and action. I work across psycholinguistics, cognitive psychology, and research methods, using behavioural experiments, eye tracking, and cognitive neuroscience approaches to study how people understand and remember language in the real world.

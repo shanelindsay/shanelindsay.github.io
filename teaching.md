@@ -3,6 +3,7 @@ layout: page
 title: Teaching
 permalink: /teaching-and-learning/
 published: true
+lede: Current teaching, supervision themes, and scholarship in learning and assessment.
 redirect_from:
   - "/teaching and learning/"
 ---

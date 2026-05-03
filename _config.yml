@@ -50,12 +50,12 @@ tags:
 - research
 
 header_pages:
+  - about.md
   - research.md
   - publications.md
   - research-students.md
-  - lab.md
   - teaching.md
-  - about.md
+  - lab.md
 
 timezone: Europe/London
 author: Shane Lindsay

@@ -3,6 +3,7 @@ layout: page
 title: CogLang Lab
 permalink: /lab/
 published: true
+lede: The questions, methods, and student routes gathered around language and cognition work.
 ---
 
 <figure class="page-art page-art-wide">
@@ -37,3 +38,14 @@ I strongly support undergraduate involvement in research, including third-year p
 I welcome enquiries from prospective MSc, MRes, and PhD students whose interests overlap with language, cognition, memory, or methods. The University of Hull offers [postgraduate research routes](https://www.hull.ac.uk/study/postgraduate), and funded opportunities are sometimes available through university or external schemes. Current doctoral work is outlined on the [Research Students]({{ '/research-students/' | relative_url }}) page.
 
 I am also open to collaboration on projects connected to psycholinguistics, cognition, eye tracking, learning and memory, or methodological questions in psychology. For supervision or collaboration, email [S.Lindsay@hull.ac.uk](mailto:S.Lindsay@hull.ac.uk).
+
+## A good first enquiry
+
+The most useful initial message usually includes:
+
+- the question or topic you want to work on
+- your current stage and disciplinary background
+- the methods you already know, or want to learn
+- whether you are exploring a dissertation, Masters project, PhD application, or collaboration
+
+That makes it much easier to judge fit, suggest a realistic next step, and point you to the most relevant part of the current research programme.

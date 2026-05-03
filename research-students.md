@@ -4,6 +4,7 @@ title: Research Students
 permalink: /research-students/
 published: true
 eyebrow: Supervision
+lede: Current doctoral projects, supervision fit, and how to start a conversation.
 ---
 
 <section class="content-block">

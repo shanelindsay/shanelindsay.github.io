@@ -4,6 +4,7 @@ title: Publications
 permalink: /publications/
 published: true
 eyebrow: Research record
+lede: Selected recent work, current manuscripts, and routes to the fuller record.
 ---
 
 <div class="page-feature page-feature-compact">
