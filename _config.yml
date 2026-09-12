@@ -54,8 +54,8 @@ header_pages:
   - research.md
   - publications.md
   - research-students.md
-  - teaching.md
   - lab.md
+  - teaching.md
 
 timezone: Europe/London
 author: Shane Lindsay
