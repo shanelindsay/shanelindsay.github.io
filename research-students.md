@@ -7,19 +7,19 @@ published: true
 
 ## Yumeng Lyu
 
-Yumeng is studying verbal fluency, psychometric structure and cognitive processes in language production, supported by a China Scholarship Council scholarship. Kate Stone is co-supervisor.
+Yumeng is studying verbal fluency, psychometric structure and cognitive processes in language production, supported by a China Scholarship Council scholarship. Dr Kate Stone is co-supervisor.
 
 Yumeng's work examines what verbal fluency tasks measure beyond the total number of words produced: the test-retest reliability of different measures, how they cluster into underlying components, and how they relate to other cognitive abilities.
 
 ## Caitlin Swan
 
-Caitlin's PhD examines AI-assisted quantitative analysis, trust and responsibility in higher education, supported by a White Rose DTP studentship.
+Caitlin's PhD examines AI-assisted quantitative analysis, trust and responsibility in higher education, supported by a White Rose DTP studentship. Dr Anastasia Gouseti and Professor Kevin Burden are co-supervisors.
 
 The research considers how different levels of AI autonomy affect students' judgement when working with statistics, and what support helps students check analyses and retain responsibility for their work.
 
 ## Ruihao Zhou
 
-Ruihao's PhD is supported by a White Rose DTP studentship. Kate Stone is co-supervisor.
+Ruihao's PhD is supported by a White Rose DTP studentship. Dr Kate Stone is co-supervisor.
 
 The project examines bilingual language control in high-pressure public service contexts, focusing on individual differences and the mechanisms that support language control.
 
