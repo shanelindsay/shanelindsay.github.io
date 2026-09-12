@@ -4,9 +4,8 @@
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1" />
     {% seo %}
-    <link rel="preconnect" href="https://fonts.googleapis.com" />
-    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
-    <link href="https://fonts.googleapis.com/css2?family=Newsreader:opsz,wght@6..72,400;6..72,500;6..72,600&family=IBM+Plex+Sans:wght@400;500;600&display=swap" rel="stylesheet" />
+    <link rel="preload" href="{{ '/fonts/newsreader-600.ttf' | relative_url }}" as="font" type="font/ttf" crossorigin />
+    <link rel="preload" href="{{ '/fonts/ibm-plex-sans-400.ttf' | relative_url }}" as="font" type="font/ttf" crossorigin />
     <link rel="stylesheet" href="{{ '/css/main.css' | relative_url }}" />
   </head>
   <body class="layout-{{ page.layout | default: 'default' }} page-{{ page.title | slugify }}">
@@ -27,7 +26,7 @@
       <header class="site-header">
         <div class="container nav">
           <a class="brand" href="{{ '/' | relative_url }}">
-            <span class="brand-title">{{ site.title }}</span>
+            <img class="brand-art" src="{{ '/images/collage/name-patchwork.png' | relative_url }}" alt="{{ site.title }}" width="2172" height="724" fetchpriority="high" />
           </a>
           <nav class="nav-links" aria-label="Primary">
             {% for path in site.header_pages %}

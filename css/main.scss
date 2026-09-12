@@ -3,6 +3,23 @@ layout: null
 ---
 @charset "utf-8";
 
+@each $weight in 400, 500, 600 {
+  @font-face {
+    font-family: "Newsreader";
+    font-style: normal;
+    font-weight: $weight;
+    font-display: swap;
+    src: url("{{ '/fonts/' | relative_url }}newsreader-#{$weight}.ttf") format("truetype");
+  }
+  @font-face {
+    font-family: "IBM Plex Sans";
+    font-style: normal;
+    font-weight: $weight;
+    font-display: swap;
+    src: url("{{ '/fonts/' | relative_url }}ibm-plex-sans-#{$weight}.ttf") format("truetype");
+  }
+}
+
 :root {
   --font-display: "Newsreader", Georgia, serif;
   --font-text: "IBM Plex Sans", sans-serif;
@@ -162,4 +179,47 @@ h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.03
   .page-shane-lindsay .page-content { padding-top: 42px; }
   .page-shane-lindsay .prose > p:first-child { font-size: 22px; }
   .page-shane-lindsay .prose > p:last-child { font-size: 14px; }
+}
+
+/* Generated lettering is the shared masthead artwork. */
+.site-header .container { width: 74%; max-width: 1320px; margin-left: 11%; }
+.brand { display: block; flex: 0 0 270px; }
+.brand-art { width: 270px; height: auto; }
+.nav { align-items: center; column-gap: 30px; padding-bottom: 12px; }
+.nav-links { font-size: 16px; column-gap: 24px; }
+.nav-links a { white-space: nowrap; }
+
+/* The homepage is a composition of illustrated lettering, a note and a brain. */
+.page-shane-lindsay {
+  background: var(--paper) url("{{ '/images/generated/site-texture.webp' | relative_url }}") center top / cover;
+}
+.page-shane-lindsay .page-artwork { display: none; }
+.page-shane-lindsay .site-header { padding-top: 0; }
+.page-shane-lindsay .site-header .container { width: 88%; max-width: 1440px; margin: 0 auto; }
+.page-shane-lindsay .nav { flex-direction: column; align-items: flex-start; gap: 0; padding-bottom: 16px; }
+.page-shane-lindsay .brand { flex: none; width: min(780px, 65%); margin-left: -8px; }
+.page-shane-lindsay .brand-art { width: 100%; }
+.page-shane-lindsay .nav-links { justify-content: flex-start; gap: 12px 36px; font-size: 18px; }
+.home-composition { display: grid; grid-template-columns: 40% 60%; align-items: center; width: 92%; max-width: 1536px; margin: 42px auto 0; }
+.home-introduction { position: relative; z-index: 1; transform: rotate(-2deg); }
+.intro-note { width: 100%; height: auto; }
+.home-brain { width: 100%; height: auto; transform: rotate(1deg); }
+.home-contact { width: 88%; max-width: 1440px; margin: 28px auto 36px; font-size: 17px; line-height: 2; }
+.home-contact p { margin: 0; }
+.home-contact a { white-space: nowrap; }
+@media (max-width: 1320px) and (min-width: 701px) {
+  .nav { flex-direction: column; align-items: flex-start; gap: 8px; }
+  .brand { flex: none; }
+  .nav-links { justify-content: flex-start; }
+}
+@media (max-width: 700px) {
+  .site-header .container { width: calc(100% - 48px); margin-left: 24px; }
+  .brand { flex: none; }
+  .brand-art { width: 250px; }
+  .nav { align-items: flex-start; }
+  .nav-links, .page-shane-lindsay .nav-links { font-size: 14px; gap: 8px 18px; }
+  .page-shane-lindsay .brand { width: 100%; }
+  .home-composition { grid-template-columns: 1fr; margin-top: 28px; gap: 16px; }
+  .home-introduction { width: 96%; margin: auto; }
+  .home-contact { font-size: 15px; }
 }
