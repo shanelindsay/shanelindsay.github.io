@@ -102,3 +102,39 @@ h1 { margin: 0; font-size: clamp(2.6rem, 5vw, 4rem); line-height: 1.08; letter-s
   html { scroll-behavior: auto; }
   a { transition: none; }
 }
+/* Notebook composition: artwork stays outside the reading column. */
+.page-coglang-lab {
+  --paper: #e3eff7;
+  --ink: #193b53;
+  --line: #bdcfdd;
+  border-top: 0;
+}
+.page-coglang-lab .nav { border-bottom: 0; }
+.page-coglang-lab .nav-links { font-family: var(--font-display); font-size: 18px; }
+.notebook { position: relative; overflow: hidden; padding: 58px 0 90px; }
+.notebook-reading { position: relative; width: min(620px, 52%); margin-left: max(23%, calc((100% - 840px) / 2)); }
+.notebook-reading h1 { margin-bottom: 36px; font-size: clamp(2.8rem, 4.5vw, 4rem); }
+.notebook-reading .prose { font-family: var(--font-display); font-size: 23px; line-height: 1.5; }
+.notebook-reading .prose h2 { border: 0; padding: 0; margin-top: 1.6em; font-size: 32px; }
+.notebook-art { pointer-events: none; user-select: none; }
+.notebook-art img { position: absolute; mix-blend-mode: multiply; }
+.notebook-eye { width: 330px; left: -130px; top: 5px; opacity: .7; }
+.notebook-instrument { width: min(30vw, 430px); right: -65px; top: 40px; opacity: .65; }
+@media (min-width: 1600px) {
+  .notebook-eye { left: calc(50% - 930px); }
+  .notebook-instrument { right: calc(50% - 850px); }
+}
+@media (max-width: 1000px) {
+  .notebook-reading { width: 64%; margin-left: 12%; }
+  .notebook-eye { width: 200px; left: -150px; }
+  .notebook-instrument { width: 260px; right: -120px; opacity: .45; }
+}
+@media (max-width: 600px) {
+  .notebook { padding: 30px 20px 50px; }
+  .notebook-reading { width: 100%; margin: 0; }
+  .notebook-reading h1 { font-size: 38px; padding-right: 85px; min-height: 68px; margin-bottom: 24px; }
+  .notebook-reading .prose { font-size: 21px; }
+  .notebook-reading .prose h2 { font-size: 29px; }
+  .notebook-eye { display: none; }
+  .notebook-instrument { width: 94px; right: 4px; top: 10px; opacity: .7; }
+}

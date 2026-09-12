@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: notebook
 title: CogLang Lab
 permalink: /lab/
 published: true
@@ -7,9 +7,7 @@ published: true
 
 CogLang brings together research and student projects on language, cognition, learning, memory and visual attention at the University of Hull. I lead the lab, working with students and collaborators on behavioural experiments, eye tracking and cognitive measurement.
 
-<figure class="page-art page-art-wide">
-  <img src="{{ '/images/generated/lab-methods-panel.webp' | relative_url }}" alt="" loading="lazy" />
-</figure>
+
 
 Our research includes word learning and memory consolidation, respiration and cognition, language processing and individual differences. See [Research]({{ '/research/' | relative_url }}) for the research programme and [Research students]({{ '/research-students/' | relative_url }}) for the people and projects.
 
