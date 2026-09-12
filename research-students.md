@@ -27,9 +27,9 @@ I also co-supervise **Nicki Wise**, whose doctoral thesis was submitted in 2026.
 
 ## Previous doctoral supervision
 
-- **Bethanie Richards** — first supervisor. *The Influence of Breathing Pathway on Cognitive Processes*. Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search.
-- **Andrew Lucas** — first supervisor. *The Nature of Novel Word Representations: Computer Mouse Tracking Shows Evidence of Immediate Lexical Engagement Effects in Adults*. Research on word learning and lexical engagement, supported by an ESRC studentship.
-- **Tom Peney** — second supervisor. *Visual Cognition in Immersive Virtual Reality: Theoretical and Practical Insights*. Research on immersion, visual attention, change blindness and visual search.
+- **Bethanie Richards** — first supervisor. [*The Influence of Breathing Pathway on Cognitive Processes*](https://hull-repository.worktribe.com/output/5461944). Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search.
+- **Andrew Lucas** — first supervisor. [*The Nature of Novel Word Representations: Computer Mouse Tracking Shows Evidence of Immediate Lexical Engagement Effects in Adults*](https://hull-repository.worktribe.com/output/4223534). Research on word learning and lexical engagement, supported by an ESRC studentship.
+- **Tom Peney** — second supervisor. [*Visual Cognition in Immersive Virtual Reality: Theoretical and Practical Insights*](https://hull-repository.worktribe.com/output/5462270). Research on immersion, visual attention, change blindness and visual search.
 - **Eloise McCann** — second supervisor. [*Lingua Chorus: An Investigation into Singers’ Experiences of Non-Native Language Learning through Choral Activity in the UK*](https://hull-repository.worktribe.com/output/5646283).
 - **Sylwia Macinska** — second supervisor, 2016–2018.
 
