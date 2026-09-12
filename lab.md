@@ -11,7 +11,7 @@ CogLang brings together research and student projects on language, cognition, le
   <img src="{{ '/images/generated/lab-methods-panel.webp' | relative_url }}" alt="" loading="lazy" />
 </figure>
 
-Our research includes word learning and memory consolidation, respiration and cognition, language processing and individual differences. Current doctoral projects concern verbal fluency, AI-assisted quantitative analysis and bilingual language control. See [Research]({{ '/research/' | relative_url }}) for the research programme and [Research students]({{ '/research-students/' | relative_url }}) for the people and projects.
+Our research includes word learning and memory consolidation, respiration and cognition, language processing and individual differences. See [Research]({{ '/research/' | relative_url }}) for the research programme and [Research students]({{ '/research-students/' | relative_url }}) for the people and projects.
 
 ## Methods
 
