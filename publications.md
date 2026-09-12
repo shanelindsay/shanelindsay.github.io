@@ -77,4 +77,4 @@ Richards, B., Skarratt, P., Holle, H., & Lindsay, S. (Under review). Stage 2 pre
 
 Lyu, Y., Stone, K., & Lindsay, S. (In preparation). Test-retest reliability of verbal fluency task measures. *Manuscript in preparation*.
 
-Lucas, A., Lindsay, S., O'Connor, R., & Riggs, K. (In preparation). Immediate and delayed lexical engagement of newly acquired words: Evidence from mouse-tracking. *Manuscript in preparation*.
+Lucas, A., O'Connor, R., Riggs, K., & Lindsay, S. (In preparation). Immediate and delayed lexical engagement of newly acquired words: Evidence from mouse-tracking. *Manuscript in preparation*.
