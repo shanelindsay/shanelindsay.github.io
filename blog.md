@@ -3,7 +3,6 @@ layout: page
 title: Blog
 permalink: /blog/
 published: true
-lede: Notes on research, teaching, and the tools I use.
 ---
 
 <div class="posts">

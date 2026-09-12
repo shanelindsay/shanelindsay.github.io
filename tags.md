@@ -3,7 +3,6 @@ layout: page
 title: Tags
 permalink: /tags/
 published: true
-lede: Browse posts by topic.
 ---
 
 <ul class="tag-index">

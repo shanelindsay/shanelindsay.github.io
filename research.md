@@ -3,66 +3,47 @@ layout: page
 title: Research
 permalink: /research/
 published: true
-lede: Current questions, main research strands, and selected outputs.
 ---
 
-My research examines how language is learned, represented, and used in the context of memory, perception, and action. I work across psycholinguistics, cognitive psychology, and research methods, using behavioural experiments, eye tracking, and cognitive neuroscience approaches to study how people understand and remember language in the real world.
+My research examines how language is learned, represented and used in the context of memory, perception and action. I use behavioural experiments, eye tracking and cognitive-neuroscience methods, with an interest in how physiological state and individual differences shape cognitive performance.
 
-## Current research questions
+## Word learning and memory
 
-- How are new words integrated into memory over time?
-- What roles do sleep and waking rest play in consolidation?
-- How do perception and action shape spoken-language processing?
-- How do visual scenes and language combine during comprehension?
-- How can better measurement and analytic practice improve psychological research?
+How does a newly learned word become part of our vocabulary? I study how new words interact with existing knowledge, and how sleep, waking rest and the spacing of learning affect that process. Related work examines how memories change when they are retrieved and how sleep affects their subsequent consolidation.
 
-## Research areas
+- [Lexical integration of novel words without sleep](https://doi.org/10.1037/a0029243) (2013). [PDF]({{ '/papers/Lexical_integration_of_novel_words_without_sleep.pdf' | relative_url }})
+- [Markers of automaticity in sleep-associated consolidation of novel words](https://doi.org/10.1016/j.neuropsychologia.2015.03.025) (2015). [PDF]({{ '/papers/Tham_Lindsay_Gaskell.pdf' | relative_url }})
+- [Sleep preserves original and distorted memory traces](https://doi.org/10.1016/j.cortex.2017.10.005) (2018). [PDF]({{ '/papers/cairney2017.pdf' | relative_url }})
+- [How well do children remember fast-mapped words?](https://doi.org/10.1002/icd.70019) (2025).
 
-### Word learning, memory, and consolidation
+## Respiration and cognition
 
-This strand of work examines how people acquire new vocabulary, how those representations stabilise, and how sleep, wakeful rest, and related factors affect consolidation.
+This work examines relationships between breathing and cognitive performance, including memory consolidation, visual search and visuospatial attention. Projects investigate both the route of breathing and the timing of events within the respiratory cycle.
 
-Selected outputs:
+- [Does oral breathing disrupt memory consolidation during waking rest? A registered report](https://doi.org/10.1177/17470218251328994) (2025).
 
-- Richards, B., Holle, H. & Lindsay, S. (2025). *Does oral breathing disrupt memory consolidation during waking rest? A registered report.* Quarterly Journal of Experimental Psychology, 78(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994)
-- Cairney, S. A., Lindsay, S., Paller, K. A. & Gaskell, M. G. (2018). *Sleep preserves original and distorted memory traces.* Cortex, 99, 39-44. [DOI](https://doi.org/10.1016/j.cortex.2017.10.005)
-- Tham, E. K. H., Lindsay, S. & Gaskell, M. G. (2015). *Markers of automaticity in sleep-associated consolidation of novel words.* Neuropsychologia, 71, 146-157. [DOI](https://doi.org/10.1016/j.neuropsychologia.2015.03.025)
-- Lindsay, S. & Gaskell, M. G. (2013). *Lexical integration of novel words without sleep.* Journal of Experimental Psychology: Learning, Memory, and Cognition, 39(2), 608-622. [PDF](papers/Lexical_integration_of_novel_words_without_sleep.pdf)
+## Speech perception and production
 
-### Speech, perception, and production
+I investigate how perceptual and motor systems contribute to spoken-language processing, and how speech categories adapt through experience. This includes work on learning new words and phonotactic constraints, and on the contribution of premotor cortex to phoneme judgements and comprehension.
 
-This work investigates how perceptual and motor systems contribute to spoken-language processing and how speech categories adapt through experience.
+- [Acquiring novel words and their past tenses](https://doi.org/10.1016/j.jml.2011.07.005) (2012). [PDF]({{ '/papers/1-s2.0-S0749596X11000763-main.pdf' | relative_url }})
+- [The selective role of premotor cortex in speech perception](https://doi.org/10.1162/jocn_a_00463) (2013). [PDF]({{ '/papers/jocn_a_00463_1_.pdf' | relative_url }})
+- [Plasticity of categories in speech perception and production](https://doi.org/10.1080/23273798.2021.2018471) (2022).
 
-Selected outputs:
+## Language and visual attention
 
-- Lindsay, S., Clayards, M., Gennari, S. & Gaskell, M. G. (2022). *Plasticity of categories in speech perception and production.* Language, Cognition and Neuroscience, 37(6), 707-731. [DOI](https://doi.org/10.1080/23273798.2021.2018471)
-- Krieger-Redwood, K., Gaskell, M. G., Lindsay, S. & Jefferies, E. (2013). *The selective role of premotor cortex in speech perception: a contribution to phoneme judgements but not speech comprehension.* Journal of Cognitive Neuroscience, 25(12), 2179-2188. [PDF](papers/jocn_a_00463_1_.pdf)
-- Lindsay, S., Sedin, L. & Gaskell, M. G. (2012). *Acquiring novel words and their past tenses: evidence from lexical effects on phonetic categorisation.* Journal of Memory and Language, 66(1), 210-225. [PDF](papers/1-s2.0-S0749596X11000763-main.pdf)
+How do people combine language with what they see? I use eye tracking and behavioural tasks to investigate how descriptions of events direct attention and evoke representations of motion and space.
 
-### Language, vision, and event representation
+- [Spatial and linguistic aspects of visual imagery in sentence comprehension](https://doi.org/10.1080/03640210701530748) (2007). [PDF]({{ '/papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf' | relative_url }})
+- [To dash or to dawdle](https://doi.org/10.1371/journal.pone.0067187) (2013).
+- [Event processing in the visual world](https://doi.org/10.1037/xlm0000199) (2016). [PDF]({{ '/papers/Event_processing_in_the_visual_world.pdf' | relative_url }})
 
-Here I examine how language unfolds in visually rich contexts, and how listeners use perceptual information to build dynamic mental representations of events.
+## Measurement and research methods
 
-Selected outputs:
+I work on measurement precision, individual differences and the consequences of analytic decisions. Current doctoral research examines the reliability and structure of verbal fluency measures, and how AI assistance affects students' quantitative analysis, trust and responsibility.
 
-- Kamide, Y., Lindsay, S., Scheepers, C. & Kukona, A. (2016). *Event processing in the visual world: projected motion paths during spoken sentence comprehension.* Journal of Experimental Psychology: Learning, Memory, and Cognition, 42(5), 804-812. [PDF](papers/Event_processing_in_the_visual_world.pdf)
-- Lindsay, S., Scheepers, C. & Kamide, Y. (2013). *To dash or to dawdle: verb-associated speed of motion influences eye movements during spoken sentence comprehension.* PLOS ONE, 8(6), e67187. [Article](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0067187)
-- Bergen, B., Lindsay, S., Matlock, T. & Narayanan, S. (2007). *Spatial and linguistic aspects of visual imagery in sentence comprehension.* Cognitive Science, 31, 733-764. [PDF](papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf)
+- [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
+- [Data from an international multi-centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
+- [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025).
 
-### Statistics, methods, and research quality
-
-I am also interested in measurement precision, analytic decision-making, and the quality of inference in developmental and cognitive research.
-
-Selected outputs:
-
-- Lindsay, S. & Mather, E. (2022). *Developmental psychologists should care about measurement precision.* Infant and Child Development, 31(1), e2321. [DOI](https://doi.org/10.1002/icd.2321)
-- Gould, E., Fraser, H. S., Parker, T. H., Nakagawa, S., Griffith, S. C., Vesk, P. A., Fidler, F., Hamilton, D. G., Abbott, J. K., Aguirre, L. A., Altschul, D., Atkins, J. W., Atkinson, J., Baker, C. M., Lindsay, S. & Bell, K. (2025). *Same data, different analysts: variation in effect sizes due to analytical decisions in ecology and evolutionary biology.* BMC Biology, 23, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x)
-- Terry, J. et al. (2023). *Data from an international multi-centre study of statistics and mathematics anxieties and related variables in university students.* Journal of Open Psychology Data, 11(1), Article 8. [DOI](https://doi.org/10.5334/jopd.80)
-
-## Working with students and collaborators
-
-I welcome conversations about student projects, postgraduate supervision, and collaborations connected to language, memory, cognition, or research methods. The [Research Students]({{ '/research-students/' | relative_url }}) and [CogLang Lab]({{ '/lab/' | relative_url }}) pages outline the kinds of questions, methods, and supervision routes that fit especially well with this work.
-
-## Full outputs
-
-[Publications]({{ '/publications/' | relative_url }}) · [Worktribe](https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs) · [Google Scholar](https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en)
+See the full [publication list]({{ '/publications/' | relative_url }}) and current [research students]({{ '/research-students/' | relative_url }}).

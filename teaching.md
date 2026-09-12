@@ -3,45 +3,32 @@ layout: page
 title: Teaching
 permalink: /teaching-and-learning/
 published: true
-lede: Current teaching, supervision themes, and scholarship in learning and assessment.
 redirect_from:
   - "/teaching and learning/"
 ---
 
-I teach across psychology methods and substantive areas at the University of Hull, with a particular interest in helping students become confident researchers, careful analysts, and clear scientific thinkers.
+I teach research methods, statistics, psychology of language and psychology of AI at the University of Hull, and supervise undergraduate dissertations and postgraduate research.
 
-## Current teaching
+## Research Skills 2
 
-- **Research Skills 2**: module leadership in first-year research methods and statistics
-- **Psychology of AI**: conceptual and empirical questions around AI in psychological science
-- **Psychology of Language**: language processing, representation, and cognition
-- **Project supervision**: undergraduate dissertations and postgraduate research projects
+I lead this first-year module in quantitative research methods and statistics. Students design and conduct a cued-recall experiment, obtain ethical approval, analyse their data and write an individual research report.
 
-## Teaching approach
+## Psychology of AI
 
-My teaching is grounded in the idea that students learn methods best when they use them to answer real questions. I aim to make quantitative reasoning, experimental design, and critical evaluation feel practical rather than abstract, and to connect classroom learning to the kinds of judgement required in research projects.
+I co-teach this final-year module. My teaching covers large language models and human cognition; AI agents, autonomy, trust and responsibility; philosophy of mind; and the societal implications of AI. Workshops give students direct experience of language models and agentic systems.
 
-## Supervision and student projects
+## The Psychology of Language
 
-I welcome projects connected to:
+I co-developed this final-year module and lead its word-processing block. Topics include lexical access, word recognition, word learning, bilingual word recognition and complementary learning systems. A computer-laboratory workshop uses word-recognition data to teach regression analysis and the interpretation of reaction-time predictors.
 
-- language and cognition
-- memory and learning
-- psycholinguistics
-- visual attention and eye tracking
-- research methods, statistics, and measurement
-- psychology and AI
+## Research projects
 
-If you are considering a dissertation, Masters project, or doctoral application, the [Research Students]({{ '/research-students/' | relative_url }}) and [CogLang Lab]({{ '/lab/' | relative_url }}) pages give a better sense of the kinds of questions and methods that fit well with my supervision.
+I supervise undergraduate dissertations in cognition, language, learning, memory, research methods and AI. Current postgraduate projects are described on the [Research students]({{ '/research-students/' | relative_url }}) page.
 
-## Teaching scholarship
+## Teaching development
 
-Alongside teaching delivery, I have contributed to pedagogic development work on assessment, feedback, and student judgement.
+As School AI Champion, I work on student AI literacy and AI-aware teaching and assessment, including academic integrity, source evaluation and checking AI outputs. I also contribute to curriculum development and advise colleagues on these issues.
 
-### Exemplar-based peer assessment
+With Stuart McGugan, I worked on exemplar-based peer assessment, supported by a University of Hull Pedagogic Development Grant. The approach helps students develop their judgement of quality by assessing examples of work. [Presentation: Increasing capability in assessment and self-regulation through multiple choice marking of exemplars]({{ '/papers/Increasing%20capability%20in%20assessment%20and%20self-regulation%20through%20multiple%20choice%20marking%20of%20exemplars.pdf' | relative_url }}).
 
-With Dr Stuart McGugan, I worked on assessment approaches that help students understand standards through structured engagement with exemplars. This work focused on strengthening students' evaluative judgement and self-assessment capacity, and was supported by a Pedagogic Development Grant from the University of Hull.
-
-### Ipsative feedback and reflective cover sheets
-
-I have also worked on approaches to feedback that foreground progress over time, including the use of reflective cover sheets to support dialogue between students and tutors. The aim was to make feedback more actionable and more clearly connected to improvement across assignments.
+I have also worked on ipsative feedback and reflective cover sheets to help students use feedback across successive assignments. I am a Senior Fellow of the Higher Education Academy and was Programme Director for Psychology with Criminology from 2020 to 2024.
