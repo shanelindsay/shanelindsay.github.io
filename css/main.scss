@@ -103,57 +103,63 @@ h1 { margin: 0; font-size: clamp(2.6rem, 5vw, 4rem); line-height: 1.08; letter-s
   a { transition: none; }
 }
 
-/* Collage artwork is independent of the page's editable text. */
-body { position: relative; border-top: 0; }
+/* Each page keeps the full composition of its selected artwork. */
+body { position: relative; border-top: 0; --reading-width: 60%; --reading-left: 20%; }
 .site-shell { position: relative; z-index: 1; }
-.nav { border-bottom: 1px solid var(--line); }
-.page-hero { padding-top: 58px; }
-.prose { max-width: 680px; }
-.prose h2 { border-top: 0; padding-top: 0; margin-top: 1.8em; }
-.collage-art { position: absolute; inset: 0; overflow: hidden; pointer-events: none; user-select: none; }
-.collage-edge { position: absolute; width: 560px; max-width: none; right: -50px; top: 135px; }
-.collage-left { display: none; }
-.collage-words { position: absolute; right: 35px; top: 1040px; display: grid; gap: 18px; font: 19px Georgia,serif; letter-spacing: .18em; transform: rotate(-7deg); }
-.page-shane-lindsay .collage-edge { width: 600px; right: 0; top: -80px; }
-.page-shane-lindsay .collage-words { display: none; }
-.page-shane-lindsay .page-content { padding-top: 92px; }
-.page-shane-lindsay .prose > p:first-child { font-family: var(--font-text); font-size: 25px; line-height: 1.65; }
-.page-publications .collage-edge { width: 380px; right: -170px; top: 110px; }
-.page-publications .collage-words { display: none; }
-.page-publications .prose { max-width: 760px; }
-.page-teaching .collage-edge { top: 190px; }
-.page-coglang-lab .page-hero .container,
-.page-coglang-lab .page-content .container { width: 52%; max-width: 660px; margin-left: 25%; margin-right: 0; }
-.page-coglang-lab .collage-edge { width: 700px; right: -80px; top: 110px; }
-.page-coglang-lab .collage-left { display: block; position: absolute; width: 500px; max-width: none; left: 0; top: 0; }
-.page-coglang-lab .prose { font-size: 19px; line-height: 1.7; }
-@media (min-width: 1600px) {
-  .collage-edge { right: calc((100% - 1600px) / 2 - 50px); }
-  .page-coglang-lab .collage-edge { right: calc((100% - 1600px) / 2 - 100px); }
-}
-@media (max-width: 1150px) {
-  .prose { max-width: 65%; }
-  .page-publications .prose { max-width: 80%; }
-  .collage-edge { width: 470px; right: -100px; }
-  .page-shane-lindsay .prose { max-width: 70%; }
-  .page-coglang-lab .prose { max-width: 100%; }
-  .page-coglang-lab .page-hero .container,
-  .page-coglang-lab .page-content .container { width: 64%; margin-left: 14%; }
-  .page-coglang-lab .collage-left { width: 350px; left: -45px; }
-  .page-coglang-lab .collage-edge { width: 430px; right: -175px; }
-  .collage-words { right: 12px; font-size: 14px; }
+.page-artwork { position: fixed; inset: 0; z-index: 0; pointer-events: none; background-position: center; background-size: 100% 100%; background-repeat: no-repeat; background-color: var(--paper); background-blend-mode: multiply; }
+.site-header { padding-top: 28px; }
+.site-header .container { width: 72%; max-width: 1240px; margin-left: 11%; }
+.nav { padding-bottom: 24px; border-bottom: 1px solid #cec9bd; }
+.brand-title { font-size: 32px; }
+.nav-links { font-size: 15px; gap: 10px 28px; }
+.page-hero { padding: 50px 0 24px; }
+.page-hero .container, .page-content .container { width: var(--reading-width); max-width: 960px; margin-left: var(--reading-left); margin-right: 0; }
+h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.035em; }
+.prose { max-width: none; font-size: 19px; line-height: 1.65; }
+.prose h2 { margin: 1.65em 0 .5em; padding: 0; border: 0; font-size: clamp(28px, 2.5vw, 38px); font-weight: 600; }
+.prose p { margin-bottom: 1.3em; }
+.page-research .prose > ul { list-style: none; border-block: 1px solid #cec9bd; padding: 10px 0; margin: 1.4em 0 2em; font-size: 16px; }
+.page-research .prose > ul > li { position: relative; padding: 3px 50px 3px 0; margin: 4px 0; }
+.page-research .prose > ul > li > a:first-child { color: var(--ink); text-decoration: none; }
+.page-research .prose > ul > li > a:first-child:hover { text-decoration: underline; }
+.page-research .prose > ul > li > a[href$=".pdf"] { position: absolute; right: 0; top: 3px; color: #205b90; }
+.page-research .prose > ul > li > a[href$=".pdf"]::after { content: " ↗"; font-size: .85em; }
+.page-shane-lindsay { --reading-width: 61%; --reading-left: 14%; }
+.page-shane-lindsay .page-content { padding-top: 112px; }
+.page-shane-lindsay .prose { max-width: 840px; }
+.page-shane-lindsay .prose > p:first-child { font-family: var(--font-text); font-size: clamp(23px, 2vw, 29px); line-height: 1.65; }
+.page-shane-lindsay .prose > p:last-child { font-size: 16px; margin-top: 36px; }
+.page-publications { --reading-width: 69%; --reading-left: 14%; }
+.page-publications .prose { font-size: 18px; }
+.page-publications .prose > p { margin-bottom: 1.5em; }
+.page-research-students { --reading-width: 49%; --reading-left: 26%; }
+.page-research-students .prose > ul { font-size: 17px; }
+.page-coglang-lab { --reading-width: 43%; --reading-left: 27%; }
+.page-coglang-lab .page-hero { padding-top: 70px; }
+.page-teaching { --reading-width: 62%; --reading-left: 11%; }
+.site-footer .container { width: var(--reading-width); max-width: 960px; margin-left: var(--reading-left); }
+.footer-bottom { flex-direction: column; gap: 5px; }
+@media (max-width: 1100px) {
+  .site-header .container { width: 72%; }
+  .nav { gap: 12px; }
+  .nav-links { gap: 8px 20px; }
+  .prose { font-size: 18px; }
+  .page-hero { padding-top: 36px; }
+  .page-coglang-lab .page-hero { padding-top: 40px; }
 }
 @media (max-width: 700px) {
-  .container { width: calc(100% - 40px); }
-  .prose, .page-publications .prose, .page-shane-lindsay .prose { max-width: 100%; }
-  .page-hero { padding-top: 34px; }
-  .collage-edge, .page-publications .collage-edge, .page-shane-lindsay .collage-edge,
-  .page-teaching .collage-edge, .page-coglang-lab .collage-edge { width: 220px; right: -15px; top: -60px; clip-path: inset(0 0 55% 0); }
-  .collage-words, .page-coglang-lab .collage-left { display: none; }
-  .page-coglang-lab .page-hero .container,
-  .page-coglang-lab .page-content .container { width: calc(100% - 40px); margin-inline: auto; }
-  .page-coglang-lab .prose { font-size: 17px; }
-  .page-shane-lindsay .page-content { padding-top: 46px; }
+  body { --reading-width: calc(100% - 72px) !important; --reading-left: 36px !important; }
+  .page-artwork { position: absolute; height: 180px; background-size: 100% auto; background-position: center top; mask-image: linear-gradient(black 55%, transparent); }
+  .site-header .container { width: calc(100% - 72px); margin-left: 36px; }
+  .site-header { padding-top: 22px; }
+  .brand-title { font-size: 28px; }
+  .nav-links { font-size: 14px; gap: 8px 16px; }
+  .page-hero { padding: 30px 0 20px; }
+  h1 { font-size: 39px; }
+  .prose, .page-publications .prose { font-size: 17px; }
+  .prose h2 { font-size: 29px; }
+  .page-research .prose > ul { font-size: 15px; }
+  .page-shane-lindsay .page-content { padding-top: 42px; }
   .page-shane-lindsay .prose > p:first-child { font-size: 22px; }
-  .site-header .nav { padding-right: 12px; }
+  .page-shane-lindsay .prose > p:last-child { font-size: 14px; }
 }
