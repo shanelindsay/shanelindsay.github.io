@@ -1,5 +1,5 @@
 ---
-layout: notebook
+layout: page
 title: CogLang Lab
 permalink: /lab/
 published: true

@@ -11,6 +11,24 @@
   </head>
   <body class="layout-{{ page.layout | default: 'default' }} page-{{ page.title | slugify }}">
     <a class="skip-link" href="#main">Skip to content</a>
+    {% if page.layout == "page" %}
+    <div class="collage-art" aria-hidden="true">
+      {% if page.url == "/lab/" %}
+      <img class="collage-edge" src="{{ '/images/generated/collage-eye.png' | relative_url }}" alt="" width="1024" height="1536" />
+      <img class="collage-left" src="{{ '/images/generated/collage-left.png' | relative_url }}" alt="" width="1024" height="1536" />
+      {% else %}
+      <img class="collage-edge" src="{{ '/images/generated/collage-type.png' | relative_url }}" alt="" width="1024" height="1536" />
+      {% endif %}
+      <div class="collage-words">
+        {% case page.url %}
+          {% when "/research/" %}<span>language</span><span>memory</span><span>perception</span>
+          {% when "/research-students/" %}<span>words</span><span>ideas</span><span>voices</span>
+          {% when "/teaching-and-learning/" %}<span>think</span><span>learn</span><span>question</span>
+          {% when "/lab/" %}<span>language</span><span>cognition</span><span>attention</span>
+        {% endcase %}
+      </div>
+    </div>
+    {% endif %}
     <div class="site-shell">
       <header class="site-header">
         <div class="container nav">

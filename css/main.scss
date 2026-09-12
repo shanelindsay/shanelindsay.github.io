@@ -6,11 +6,11 @@ layout: null
 :root {
   --font-display: "Newsreader", Georgia, serif;
   --font-text: "IBM Plex Sans", sans-serif;
-  --ink: #172842;
-  --muted: #526079;
-  --paper: #edf1f8;
-  --accent: #b13c22;
-  --line: #bec9da;
+  --ink: #15212b;
+  --muted: #5d605e;
+  --paper: #f5f1e7;
+  --accent: #a63e2b;
+  --line: #d3d0c7;
   --max-width: 1120px;
 }
 * { box-sizing: border-box; }
@@ -102,39 +102,58 @@ h1 { margin: 0; font-size: clamp(2.6rem, 5vw, 4rem); line-height: 1.08; letter-s
   html { scroll-behavior: auto; }
   a { transition: none; }
 }
-/* Notebook composition: artwork stays outside the reading column. */
-.page-coglang-lab {
-  --paper: #e3eff7;
-  --ink: #193b53;
-  --line: #bdcfdd;
-  border-top: 0;
-}
-.page-coglang-lab .nav { border-bottom: 0; }
-.page-coglang-lab .nav-links { font-family: var(--font-display); font-size: 18px; }
-.notebook { position: relative; overflow: hidden; padding: 58px 0 90px; }
-.notebook-reading { position: relative; width: min(620px, 52%); margin-left: max(23%, calc((100% - 840px) / 2)); }
-.notebook-reading h1 { margin-bottom: 36px; font-size: clamp(2.8rem, 4.5vw, 4rem); }
-.notebook-reading .prose { font-family: var(--font-display); font-size: 23px; line-height: 1.5; }
-.notebook-reading .prose h2 { border: 0; padding: 0; margin-top: 1.6em; font-size: 32px; }
-.notebook-art { pointer-events: none; user-select: none; }
-.notebook-art img { position: absolute; mix-blend-mode: multiply; }
-.notebook-eye { width: 330px; left: -130px; top: 5px; opacity: .7; }
-.notebook-instrument { width: min(30vw, 430px); right: -65px; top: 40px; opacity: .65; }
+
+/* Collage artwork is independent of the page's editable text. */
+body { position: relative; border-top: 0; }
+.site-shell { position: relative; z-index: 1; }
+.nav { border-bottom: 1px solid var(--line); }
+.page-hero { padding-top: 58px; }
+.prose { max-width: 680px; }
+.prose h2 { border-top: 0; padding-top: 0; margin-top: 1.8em; }
+.collage-art { position: absolute; inset: 0; overflow: hidden; pointer-events: none; user-select: none; }
+.collage-edge { position: absolute; width: 560px; max-width: none; right: -50px; top: 135px; }
+.collage-left { display: none; }
+.collage-words { position: absolute; right: 35px; top: 1040px; display: grid; gap: 18px; font: 19px Georgia,serif; letter-spacing: .18em; transform: rotate(-7deg); }
+.page-shane-lindsay .collage-edge { width: 600px; right: 0; top: -80px; }
+.page-shane-lindsay .collage-words { display: none; }
+.page-shane-lindsay .page-content { padding-top: 92px; }
+.page-shane-lindsay .prose > p:first-child { font-family: var(--font-text); font-size: 25px; line-height: 1.65; }
+.page-publications .collage-edge { width: 380px; right: -170px; top: 110px; }
+.page-publications .collage-words { display: none; }
+.page-publications .prose { max-width: 760px; }
+.page-teaching .collage-edge { top: 190px; }
+.page-coglang-lab .page-hero .container,
+.page-coglang-lab .page-content .container { width: 52%; max-width: 660px; margin-left: 25%; margin-right: 0; }
+.page-coglang-lab .collage-edge { width: 700px; right: -80px; top: 110px; }
+.page-coglang-lab .collage-left { display: block; position: absolute; width: 500px; max-width: none; left: 0; top: 0; }
+.page-coglang-lab .prose { font-size: 19px; line-height: 1.7; }
 @media (min-width: 1600px) {
-  .notebook-eye { left: calc(50% - 930px); }
-  .notebook-instrument { right: calc(50% - 850px); }
+  .collage-edge { right: calc((100% - 1600px) / 2 - 50px); }
+  .page-coglang-lab .collage-edge { right: calc((100% - 1600px) / 2 - 100px); }
 }
-@media (max-width: 1000px) {
-  .notebook-reading { width: 64%; margin-left: 12%; }
-  .notebook-eye { width: 200px; left: -150px; }
-  .notebook-instrument { width: 260px; right: -120px; opacity: .45; }
+@media (max-width: 1150px) {
+  .prose { max-width: 65%; }
+  .page-publications .prose { max-width: 80%; }
+  .collage-edge { width: 470px; right: -100px; }
+  .page-shane-lindsay .prose { max-width: 70%; }
+  .page-coglang-lab .prose { max-width: 100%; }
+  .page-coglang-lab .page-hero .container,
+  .page-coglang-lab .page-content .container { width: 64%; margin-left: 14%; }
+  .page-coglang-lab .collage-left { width: 350px; left: -45px; }
+  .page-coglang-lab .collage-edge { width: 430px; right: -175px; }
+  .collage-words { right: 12px; font-size: 14px; }
 }
-@media (max-width: 600px) {
-  .notebook { padding: 30px 20px 50px; }
-  .notebook-reading { width: 100%; margin: 0; }
-  .notebook-reading h1 { font-size: 38px; padding-right: 85px; min-height: 68px; margin-bottom: 24px; }
-  .notebook-reading .prose { font-size: 21px; }
-  .notebook-reading .prose h2 { font-size: 29px; }
-  .notebook-eye { display: none; }
-  .notebook-instrument { width: 94px; right: 4px; top: 10px; opacity: .7; }
+@media (max-width: 700px) {
+  .container { width: calc(100% - 40px); }
+  .prose, .page-publications .prose, .page-shane-lindsay .prose { max-width: 100%; }
+  .page-hero { padding-top: 34px; }
+  .collage-edge, .page-publications .collage-edge, .page-shane-lindsay .collage-edge,
+  .page-teaching .collage-edge, .page-coglang-lab .collage-edge { width: 220px; right: -15px; top: -60px; clip-path: inset(0 0 55% 0); }
+  .collage-words, .page-coglang-lab .collage-left { display: none; }
+  .page-coglang-lab .page-hero .container,
+  .page-coglang-lab .page-content .container { width: calc(100% - 40px); margin-inline: auto; }
+  .page-coglang-lab .prose { font-size: 17px; }
+  .page-shane-lindsay .page-content { padding-top: 46px; }
+  .page-shane-lindsay .prose > p:first-child { font-size: 22px; }
+  .site-header .nav { padding-right: 12px; }
 }
