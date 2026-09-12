@@ -7,6 +7,8 @@ published: true
 
 [Google Scholar]({{ site.google_scholar_url }}) · [Worktribe]({{ site.worktribe_url }})
 
+Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (in press). Fast mapping does not enhance lexical integration for spoken or written novel words. *Journal of Memory and Language*.
+
 Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088)
 
 Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped words? A pre-registered meta-analysis of retention following the mutual exclusivity response. *Infant and Child Development, 34*(3), e70019. [DOI](https://doi.org/10.1002/icd.70019)
@@ -65,13 +67,11 @@ Bergen, B. K., Lindsay, S., Matlock, T., & Narayanan, S. (2007). Spatial and lin
 
 ## Under review
 
-Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (Under review). Fast mapping does not enhance lexical integration for spoken or written novel words. *Journal of Memory and Language*.
+Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety — a multi-lab, multi-study investigation. *Manuscript under review*.
 
-Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety — a multi-lab, multi-study investigation. *Royal Society Open Science*.
+Lindsay, S., & Wibroe, J. (Under review). No evidence that overnight sleep improves associative inference. *Manuscript under review*.
 
-Lindsay, S., & Wibroe, J. (Under review). No evidence that overnight sleep improves associative inference. *Memory*.
-
-Richards, B., Skarratt, P., Holle, H., & Lindsay, S. (Under review). Stage 2 pre-registered report manuscript: The impact of oral and nasal breathing on visual search performance: A pre-registered replication and extension. *Attention, Perception & Psychophysics*.
+Richards, B., Skarratt, P., Holle, H., & Lindsay, S. (Under review). Stage 2 pre-registered report manuscript: The impact of oral and nasal breathing on visual search performance: A pre-registered replication and extension. *Manuscript under review*.
 
 ## In preparation
 
