@@ -25,11 +25,11 @@ The project examines bilingual language control in high-pressure public service 
 
 ## Previous doctoral supervision
 
-- **Bethanie Richards** (2019–2025) — first supervisor. Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
-- **Andrew Lucas** (2017–2020) — first supervisor. Research on word learning and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
-- **Tom Peney** (2021–2025) — second supervisor. Research on immersion, visual attention, change blindness and visual search. [Thesis](https://hull-repository.worktribe.com/output/5462270).
-- **Eloise McCann** (2017–2026) — second supervisor. [Thesis](https://hull-repository.worktribe.com/output/5646283).
-- **Sylwia Macinska** (2016–2018) — second supervisor.
+- **Bethanie Richards** (2019–2025) — First supervisor. Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
+- **Andrew Lucas** (2017–2020) — First supervisor. Research on word learning and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
+- **Tom Peney** (2021–2025) — Second supervisor. Research on immersion, visual attention, change blindness and visual search. [Thesis](https://hull-repository.worktribe.com/output/5462270).
+- **Eloise McCann** (2017–2026) — Second supervisor. [Thesis](https://hull-repository.worktribe.com/output/5646283).
+- **Sylwia Macinska** (2016–2018) — Second supervisor.
 
 ## Masters supervision
 
