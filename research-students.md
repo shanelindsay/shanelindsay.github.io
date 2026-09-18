@@ -33,8 +33,8 @@ The project examines bilingual language control in high-pressure public service 
 
 ## Masters supervision
 
-- **Timothy Roberts** (2026) — [Thesis](https://hull-repository.worktribe.com/output/5679057/the-influence-of-respiratory-cycles-on-visuospatial-attention).
-- **Alfie Hunt** (2019–2021) — MRes.
+- **Timothy Roberts** (2025–2026) — MRes. [Thesis](https://hull-repository.worktribe.com/output/5679057/the-influence-of-respiratory-cycles-on-visuospatial-attention).
+- **Alfie Hunt** (2019–2020) — MRes.
 - **Rob Nightingale** (2017–2018) — MRes.
 
 ## Supervision enquiries
