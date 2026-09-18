@@ -7,7 +7,7 @@ published: true
 
 [Google Scholar]({{ site.google_scholar_url }}) · [Worktribe]({{ site.worktribe_url }})
 
-Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (in press). Fast mapping does not enhance lexical integration for spoken or written novel words. *Journal of Memory and Language*.
+Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (2027). Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words. *Journal of Memory and Language, 152*, 104815. [DOI](https://doi.org/10.1016/j.jml.2026.104815) · [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
 
 Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088)
 
