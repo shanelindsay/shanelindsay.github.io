@@ -40,8 +40,6 @@ How do people combine language with what they see? I use eye tracking and behavi
 
 ## Measurement and research methods
 
-**Methodological interests**
-
 My methodological interests focus on how psychological studies can produce more informative and dependable evidence. I am particularly interested in measurement precision, effect sizes, statistical power, replication, registered reports and meta-analysis. Current interests include interpreting interaction effect sizes, representing dependence in repeated-measures designs, and understanding how publication bias, heterogeneity and study design affect the strength and variability of evidence.
 
 - [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
