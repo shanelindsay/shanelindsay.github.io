@@ -44,6 +44,6 @@ I work on measurement precision, individual differences and the consequences of 
 
 - [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
 - [Data from an international multi-centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
-- [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025).
+- [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025). [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 
 See the full [publication list]({{ '/publications/' | relative_url }}) and current [research students]({{ '/research-students/' | relative_url }}).

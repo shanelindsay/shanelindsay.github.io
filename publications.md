@@ -15,7 +15,7 @@ Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped word
 
 Richards, B., Holle, H., & Lindsay, S. (2025). Does oral breathing disrupt memory consolidation during waking rest? A registered report. *Quarterly Journal of Experimental Psychology, 78*(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994)
 
-Gould, E., Fraser, H. S., Parker, T. H., et al. (2025). Same data, different analysts: Variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology, 23*, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x)
+Gould, E., Fraser, H. S., Parker, T. H., et al. (2025). Same data, different analysts: Variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology, 23*, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x) · [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }}) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 Macinska, S., Lindsay, S., & Jellema, T. (2024). Visual attention to dynamic emotional faces in adults on the autism spectrum. *Journal of Autism and Developmental Disorders, 54*(6), 2211-2223. [DOI](https://doi.org/10.1007/s10803-023-05979-8)
 
