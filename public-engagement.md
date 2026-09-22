@@ -6,7 +6,7 @@ published: true
 ---
 
 <div class="spiral-drill" aria-hidden="true">
-  <img src="{{ '/images/collage/spiral-drill.webp' | relative_url }}" alt="" width="600" height="900" />
+  <img src="{{ '/images/collage/spiral-drill-green.webp' | relative_url }}" alt="" width="600" height="900" />
   <img class="spinning-disc" src="{{ '/images/collage/rotating-spiral.svg' | relative_url }}" alt="" width="200" height="200" />
 </div>
 
