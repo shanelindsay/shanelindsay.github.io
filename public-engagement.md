@@ -5,6 +5,11 @@ permalink: /public-engagement/
 published: true
 ---
 
+<div class="spiral-drill" aria-hidden="true">
+  <img src="{{ '/images/collage/spiral-drill.webp' | relative_url }}" alt="" width="600" height="900" />
+  <img class="spinning-disc" src="{{ '/images/collage/rotating-spiral.svg' | relative_url }}" alt="" width="200" height="200" />
+</div>
+
 <p class="engagement-intro">I share psychological science through hands-on activities, public talks, science festivals and creative events.</p>
 
 <div class="outreach-montage" aria-label="Photographs from public engagement events">
