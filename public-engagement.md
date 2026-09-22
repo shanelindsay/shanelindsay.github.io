@@ -28,8 +28,4 @@ I run **Pop-Up Psychology**, bringing short experiments and demonstrations about
 {% endfor %}
 </div>
 
-[Explore all the activity guides →](https://github.com/shanelindsay/pop-up-psych)
-
-<p class="activity-credit">Pop-Up Psychology resources by Shane Lindsay · <a href="https://creativecommons.org/licenses/by/4.0/">CC BY 4.0</a></p>
-
 <p class="engagement-contact">If you’re a schoolteacher or organising an event and would like to arrange a visit, <a href="mailto:{{ site.email }}">get in touch</a>.</p>
