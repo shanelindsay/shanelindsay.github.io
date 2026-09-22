@@ -72,9 +72,3 @@ Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety
 Lindsay, S., & Wibroe, J. (Under review). No evidence that overnight sleep improves associative inference. *Manuscript under review*.
 
 Richards, B., Skarratt, P., Holle, H., & Lindsay, S. (Under review). Stage 2 pre-registered report manuscript: The impact of oral and nasal breathing on visual search performance: A pre-registered replication and extension. *Manuscript under review*.
-
-## In preparation
-
-Lyu, Y., Stone, K., & Lindsay, S. (In preparation). Test-retest reliability of verbal fluency task measures. *Manuscript in preparation*.
-
-Lucas, A., O'Connor, R., Riggs, K., & Lindsay, S. (In preparation). Immediate and delayed lexical engagement of newly acquired words: Evidence from mouse-tracking. *Manuscript in preparation*.
