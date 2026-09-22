@@ -233,11 +233,10 @@ h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.03
 .activity-montage { grid-template-columns: repeat(4, minmax(0, 1fr)); gap: 8px 12px; padding: 12px; width: 80%; max-width: 900px; margin: 42px auto 28px; }
 .activity-montage::before { inset: 2% 28% 18% -20px; transform: rotate(-4deg); }
 .activity-montage::after { inset: 20% -18px -10px 30%; background-color: #ef8f7c; transform: rotate(3deg); }
-.activity-montage a { display: block; box-shadow: 0 3px 8px #31271d30; transform: rotate(-4deg); transition: transform 160ms ease; }
+.activity-montage a { display: block; box-shadow: 0 3px 8px #31271d30; transform: rotate(-4deg); }
 .activity-montage a:nth-child(2n) { transform: rotate(3deg); }
 .activity-montage a:nth-child(n+5) { margin-top: -42px; transform: translateX(8px) rotate(3deg); }
 .activity-montage a:nth-child(6), .activity-montage a:nth-child(8) { transform: translateX(8px) rotate(-3deg); }
-.activity-montage a:hover, .activity-montage a:focus-visible { position: relative; z-index: 2; transform: rotate(0) translateY(-8px); }
 .activity-montage img { width: 100%; }
 .page-public-engagement .engagement-contact { border-top: 1px solid var(--line); padding-top: 24px; margin-top: 32px; }
 @media (max-width: 700px) {
@@ -247,6 +246,12 @@ h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.03
   .outreach-montage img { height: 145px; }
   .activity-montage { grid-template-columns: repeat(2, minmax(0, 1fr)); gap: 18px 12px; padding: 0; width: 90%; }
   .activity-montage a:nth-child(n+5) { margin-top: 0; transform: rotate(-2deg); }
+}
+.outreach-montage a, .activity-montage a { position: relative; transition: transform 240ms ease, box-shadow 240ms ease; }
+.page-public-engagement .outreach-montage a:is(:hover, :focus-visible),
+.page-public-engagement .activity-montage a:is(:hover, :focus-visible) { z-index: 3; transform: translateY(-16px) rotate(0) scale(1.12); box-shadow: 0 18px 32px #31271d55; }
+@media (prefers-reduced-motion: reduce) {
+  .outreach-montage a, .activity-montage a { transition: none; }
 }
 @media (max-width: 1320px) and (min-width: 701px) {
   .nav { flex-direction: column; align-items: flex-start; gap: 8px; }
