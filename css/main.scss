@@ -212,7 +212,7 @@ h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.03
 .page-public-engagement .page-content .container { max-width: 1200px; margin-inline: auto; }
 .page-public-engagement .page-artwork { position: absolute; height: 1050px; background-size: cover; mask-image: linear-gradient(#000 65%, transparent), linear-gradient(to right, #000 65%, transparent 85%); mask-composite: intersect; }
 .spiral-drill { position: absolute; top: 180px; right: 1%; width: min(17vw, 270px); pointer-events: none; }
-.spiral-drill .spinning-disc { position: absolute; left: 8%; top: 3%; width: 69%; border-radius: 50%; animation: optical-spin 8s linear infinite; }
+.spiral-drill .spinning-disc { position: absolute; left: 8%; top: 3%; width: 69%; border-radius: 50%; animation: optical-spin 1s linear infinite; }
 @keyframes optical-spin { to { transform: rotate(360deg); } }
 @media (max-width: 700px) { .spiral-drill { display: none; } }
 @media (prefers-reduced-motion: reduce) { .spiral-drill .spinning-disc { animation: none; } }
