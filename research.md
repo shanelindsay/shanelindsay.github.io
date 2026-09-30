@@ -47,3 +47,5 @@ My methodological interests focus on how psychological studies can produce more 
 - [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025). [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 
 See the full [publication list]({{ '/publications/' | relative_url }}) and current [research students]({{ '/research-students/' | relative_url }}).
+
+Students interested in gaining experience of ongoing research can read about the [Research Assistantship Scheme]({{ '/research-assistantship/' | relative_url }}).

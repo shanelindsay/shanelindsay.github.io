@@ -24,3 +24,5 @@ I lead the word-processing block of this final-year module. Topics include lexic
 ## Research projects
 
 I supervise undergraduate dissertations in cognition, language, learning, memory, research methods and AI. Current postgraduate projects are described on the [Research students]({{ '/research-students/' | relative_url }}) page.
+
+The [Research Assistantship Scheme]({{ '/research-assistantship/' | relative_url }}) gives students, primarily in their second year, the opportunity to gain hands-on experience by assisting with ongoing research projects in the School of Psychology and Social Work. Read the scheme overview and FAQ for details of eligibility, the time commitment and how to take part.
