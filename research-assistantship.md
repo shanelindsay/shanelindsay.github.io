@@ -5,7 +5,7 @@ permalink: /research-assistantship/
 published: true
 ---
 
-The Research Assistantship Scheme in the School of Psychology and Social Work gives opportunities for students to join members of the School of Psychology and Social Work to assist with ongoing research projects and gain insight into state-of-the-art research. Students work together with a member of staff of their own choice, contingent upon availability of places on the scheme, and are involved in a variety of research activities, such as planning a study, constructing stimuli, conducting an experiment and helping to analyse data.
+The Research Assistantship Scheme in the School of Psychology and Social Work gives opportunities for psychology students to join members of the School of Psychology and Social Work to assist with ongoing research projects and gain insight into state-of-the-art research. Students work together with a member of staff of their own choice, contingent upon availability of places on the scheme, and are involved in a variety of research activities, such as planning a study, constructing stimuli, conducting an experiment and helping to analyse data.
 
 The Scheme is primarily aimed at students in their second year. Unlike final-year projects, the Research Assistantship Scheme will allow students to get involved in ongoing existing research projects. It is a great opportunity to become familiar with life as a researcher, participate in day-to-day laboratory activities (such as lab meetings), and discuss research with staff members. Where agreed with the researcher, it can also lead to a reference letter.
 
