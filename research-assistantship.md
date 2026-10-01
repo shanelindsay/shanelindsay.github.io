@@ -3,9 +3,10 @@ layout: page
 title: Research Assistantship Scheme
 permalink: /research-assistantship/
 published: true
+hide_site_header: true
 ---
 
-The Research Assistantship Scheme in the School of Psychology and Social Work gives opportunities for psychology students to join members of the School of Psychology and Social Work to assist with ongoing research projects and gain insight into state-of-the-art research. Students work together with a member of staff of their own choice, contingent upon availability of places on the scheme, and are involved in a variety of research activities, such as planning a study, constructing stimuli, conducting an experiment and helping to analyse data.
+The Research Assistantship Scheme in Psychology gives opportunities for psychology students to join members of the School of Psychology and Social Work to assist with ongoing research projects and gain insight into state-of-the-art research. Students work together with a member of staff of their own choice, contingent upon availability of places on the scheme, and are involved in a variety of research activities, such as planning a study, constructing stimuli, conducting an experiment and helping to analyse data.
 
 The Scheme is primarily aimed at students in their second year. Unlike final-year projects, the Research Assistantship Scheme will allow students to get involved in ongoing existing research projects. It is a great opportunity to become familiar with life as a researcher, participate in day-to-day laboratory activities (such as lab meetings), and discuss research with staff members. Where agreed with the researcher, it can also lead to a reference letter.
 
@@ -13,7 +14,7 @@ The Scheme is primarily aimed at students in their second year. Unlike final-yea
 
 ### What is the aim of the scheme?
 
-The purpose of the Research Assistantship Scheme is to provide undergraduate students in the School of Psychology and Social Work at the University of Hull with an opportunity to gain research experience within the school. The transferable skills obtained are likely to improve job prospects after finishing your degree, and may help you in your academic studies.
+The purpose of the Research Assistantship Scheme is to provide undergraduate students an opportunity to gain research experience within the Psychology subject area. The transferable skills obtained are likely to improve job prospects after finishing your degree, and may help you in your academic studies.
 
 ### What does it involve?
 
@@ -45,6 +46,6 @@ The Research Assistantship Scheme will help develop research skills in psycholog
 
 ### How to take part?
 
-Psychology staff members will advertise Assistantships periodically by sending an email to the year group, and through adverts on the Research Assistantship Scheme section of the Psychology website. Students can apply for an Assistantship by sending their CV, which should include all university grades so far, along with a short statement on why they are applying and what would make them a good Assistant. However, if there is a particular staff member that you wish to work with but they have not advertised a place, you are welcome to contact them to register your interest.
+Psychology staff members will advertise Assistantships periodically by sending an email to the year group. Students can apply for an Assistantship by sending their CV, which should include all university grades so far, along with a short statement on why they are applying and what would make them a good Assistant. However, if there is a particular staff member that you wish to work with but they have not advertised a place, you are welcome to contact them to register your interest.
 
 For further questions, you can email the Research Assistantship Scheme Coordinators, Dr. Bethanie Richards ([b.richards@hull.ac.uk](mailto:b.richards@hull.ac.uk)) and Dr. Shane Lindsay ([s.lindsay@hull.ac.uk](mailto:s.lindsay@hull.ac.uk)).

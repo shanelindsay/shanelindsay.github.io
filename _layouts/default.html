@@ -24,6 +24,7 @@
     <div class="page-artwork" aria-hidden="true" style="background-image: url('{{ '/images/collage/' | append: artwork | append: '.webp' | relative_url }}')"></div>
     {% endif %}
     <div class="site-shell">
+      {% unless page.hide_site_header %}
       <header class="site-header">
         <div class="container nav">
           <a class="brand" href="{{ '/' | relative_url }}">
@@ -39,6 +40,7 @@
           </nav>
         </div>
       </header>
+      {% endunless %}
 
       <main id="main" class="site-main">
         {{ content }}
