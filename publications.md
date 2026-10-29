@@ -9,6 +9,8 @@ published: true
 
 Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (2027). Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words. *Journal of Memory and Language, 152*, 104815. [DOI](https://doi.org/10.1016/j.jml.2026.104815) · [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
 
+Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (2026). Respiratory phase and visuospatial attention: A replication and extension. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
+
 Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088)
 
 Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped words? A pre-registered meta-analysis of retention following the mutual exclusivity response. *Infant and Child Development, 34*(3), e70019. [DOI](https://doi.org/10.1002/icd.70019)
@@ -72,5 +74,3 @@ Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety
 Lindsay, S., & Wibroe, J. (Under review). No evidence that overnight sleep improves associative inference. *Manuscript under review*.
 
 Richards, B., Skarratt, P., Holle, H., & Lindsay, S. (Under review). Stage 2 pre-registered report manuscript: The impact of oral and nasal breathing on visual search performance: A pre-registered replication and extension. *Manuscript under review*.
-
-Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1)
