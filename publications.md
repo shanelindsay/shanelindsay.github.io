@@ -72,3 +72,5 @@ Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety
 Lindsay, S., & Wibroe, J. (Under review). No evidence that overnight sleep improves associative inference. *Manuscript under review*.
 
 Richards, B., Skarratt, P., Holle, H., & Lindsay, S. (Under review). Stage 2 pre-registered report manuscript: The impact of oral and nasal breathing on visual search performance: A pre-registered replication and extension. *Manuscript under review*.
+
+Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1)
