@@ -9,8 +9,6 @@ published: true
 
 Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (2027). Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words. *Journal of Memory and Language, 152*, 104815. [DOI](https://doi.org/10.1016/j.jml.2026.104815) · [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
 
-Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (2026). Respiratory phase and visuospatial attention: A replication and extension. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
-
 Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088)
 
 Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped words? A pre-registered meta-analysis of retention following the mutual exclusivity response. *Infant and Child Development, 34*(3), e70019. [DOI](https://doi.org/10.1002/icd.70019)
@@ -68,6 +66,8 @@ Lindsay, S., & Gaskell, M. G. (2009). Spaced learning and the lexical integratio
 Bergen, B. K., Lindsay, S., Matlock, T., & Narayanan, S. (2007). Spatial and linguistic aspects of visual imagery in sentence comprehension. *Cognitive Science, 31*, 733-764. [DOI](https://doi.org/10.1080/03640210701530748) · [PDF]({{ '/papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf' | relative_url }})
 
 ## Under review
+
+Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
 
 Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety — a multi-lab, multi-study investigation. *Manuscript under review*.
 
