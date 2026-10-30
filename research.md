@@ -9,7 +9,7 @@ I study human cognition, memory, and language, and how they interact with bodily
 
 One strand of my work looks at how sleep and breathing affect memory, visual attention, and cognition. This grew out of earlier research on word learning, language processing, and memory consolidation in sleep. My current work combines laboratory studies of respiration with large open datasets to examine how physiological regulation relates to cognition, health, and wellbeing.
 
-A second strand focuses on research methods, open science, and metascience. I work on measurement precision, test-retest reliability, effect sizes in repeated-measures designs, meta-analysis, and publication bias. Alongside this, I am interested in the psychology of AI and AI for science, including how people trust and take responsibility for AI-assisted analysis, and how AI tools can support reproducible research.
+A second strand focuses on research methods, open science, and metascience. I work on measurement precision, test retest reliability, effect sizes in repeated measures designs, meta analysis, and publication bias. Alongside this, I am interested in the psychology of AI and AI for science, including how people trust and take responsibility for AI assisted analysis, and how AI tools can support reproducible research.
 
 ## Respiration, physiological state and cognition
 
@@ -20,12 +20,12 @@ This work examines relationships between breathing and cognitive performance, in
 
 ## Measurement, research methods and AI
 
-My methodological interests focus on how psychological studies can produce more informative and dependable evidence. I am particularly interested in measurement precision, effect sizes, statistical power, replication, registered reports and meta-analysis. Current interests include interpreting interaction effect sizes, representing dependence in repeated-measures designs, and understanding how publication bias, heterogeneity and study design affect the strength and variability of evidence.
+My methodological interests focus on how psychological studies can produce more informative and dependable evidence. I am particularly interested in measurement precision, effect sizes, statistical power, replication, registered reports and meta analysis. Current interests include interpreting interaction effect sizes, representing dependence in repeated measures designs, and understanding how publication bias, heterogeneity and study design affect the strength and variability of evidence.
 
-This includes examining how researchers check AI-assisted analyses and retain responsibility for the decisions they make.
+This includes examining how researchers check AI assisted analyses and retain responsibility for the decisions they make.
 
 - [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
-- [Data from an international multi-centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
+- [Data from an international multi centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
 - [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025). [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 
 ## Word learning, memory and sleep
@@ -33,14 +33,14 @@ This includes examining how researchers check AI-assisted analyses and retain re
 How does a newly learned word become part of our vocabulary? I study how new words interact with existing knowledge, and how sleep, waking rest and the spacing of learning affect that process. Related work examines how memories change when they are retrieved and how sleep affects their subsequent consolidation.
 
 - [Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words](https://doi.org/10.1016/j.jml.2026.104815) (2027). [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
-- [How well do children remember fast-mapped words?](https://doi.org/10.1002/icd.70019) (2025).
+- [How well do children remember fast mapped words?](https://doi.org/10.1002/icd.70019) (2025).
 - [Sleep preserves original and distorted memory traces](https://doi.org/10.1016/j.cortex.2017.10.005) (2018). [PDF]({{ '/papers/cairney2017.pdf' | relative_url }})
-- [Markers of automaticity in sleep-associated consolidation of novel words](https://doi.org/10.1016/j.neuropsychologia.2015.03.025) (2015). [PDF]({{ '/papers/Tham_Lindsay_Gaskell.pdf' | relative_url }})
+- [Markers of automaticity in sleep associated consolidation of novel words](https://doi.org/10.1016/j.neuropsychologia.2015.03.025) (2015). [PDF]({{ '/papers/Tham_Lindsay_Gaskell.pdf' | relative_url }})
 - [Lexical integration of novel words without sleep](https://doi.org/10.1037/a0029243) (2013). [PDF]({{ '/papers/Lexical_integration_of_novel_words_without_sleep.pdf' | relative_url }})
 
 ## Speech perception and production
 
-I investigate how perceptual and motor systems contribute to spoken-language processing, and how speech categories adapt through experience. This includes work on learning new words and phonotactic constraints, and on the contribution of premotor cortex to phoneme judgements and comprehension.
+I investigate how perceptual and motor systems contribute to spoken language processing, and how speech categories adapt through experience. This includes work on learning new words and phonotactic constraints, and on the contribution of premotor cortex to phoneme judgements and comprehension.
 
 - [Acquiring novel words and their past tenses](https://doi.org/10.1016/j.jml.2011.07.005) (2012). [PDF]({{ '/papers/1-s2.0-S0749596X11000763-main.pdf' | relative_url }})
 - [The selective role of premotor cortex in speech perception](https://doi.org/10.1162/jocn_a_00463) (2013). [PDF]({{ '/papers/jocn_a_00463_1_.pdf' | relative_url }})

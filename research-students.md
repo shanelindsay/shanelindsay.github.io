@@ -7,25 +7,25 @@ published: true
 
 ## Yumeng Lyu
 
-Yumeng is studying verbal fluency, psychometric structure and cognitive processes in language production, supported by a China Scholarship Council scholarship. Dr Kate Stone is co-supervisor.
+Yumeng is studying verbal fluency, psychometric structure and cognitive processes in language production, supported by a China Scholarship Council scholarship. Dr Kate Stone also supervises the project.
 
-Yumeng's work examines what verbal fluency tasks measure beyond the total number of words produced: the test-retest reliability of different measures, how they cluster into underlying components, and how they relate to other cognitive abilities.
+Yumeng's work examines what verbal fluency tasks measure beyond the total number of words produced: the test retest reliability of different measures, how they cluster into underlying components, and how they relate to other cognitive abilities.
 
 ## Caitlin Swan
 
-Caitlin's PhD examines AI-assisted quantitative analysis, trust and responsibility in higher education, supported by a White Rose DTP studentship. Dr Anastasia Gouseti and Professor Kevin Burden are co-supervisors.
+Caitlin's PhD examines AI assisted quantitative analysis, trust and responsibility in higher education, supported by a White Rose DTP studentship. Dr Anastasia Gouseti and Professor Kevin Burden also supervise the project.
 
 The research considers how different levels of AI autonomy affect students' judgement when working with statistics, and what support helps students check analyses and retain responsibility for their work.
 
 ## Ruihao Zhou
 
-Ruihao's PhD is supported by a White Rose DTP studentship. Dr Kate Stone is co-supervisor.
+Ruihao's PhD is supported by a White Rose DTP studentship. Dr Kate Stone also supervises the project.
 
-The project examines bilingual language control in high-pressure public service contexts, focusing on individual differences and the mechanisms that support language control.
+The project examines bilingual language control in high pressure public service contexts, focusing on individual differences and the mechanisms that support language control.
 
 ## Previous doctoral supervision
 
-- **Bethanie Richards** (2019–2025). First supervisor. Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
+- **Bethanie Richards** (2019–2025). First supervisor. Research on nasal and oral breathing, memory, attention, synchrony between respiration and pupil size, and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
 - **Andrew Lucas** (2017–2020). First supervisor. Research on word learning and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
 - **Tom Peney** (2021–2025). Second supervisor. Research on immersion, visual attention, change blindness and visual search. [Thesis](https://hull-repository.worktribe.com/output/5462270).
 - **Eloise McCann** (2017–2026). Second supervisor. [Thesis](https://hull-repository.worktribe.com/output/5646283).
@@ -39,6 +39,6 @@ The project examines bilingual language control in high-pressure public service 
 
 ## Supervision enquiries
 
-I welcome PhD and MRes applications in any of these areas: breathing, physiological state, and cognition; sleep, memory, and language; research methods, open science, and meta-analysis; and the psychology of AI or AI-assisted research.
+I welcome PhD and MRes applications in any of these areas: breathing, physiological state, and cognition; sleep, memory, and language; research methods, open science, and meta analysis; and the psychology of AI or AI assisted research.
 
-We regularly support applications for funded PhDs through the ESRC White Rose Doctoral Training Partnership (including the Advanced Quantitative Methods, Advanced Data Analytics, and Wellbeing, Health and Communities routes) as well as University scholarships and self-funded study. Email [S.Lindsay@hull.ac.uk](mailto:{{ site.email }}) with your interests, background and the degree you are considering.
+We regularly support applications for funded PhDs through the ESRC White Rose Doctoral Training Partnership (including the Advanced Quantitative Methods, Advanced Data Analytics, and Wellbeing, Health and Communities routes) as well as University scholarships and self funded study. Email [S.Lindsay@hull.ac.uk](mailto:{{ site.email }}) with your interests, background and the degree you are considering.
