@@ -25,18 +25,20 @@ The project examines bilingual language control in high-pressure public service 
 
 ## Previous doctoral supervision
 
-- **Bethanie Richards** (2019–2025) — First supervisor. Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
-- **Andrew Lucas** (2017–2020) — First supervisor. Research on word learning and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
-- **Tom Peney** (2021–2025) — Second supervisor. Research on immersion, visual attention, change blindness and visual search. [Thesis](https://hull-repository.worktribe.com/output/5462270).
-- **Eloise McCann** (2017–2026) — Second supervisor. [Thesis](https://hull-repository.worktribe.com/output/5646283).
-- **Sylwia Macinska** (2016–2018) — Second supervisor.
+- **Bethanie Richards** (2019–2025). First supervisor. Research on nasal and oral breathing, memory, attention, respiratory-pupil synchrony and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
+- **Andrew Lucas** (2017–2020). First supervisor. Research on word learning and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
+- **Tom Peney** (2021–2025). Second supervisor. Research on immersion, visual attention, change blindness and visual search. [Thesis](https://hull-repository.worktribe.com/output/5462270).
+- **Eloise McCann** (2017–2026). Second supervisor. [Thesis](https://hull-repository.worktribe.com/output/5646283).
+- **Sylwia Macinska** (2016–2018). Second supervisor.
 
 ## Masters supervision
 
-- **Timothy Roberts** (2025–2026) — MRes. [Thesis](https://hull-repository.worktribe.com/output/5679057/the-influence-of-respiratory-cycles-on-visuospatial-attention).
-- **Alfie Hunt** (2019–2020) — MRes.
-- **Rob Nightingale** (2017–2018) — MRes.
+- **Timothy Roberts** (2025–2026). MRes. [Thesis](https://hull-repository.worktribe.com/output/5679057/the-influence-of-respiratory-cycles-on-visuospatial-attention).
+- **Alfie Hunt** (2019–2020). MRes.
+- **Rob Nightingale** (2017–2018). MRes.
 
 ## Supervision enquiries
 
-I welcome enquiries about projects in language, memory, cognition, research methods and psychology of AI. Email [S.Lindsay@hull.ac.uk](mailto:{{ site.email }}) with your interests, background and the degree you are considering. For a doctoral enquiry, please also say whether you have funding or are looking for a funded opportunity.
+I welcome PhD and MRes applications in any of these areas: breathing, physiological state, and cognition; sleep, memory, and language; research methods, open science, and meta-analysis; and the psychology of AI or AI-assisted research.
+
+We regularly support applications for funded PhDs through the ESRC White Rose Doctoral Training Partnership (including the Advanced Quantitative Methods, Advanced Data Analytics, and Wellbeing, Health and Communities routes) as well as University scholarships and self-funded study. Email [S.Lindsay@hull.ac.uk](mailto:{{ site.email }}) with your interests, background and the degree you are considering.

@@ -10,9 +10,9 @@ redirect_from:
 
 <section class="home-composition" aria-label="About my work">
   <div class="home-introduction">
-    <img class="intro-note" src="{{ '/images/collage/introduction-note.png' | relative_url }}" alt="I am a Lecturer in Psychology at the University of Hull. I study language, learning, memory and AI, including how sleep and breathing affect cognition." width="1448" height="1086" />
+    <img class="intro-note" src="{{ '/images/collage/introduction-note.png' | relative_url }}" alt="I am a Lecturer in Psychology at the University of Hull. I study human cognition, memory, and language, and how they interact with bodily states such as breathing and sleep. Alongside this, I work on research methods and how AI is changing psychological research." width="1448" height="1086" />
   </div>
-  <img class="home-brain" src="{{ '/images/collage/brain-language.png' | relative_url }}" alt="A paper collage of a brain, letters, and the words language, learning, memory and AI." width="1536" height="1024" fetchpriority="high" />
+  <img class="home-brain" src="{{ '/images/collage/brain-language.png' | relative_url }}" alt="A cut-paper and vintage engraving collage of a brain, lungs, eye, physiological waveform, and the words breathing, cognition, memory, open science and AI." width="1536" height="1024" fetchpriority="high" />
 </section>
 
 <div class="home-contact" markdown="1">

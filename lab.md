@@ -1,19 +1,17 @@
 ---
 layout: page
-title: CogLang Lab
+title: CogPhys Lab
 permalink: /lab/
 published: true
 ---
 
-CogLang brings together research and student projects on language, cognition, learning, memory and visual attention at the University of Hull. I lead the lab, working with students and collaborators on behavioural experiments, eye tracking and cognitive measurement.
+The Cognition and Physiology Lab (CogPhys) brings together research and student projects on how human cognition relates to physiological state, alongside work on research methods and AI at the University of Hull.
 
-
-
-Our research includes word learning and memory consolidation, respiration and cognition, language processing and individual differences. See [Research]({{ '/research/' | relative_url }}) for the research programme and [Research students]({{ '/research-students/' | relative_url }}) for the people and projects.
+Our work includes sleep, breathing, memory, language, open science, and the psychology of AI. See [Research]({{ '/research/' | relative_url }}) for current projects and [Research students]({{ '/research-students/' | relative_url }}) for the people in the lab.
 
 ## Methods
 
-We use behavioural experiments, reaction-time and accuracy measures, and eye tracking, including EyeLink 1000-based visual-attention research. My wider research experience includes EEG, TMS and tDCS. Experimental design, measurement and reproducible analysis are central to the work.
+We combine behavioural experiments, respiratory and physiological recording, and eye tracking (including EyeLink 1000 research) with analyses of large open physiological and neuroimaging datasets. Experimental design, measurement precision, and reproducible analysis are central to the work.
 
 ## Working with us
 

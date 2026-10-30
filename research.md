@@ -5,22 +5,38 @@ permalink: /research/
 published: true
 ---
 
-My research examines how language is learned, represented and used in the context of memory, perception and action. I use behavioural experiments, eye tracking and cognitive-neuroscience methods, with an interest in how physiological state and individual differences shape cognitive performance.
+I study human cognition, memory, and language, and how they interact with bodily states such as breathing and sleep. Alongside this, I work on research methods and how AI is changing psychological research.
 
-## Word learning and memory
+One strand of my work looks at how sleep and breathing affect memory, visual attention, and cognition. This grew out of earlier research on word learning, language processing, and memory consolidation in sleep. My current work combines laboratory studies of respiration with large open datasets to examine how physiological regulation relates to cognition, health, and wellbeing.
 
-How does a newly learned word become part of our vocabulary? I study how new words interact with existing knowledge, and how sleep, waking rest and the spacing of learning affect that process. Related work examines how memories change when they are retrieved and how sleep affects their subsequent consolidation.
+A second strand focuses on research methods, open science, and metascience. I work on measurement precision, test-retest reliability, effect sizes in repeated-measures designs, meta-analysis, and publication bias. Alongside this, I am interested in the psychology of AI and AI for science, including how people trust and take responsibility for AI-assisted analysis, and how AI tools can support reproducible research.
 
-- [Lexical integration of novel words without sleep](https://doi.org/10.1037/a0029243) (2013). [PDF]({{ '/papers/Lexical_integration_of_novel_words_without_sleep.pdf' | relative_url }})
-- [Markers of automaticity in sleep-associated consolidation of novel words](https://doi.org/10.1016/j.neuropsychologia.2015.03.025) (2015). [PDF]({{ '/papers/Tham_Lindsay_Gaskell.pdf' | relative_url }})
-- [Sleep preserves original and distorted memory traces](https://doi.org/10.1016/j.cortex.2017.10.005) (2018). [PDF]({{ '/papers/cairney2017.pdf' | relative_url }})
-- [How well do children remember fast-mapped words?](https://doi.org/10.1002/icd.70019) (2025).
-
-## Respiration and cognition
+## Respiration, physiological state and cognition
 
 This work examines relationships between breathing and cognitive performance, including memory consolidation, visual search and visuospatial attention. Projects investigate both the route of breathing and the timing of events within the respiratory cycle.
 
 - [Does oral breathing disrupt memory consolidation during waking rest? A registered report](https://doi.org/10.1177/17470218251328994) (2025).
+- Respiratory phase and visuospatial attention: A replication and extension (Roberts et al., 2026). [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
+
+## Measurement, research methods and AI
+
+My methodological interests focus on how psychological studies can produce more informative and dependable evidence. I am particularly interested in measurement precision, effect sizes, statistical power, replication, registered reports and meta-analysis. Current interests include interpreting interaction effect sizes, representing dependence in repeated-measures designs, and understanding how publication bias, heterogeneity and study design affect the strength and variability of evidence.
+
+This includes examining how researchers check AI-assisted analyses and retain responsibility for the decisions they make.
+
+- [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
+- [Data from an international multi-centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
+- [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025). [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
+
+## Word learning, memory and sleep
+
+How does a newly learned word become part of our vocabulary? I study how new words interact with existing knowledge, and how sleep, waking rest and the spacing of learning affect that process. Related work examines how memories change when they are retrieved and how sleep affects their subsequent consolidation.
+
+- [Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words](https://doi.org/10.1016/j.jml.2026.104815) (2027). [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
+- [How well do children remember fast-mapped words?](https://doi.org/10.1002/icd.70019) (2025).
+- [Sleep preserves original and distorted memory traces](https://doi.org/10.1016/j.cortex.2017.10.005) (2018). [PDF]({{ '/papers/cairney2017.pdf' | relative_url }})
+- [Markers of automaticity in sleep-associated consolidation of novel words](https://doi.org/10.1016/j.neuropsychologia.2015.03.025) (2015). [PDF]({{ '/papers/Tham_Lindsay_Gaskell.pdf' | relative_url }})
+- [Lexical integration of novel words without sleep](https://doi.org/10.1037/a0029243) (2013). [PDF]({{ '/papers/Lexical_integration_of_novel_words_without_sleep.pdf' | relative_url }})
 
 ## Speech perception and production
 
@@ -37,14 +53,6 @@ How do people combine language with what they see? I use eye tracking and behavi
 - [Spatial and linguistic aspects of visual imagery in sentence comprehension](https://doi.org/10.1080/03640210701530748) (2007). [PDF]({{ '/papers/Spatial_and_Linguistic_Aspects_of_Visual_Imagery_i.pdf' | relative_url }})
 - [To dash or to dawdle](https://doi.org/10.1371/journal.pone.0067187) (2013).
 - [Event processing in the visual world](https://doi.org/10.1037/xlm0000199) (2016). [PDF]({{ '/papers/Event_processing_in_the_visual_world.pdf' | relative_url }})
-
-## Measurement and research methods
-
-My methodological interests focus on how psychological studies can produce more informative and dependable evidence. I am particularly interested in measurement precision, effect sizes, statistical power, replication, registered reports and meta-analysis. Current interests include interpreting interaction effect sizes, representing dependence in repeated-measures designs, and understanding how publication bias, heterogeneity and study design affect the strength and variability of evidence.
-
-- [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
-- [Data from an international multi-centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
-- [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025). [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 
 See the full [publication list]({{ '/publications/' | relative_url }}) and current [research students]({{ '/research-students/' | relative_url }}).
 

@@ -1,7 +1,8 @@
 # Homepage collage assets
 
-Created with the built-in image-generation tool, 12 September 2026.
-The name, introduction and thematic words are raster artwork; navigation and contact links remain HTML.
+Original artwork created with the built-in image-generation tool on 12 September 2026. The introduction, body collage, Research background and lab background were refreshed on 30 October 2026 for the agreed cognition, physiology, research methods and AI positioning.
+
+The name, introduction and thematic words are raster artwork; navigation and contact links remain HTML. The four updated assets were supplied from `/tmp/website_revamp_assets/` on Legion.
 
 ## Name: `images/collage/name-patchwork.png`
 
@@ -9,8 +10,22 @@ Use case: logo-brand. Create a finished raster website masthead artwork of the e
 
 ## Body: `images/collage/brain-language.png`
 
-Use case: stylized-concept. A substantial finished editorial cut-paper collage illustration for the BODY of a psychologist's personal website, landscape 3:2 composition. Central large vintage engraved human brain in black halftone print, surrounded and partly overlapped by torn book-paper scraps with words "language", "learning", "memory", "AI", scattered oversized serif letters a, g, m, fragments of typewriter word lists, cobalt blue torn paper shapes, muted coral circular paper, thin ink arcs suggesting connections. Dense, compelling central artwork rather than edge decoration. Sophisticated handmade scholarly collage, analogue print and uneven torn edges, rich paper texture, warm cream, deep cobalt blue, salmon coral, black. Asymmetrical but cohesive, brain as strong focal point, words and letterforms have visual weight. Artwork occupies most of frame with generous clear separation around its irregular outer silhouette. Genuine transparent background preserving alpha so it can sit on cream webpage paper. No UI, no website mockup, no frame, no slogans, no other illustration subjects.
+Updated cut-paper and vintage engraving collage centred on a substantial brain, with lungs, an eye, neurons, physiological waveforms, network diagrams and an open-access motif. Torn-paper words include “breathing”, “cognition”, “memory”, “open science” and “AI”, with smaller memory and methods word lists. Warm cream paper, cobalt blue and coral retain the established palette. The supplied PNG is preserved at 1536 × 1024 pixels with its alpha channel.
 
 ## Introduction: `images/collage/introduction-note.png`
 
-Create a finished website asset: one irregular torn warm cream paper note on a genuinely transparent background, landscape 4:3 canvas. The note contains exactly this text, all perfectly spelled, large and easily readable, arranged as two paragraphs in rich black vintage typewriter print with natural small ink imperfections: "I am a Lecturer in Psychology at the University of Hull." then "I study language, learning, memory and AI, including how sleep and breathing affect cognition." Use generous line spacing, left aligned type. The text should dominate the paper, with modest margins. A small cobalt blue paper tab at top left and a muted coral paper tab at bottom right tuck under the cream note. Sophisticated tactile book-paper collage, understated and scholarly. Close crop of the complete paper note, preserve torn edges, actual transparent alpha outside. No additional text, no frame, no shadow halo, no drawn checkerboard. This note will sit beside a substantial brain collage on a personal website.
+Updated torn cream paper note, cobalt blue and coral tabs, and black vintage typewriter lettering. The supplied PNG is preserved at 1448 × 1086 pixels with its alpha channel. It contains the following agreed wording, also used as the image alt text:
+
+> I am a Lecturer in Psychology at the University of Hull. I study human cognition, memory, and language, and how they interact with bodily states such as breathing and sleep. Alongside this, I work on research methods and how AI is changing psychological research.
+
+## Research background: `images/collage/research.webp`
+
+Margin collage with engraved lungs on the left, a cropped brain on the right, physiological traces, statistical curves, an open-access motif and the words “breathe”, “sleep”, “memory”, “cognition”, “methods” and “AI”. The cream centre leaves space for the reading column.
+
+Converted from the supplied `research.png` to RGB WebP at the existing 1536 × 1024 dimensions, quality 90.
+
+## CogPhys Lab background: `images/collage/lab.webp`
+
+Margin collage with respiratory and cardiac traces, an engraved chest and a large eye, with the words “cognition”, “physiology” and “methods”. Torn cobalt blue and coral paper frame the cream reading area.
+
+Converted from the supplied `lab.png` to RGB WebP at the existing 1536 × 1024 dimensions, quality 90. The page keeps `/lab/`; its title is now “CogPhys Lab” and its layout selectors use `.page-cogphys-lab`.
