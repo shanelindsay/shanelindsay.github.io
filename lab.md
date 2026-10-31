@@ -1,17 +1,17 @@
 ---
 layout: page
-title: CogPhys Lab
+title: Breathing and Cognition Lab
 permalink: /lab/
 published: true
 ---
 
-The Cognition and Physiology Lab (CogPhys) brings together research on how human cognition relates to physiological state, alongside work on research methods and AI at the University of Hull.
+The Breathing and Cognition Lab investigates how breathing and bodily states interact with human cognition, sleep, and wellbeing at the University of Hull.
 
-Our work includes sleep, breathing, memory, language, open science, and the psychology of AI. See [Research]({{ '/research/' | relative_url }}) for current projects and [Research students]({{ '/research-students/' | relative_url }}) for the people in the lab.
+Alongside our core work on respiration and cognition, the group studies memory consolidation, language processing, quantitative research methods, and the psychology of AI. See [Research]({{ '/research/' | relative_url }}) for current projects and [Research students]({{ '/research-students/' | relative_url }}) for the people in the group.
 
 ## Methods
 
-We combine behavioural experiments, respiratory and physiological recording, and eye tracking with analyses of large open physiological and neuroimaging datasets.
+We combine behavioural experiments, respiratory recording, and eye tracking with analyses of large open physiological and neuroimaging datasets.
 
 ## Working with us
 

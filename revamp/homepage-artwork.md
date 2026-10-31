@@ -24,8 +24,12 @@ Margin collage with engraved lungs on the left, a cropped brain on the right, ph
 
 Converted from the supplied `research.png` to RGB WebP at the existing 1536 × 1024 dimensions, quality 90.
 
-## CogPhys Lab background: `images/collage/lab.webp`
+## Breathing and Cognition Lab background: `images/collage/lab.webp`
 
 Margin collage with respiratory and cardiac traces, an engraved chest and a large eye, with the words “cognition”, “physiology” and “methods”. Torn cobalt blue and coral paper frame the cream reading area.
 
-Converted from the supplied `lab.png` to RGB WebP at the existing 1536 × 1024 dimensions, quality 90. The page keeps `/lab/`; its title is now “CogPhys Lab” and its layout selectors use `.page-cogphys-lab`.
+The page keeps `/lab/`; its title is now “Breathing and Cognition Lab” and its layout selectors use `.page-breathing-and-cognition-lab`.
+
+## Margin collage refresh, 31 October 2026
+
+Replaced the lab, Research and Research students backgrounds with the approved `lab_v2.png`, `research_v2.png` and `students_v2.png` supplied in `/tmp/website_revamp_assets/` on Legion. Each was converted to its corresponding file in `images/collage/` as RGB WebP at 1536 × 1024 pixels, quality 90.
