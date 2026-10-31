@@ -7,21 +7,15 @@ published: true
 
 ## Yumeng Lyu
 
-Yumeng is studying verbal fluency, psychometric structure and cognitive processes in language production, supported by a China Scholarship Council scholarship. Dr Kate Stone also supervises the project.
-
-Yumeng's work examines what verbal fluency tasks measure beyond the total number of words produced: the test retest reliability of different measures, how they cluster into underlying components, and how they relate to other cognitive abilities.
+Yumeng is investigating what verbal fluency tasks measure beyond total word counts, focusing on test retest reliability and component structure in language production (co supervised with Dr Kate Stone; China Scholarship Council scholarship).
 
 ## Caitlin Swan
 
-Caitlin's PhD examines AI assisted quantitative analysis, trust and responsibility in higher education, supported by a White Rose DTP studentship. Dr Anastasia Gouseti and Professor Kevin Burden also supervise the project.
-
-The research considers how different levels of AI autonomy affect students' judgement when working with statistics, and what support helps students check analyses and retain responsibility for their work.
+Caitlin is studying AI assisted quantitative analysis in higher education, examining how AI autonomy affects statistical judgement, verification, and responsibility (co supervised with Dr Anastasia Gouseti and Professor Kevin Burden; ESRC White Rose DTP studentship).
 
 ## Ruihao Zhou
 
-Ruihao's PhD is supported by a White Rose DTP studentship. Dr Kate Stone also supervises the project.
-
-The project examines bilingual language control in high pressure public service contexts, focusing on individual differences and the mechanisms that support language control.
+Ruihao is examining individual differences and cognitive control in bilingual language production under high pressure (co supervised with Dr Kate Stone; ESRC White Rose DTP studentship).
 
 ## Previous doctoral supervision
 
@@ -37,8 +31,6 @@ The project examines bilingual language control in high pressure public service 
 - **Alfie Hunt** (2019–2021). MSc by Thesis. *The Impact of Breathing Phase on Encoding, Memory, and Oculomotor Activity*.
 - **Rob Nightingale** (2017–2018). MRes. [*Interference Effects of Novel Word-Object Learning on Visual Perception*](https://escholarship.org/uc/item/0b3118pc).
 
-## Supervision enquiries
+## Prospective students
 
-I welcome PhD and MRes applications in any of these areas: breathing, physiological state, and cognition; sleep, memory, and language; research methods, open science, and meta analysis; and the psychology of AI or AI assisted research.
-
-We regularly support applications for funded PhDs through the ESRC White Rose Doctoral Training Partnership (including the Advanced Quantitative Methods, Advanced Data Analytics, and Wellbeing, Health and Communities routes) as well as University scholarships and self funded study. Email [S.Lindsay@hull.ac.uk](mailto:{{ site.email }}) with your interests, background and the degree you are considering.
+I welcome PhD and MRes enquiries in breathing, brain, and cognition, sleep and memory, and quantitative research methods, including funded applications through the ESRC White Rose DTP. If you would like to discuss a project, [get in touch](mailto:{{ site.email }}).

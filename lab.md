@@ -1,26 +1,28 @@
 ---
 layout: page
-title: Breathing and Cognition Lab
+title: Breathing, Brain, and Cognition Lab
+nav_title: BBC Lab
 permalink: /lab/
 published: true
 ---
 
-The Breathing and Cognition Lab at the University of Hull investigates how human breathing interacts with perception, attention, memory, sleep, and wellbeing.
+The Breathing, Brain, and Cognition (BBC) Lab at the University of Hull investigates how human breathing interacts with brain activity, perception, attention, memory, sleep, and wellbeing.
 
-Breathing is more than gas exchange. Nasal and oral breathing pathways, the phase of each breath, and changes in respiratory rate and variability are coupled to brain rhythms, autonomic state, and cognitive performance. At the same time, cognitive demands and mental states reshape how we breathe.
+Breathing is more than gas exchange. Nasal and oral pathways, the phase of each breath, and shifts in respiratory rate and variability are coupled to brain rhythms, autonomic state, and cognitive performance. At the same time, cognitive demands reshape how we breathe.
 
 ## Current themes
 
-- **Breathing phase, attention, and memory:** How do visual attention, eye movements, and memory encoding vary across inhalation and exhalation, and how do people coordinate their breathing with cognitive tasks?
-- **Nasal versus oral breathing:** How does the route of breathing affect visual search and memory consolidation across wakefulness and rest?
-- **Individual differences and respiratory signatures:** How stable are a person's breathing patterns across days, tasks, and resting states, and how do respiratory traits relate to cognition, sleep, and mental wellbeing in large population cohorts?
-- **Respiratory measurement and calibration:** Developing open methods for validating respiratory belt recordings, phase estimation, and event detection against reference airflow measures.
+- **Breathing phase, attention, and memory:** How visual attention, eye movements, and memory encoding vary across inhalation and exhalation, and how breathing coordinates with cognitive tasks.
+- **Nasal versus oral breathing:** How the route of breathing affects visual search and memory consolidation across wakefulness and rest.
+- **Brain and respiratory coupling:** Using neuroimaging and physiological recordings to study how breathing rhythms and sighs interact with cortical dynamics, arousal, and task performance.
+- **Individual differences and respiratory signatures:** How stable a person's breathing patterns are across days, tasks, and rest, and how respiratory traits relate to cognition, sleep, and wellbeing in large cohorts.
+- **Respiratory measurement:** Validating respiratory belt recordings and phase estimation against reference airflow measures.
 
 ## Methods
 
-We combine laboratory experiments using respiratory recording and eye tracking with large open physiological, sleep, and neuroimaging datasets.
+We combine laboratory experiments using respiratory recording and eye tracking with analyses of large physiological, sleep, and neuroimaging datasets.
 
-## Lab theses and outputs
+## Lab outputs and theses
 
 - Richards, B., Holle, H., &amp; Lindsay, S. (2025). [Does oral breathing disrupt memory consolidation during waking rest? A registered report](https://doi.org/10.1177/17470218251328994). *Quarterly Journal of Experimental Psychology*.
 - Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., &amp; Lindsay, S. (2026). [Respiratory phase and visuospatial attention: A replication and extension](https://osf.io/preprints/psyarxiv/n5ha3_v1). *PsyArXiv*.
@@ -31,4 +33,4 @@ We combine laboratory experiments using respiratory recording and eye tracking w
 
 ## Joining the lab
 
-I welcome enquiries from prospective PhD, MRes, and undergraduate research students interested in breathing, bodily states, sleep, and cognition, including funded PhD applications through the ESRC White Rose Doctoral Training Partnership (Wellbeing, Health and Communities, and Advanced Quantitative Methods / Data Analytics routes). Email [S.Lindsay@hull.ac.uk](mailto:{{ site.email }}) with your interests and background, or see [Research students]({{ '/research-students/' | relative_url }}) for broader supervision areas.
+If you are interested in a PhD, MRes, or undergraduate research project in the lab, [get in touch](mailto:{{ site.email }}).
