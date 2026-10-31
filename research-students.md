@@ -26,16 +26,16 @@ The project examines bilingual language control in high pressure public service 
 ## Previous doctoral supervision
 
 - **Bethanie Richards** (2019–2025). First supervisor. Research on nasal and oral breathing, memory, attention, synchrony between respiration and pupil size, and visual search. [Thesis](https://hull-repository.worktribe.com/output/5461944).
-- **Andrew Lucas** (2017–2020). First supervisor. Research on word learning and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
+- **Andrew Lucas** (2017–2020). First supervisor. Research on word learning, sleep and memory consolidation, and lexical engagement, supported by an ESRC studentship. [Thesis](https://hull-repository.worktribe.com/output/4223534).
 - **Tom Peney** (2021–2025). Second supervisor. Research on immersion, visual attention, change blindness and visual search. [Thesis](https://hull-repository.worktribe.com/output/5462270).
 - **Eloise McCann** (2017–2026). Second supervisor. [Thesis](https://hull-repository.worktribe.com/output/5646283).
 - **Sylwia Macinska** (2016–2018). Second supervisor.
 
 ## Masters supervision
 
-- **Timothy Roberts** (2025–2026). MRes. [Thesis](https://hull-repository.worktribe.com/output/5679057/the-influence-of-respiratory-cycles-on-visuospatial-attention).
-- **Alfie Hunt** (2019–2020). MRes.
-- **Rob Nightingale** (2017–2018). MRes.
+- **Timothy Roberts** (2025–2026). MRes. Research on respiratory phase and visuospatial attention. [Thesis](https://hull-repository.worktribe.com/output/5679057/the-influence-of-respiratory-cycles-on-visuospatial-attention) · [Preprint](https://osf.io/preprints/psyarxiv/n5ha3_v1).
+- **Alfie Hunt** (2019–2020). MRes. Research on individual differences and reliability of resting respiration in the Human Connectome Project.
+- **Rob Nightingale** (2017–2018). MRes. Research on novel word and object learning and visual perception. [Paper](https://escholarship.org/uc/item/0b3118pc).
 
 ## Supervision enquiries
 
