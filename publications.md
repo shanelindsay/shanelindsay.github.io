@@ -69,7 +69,7 @@ Bergen, B. K., Lindsay, S., Matlock, T., & Narayanan, S. (2007). Spatial and lin
 
 Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
 
-Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety — a multi-lab, multi-study investigation. *Manuscript under review*.
+Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety: A multi-lab, multi-study investigation. *Manuscript under review*.
 
 Lindsay, S., & Wibroe, J. (Under review). No evidence that overnight sleep improves associative inference. *Manuscript under review*.
 
