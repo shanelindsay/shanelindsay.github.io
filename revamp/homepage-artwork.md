@@ -14,9 +14,24 @@ Updated cut-paper and vintage engraving collage centred on a substantial brain, 
 
 ## Introduction: `images/collage/introduction-note.png`
 
-Updated torn cream paper note, cobalt blue and coral tabs, and black vintage typewriter lettering. The supplied PNG is preserved at 1448 × 1086 pixels with its alpha channel. It contains the following agreed wording, also used as the image alt text:
+Regenerated with the built-in imagegen tool on 31 October 2026 to reflect the Breathing, Brain, and Cognition Lab. Torn cream paper note, cobalt blue and coral tabs, and black vintage typewriter lettering. The PNG is preserved at 1448 × 1086 pixels with its alpha channel. It contains the following agreed wording, also used as the image alt text:
 
-> I am a Lecturer in Psychology at the University of Hull. I study human cognition, memory, and language, and how they interact with bodily states such as breathing and sleep. Alongside this, I work on research methods and how AI is changing psychological research.
+> I am a Lecturer in Psychology at the University of Hull, where I lead the Breathing, Brain, and Cognition Lab.
+>
+> I study how brain activity, cognition and memory interact with breathing and sleep. I also work on quantitative research methods and AI in psychological research.
+
+### Introduction edit prompt, 31 October 2026
+
+```text
+Use case: text-localization.
+Edit target: the supplied homepage introduction note. Keep its torn warm cream paper silhouette, paper texture, cobalt blue tab at top left, salmon coral tab at bottom right, black vintage typewriter lettering and transparent background. Replace all text with EXACTLY these two paragraphs, with correct spelling and punctuation:
+
+I am a Lecturer in Psychology at the University of Hull, where I lead the Breathing, Brain, and Cognition Lab.
+
+I study how brain activity, cognition and memory interact with breathing and sleep. I also work on quantitative research methods and AI in psychological research.
+
+Keep the same 4:3 landscape proportions and generous legible left-aligned type. Fit the complete text comfortably on the paper with consistent font size, enough margin and a clear paragraph break. Preserve genuine alpha transparency outside the paper and tabs. No extra text, illustration, frame, shadow, or website mockup.
+```
 
 ## Research background: `images/collage/research.webp`
 
