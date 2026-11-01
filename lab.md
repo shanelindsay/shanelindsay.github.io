@@ -1,12 +1,12 @@
 ---
 layout: page
-title: Breathing, Brain, and Cognition Lab
+title: Body, Brain, and Cognition Lab
 nav_title: BBC Lab
 permalink: /lab/
 published: true
 ---
 
-The Breathing, Brain, and Cognition (BBC) Lab at the University of Hull investigates how human breathing interacts with brain activity, perception, attention, memory, sleep, and wellbeing.
+The Body, Brain, and Cognition (BBC) Lab at the University of Hull investigates how bodily states and physiological rhythms, particularly breathing, sleep, and eye and pupil movements, interact with brain activity, perception, attention, memory, and wellbeing.
 
 Breathing is more than gas exchange. Its pathways, rhythms and variability are closely linked to brain activity and bodily arousal. We study how these relationships shape attention and memory, and how cognitive demands in turn change the way we breathe.
 

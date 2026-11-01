@@ -5,9 +5,9 @@ permalink: /research/
 published: true
 ---
 
-I lead the [Breathing, Brain, and Cognition Lab]({{ '/lab/' | relative_url }}) at the University of Hull. My work in cognitive psychology and cognitive neuroscience investigates how the brain, cognition, and memory interact with bodily states such as breathing and sleep, alongside research on quantitative methods and AI.
+My work in cognitive psychology and cognitive neuroscience investigates how memory, language, and attention interact with brain and bodily states, alongside research on quantitative methods, open science, and AI. I lead the [Body, Brain, and Cognition Lab]({{ '/lab/' | relative_url }}) at the University of Hull.
 
-## Breathing, brain, and cognition
+## Body, brain, and cognition
 
 How do the rhythms and pathways of breathing shape the way we attend, remember, and act, and how do cognitive demands and brain states in turn alter how we breathe?
 

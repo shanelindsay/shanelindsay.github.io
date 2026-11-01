@@ -151,8 +151,8 @@ h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.03
 .page-publications .prose > p { margin-bottom: 1.5em; }
 .page-research-students { --reading-width: 49%; --reading-left: 26%; }
 .page-research-students .prose > ul { font-size: 17px; }
-.page-cogphys-lab, .page-breathing-and-cognition-lab, .page-breathing-brain-and-cognition-lab { --reading-width: 43%; --reading-left: 27%; }
-.page-cogphys-lab .page-hero, .page-breathing-and-cognition-lab .page-hero, .page-breathing-brain-and-cognition-lab .page-hero { padding-top: 70px; }
+.page-cogphys-lab, .page-breathing-and-cognition-lab, .page-body-brain-and-cognition-lab { --reading-width: 43%; --reading-left: 27%; }
+.page-cogphys-lab .page-hero, .page-breathing-and-cognition-lab .page-hero, .page-body-brain-and-cognition-lab .page-hero { padding-top: 70px; }
 .page-teaching { --reading-width: 62%; --reading-left: 11%; }
 .site-footer .container { width: var(--reading-width); max-width: 960px; margin-left: var(--reading-left); }
 .footer-bottom { flex-direction: column; gap: 5px; }
@@ -162,7 +162,7 @@ h1 { font-size: clamp(42px, 4.2vw, 64px); font-weight: 600; letter-spacing: -.03
   .nav-links { gap: 8px 20px; }
   .prose { font-size: 18px; }
   .page-hero { padding-top: 36px; }
-  .page-cogphys-lab .page-hero, .page-breathing-and-cognition-lab .page-hero, .page-breathing-brain-and-cognition-lab .page-hero { padding-top: 40px; }
+  .page-cogphys-lab .page-hero, .page-breathing-and-cognition-lab .page-hero, .page-body-brain-and-cognition-lab .page-hero { padding-top: 40px; }
 }
 @media (max-width: 700px) {
   body { --reading-width: calc(100% - 72px) !important; --reading-left: 36px !important; }
