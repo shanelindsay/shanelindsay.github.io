@@ -12,7 +12,7 @@ Breathing is more than gas exchange. Its pathways, rhythms and variability are c
 
 ## Current themes
 
-- **Breathing phase, attention, and memory:** How visual attention, eye movements, and memory encoding vary across inhalation and exhalation, and how breathing coordinates with cognitive tasks.
+- **Breathing, eye movements, and attention:** How visual attention, oculomotor dynamics, pupil state, and memory encoding vary across inhalation and exhalation, and how breathing coordinates with cognitive tasks.
 - **Nasal versus oral breathing:** How the route of breathing affects visual search and memory consolidation across wakefulness and rest.
 - **Brain and respiratory coupling:** Using neuroimaging and physiological recordings to study how breathing rhythms and sighs interact with cortical dynamics, arousal, and task performance.
 - **Individual differences and respiratory signatures:** How stable a person's breathing patterns are across days, tasks, and rest, and how respiratory traits relate to cognition, sleep, and wellbeing in large cohorts.
@@ -20,7 +20,7 @@ Breathing is more than gas exchange. Its pathways, rhythms and variability are c
 
 ## Methods
 
-We combine laboratory experiments using respiratory recording and eye tracking with analyses of large physiological, sleep, and neuroimaging datasets.
+We combine laboratory experiments and large neuroimaging and physiological cohorts, using respiratory recording, eye tracking, and brain imaging to study how bodily and neural states shape cognition.
 
 ## Lab outputs and theses
 
