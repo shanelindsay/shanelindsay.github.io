@@ -5,17 +5,11 @@ permalink: /research-students/
 published: true
 ---
 
-## Yumeng Lyu
+## Current doctoral supervision
 
-Yumeng is investigating what verbal fluency tasks measure beyond total word counts, focusing on test retest reliability and component structure in language production (co supervised with Dr Kate Stone; China Scholarship Council scholarship).
-
-## Caitlin Swan
-
-Caitlin is studying AI assisted quantitative analysis in higher education, examining how AI autonomy affects statistical judgement, verification, and responsibility (co supervised with Dr Anastasia Gouseti and Professor Kevin Burden; ESRC White Rose DTP studentship).
-
-## Ruihao Zhou
-
-Ruihao is examining individual differences and cognitive control in bilingual language production under high pressure (co supervised with Dr Kate Stone; ESRC White Rose DTP studentship).
+- **Yumeng Lyu**. First supervisor (with Dr Kate Stone; China Scholarship Council scholarship). Verbal fluency, test retest reliability, and cognitive processes in language production.
+- **Caitlin Swan**. First supervisor (with Dr Anastasia Gouseti and Professor Kevin Burden; ESRC White Rose DTP studentship). Human judgement, trust, and responsibility in AI assisted statistical analysis.
+- **Ruihao Zhou**. First supervisor (with Dr Kate Stone; ESRC White Rose DTP studentship). Individual differences and cognitive control in bilingual language comprehension.
 
 ## Previous doctoral supervision
 

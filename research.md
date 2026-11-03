@@ -5,9 +5,9 @@ permalink: /research/
 published: true
 ---
 
-My work in cognitive psychology and cognitive neuroscience investigates how memory, language, and attention interact with brain and bodily states, alongside research on quantitative methods, open science, and AI. I lead the [Body, Brain, and Cognition Lab]({{ '/lab/' | relative_url }}) at the University of Hull.
+I lead the [Breathing, Brain, and Cognition Lab]({{ '/lab/' | relative_url }}) at the University of Hull. My work in cognitive psychology and cognitive neuroscience investigates how the brain, cognition, and memory interact with bodily states such as breathing and sleep, alongside research on quantitative methods and measurement.
 
-## Body, brain, and cognition
+## Breathing, brain, and cognition
 
 How do the rhythms and pathways of breathing shape the way we attend, remember, and act, and how do cognitive demands and brain states in turn alter how we breathe?
 
@@ -17,11 +17,9 @@ In laboratory studies using respiratory recording and eye tracking, we investiga
 - Respiratory phase and visuospatial attention: A replication and extension (Roberts et al., 2026). [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
 - The impact of oral and nasal breathing on visual search performance: A pre registered replication and extension (Richards et al., under review).
 
-## Measurement, research methods, and AI
+## Measurement and research methods
 
-I work on measurement precision, test retest reliability, effect sizes in repeated measures designs, meta analysis, and publication bias, as well as methods for calibrating respiratory recordings against reference airflow measures.
-
-Alongside this, I study how AI is changing scientific practice, including how researchers and students verify AI assisted analyses and retain responsibility for analytical decisions.
+I work on measurement precision, reliability, effect sizes, meta analysis, and publication bias. Alongside this, I study human judgement, trust, and responsibility in AI assisted decision making and statistical analysis.
 
 - [Same data, different analysts](https://doi.org/10.1186/s12915-024-02101-x) (2025). [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 - [Data from an international multi centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).

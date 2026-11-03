@@ -2,7 +2,7 @@
 title: Shane Lindsay
 email: S.Lindsay@hull.ac.uk
 description: > # this means to ignore newlines until "baseurl:"
-  Psychology lecturer at the University of Hull. Studying cognition, memory, language, physiological state, research methods and AI.
+  Psychology lecturer at the University of Hull. Studying cognition, memory, language, the brain and bodily states such as breathing and sleep, and quantitative research methods.
   
 # baseurl: "/" # the subpath of your site, e.g. /blog/
 url: "https://shanelindsay.github.io" # the base hostname & protocol for your site
@@ -14,7 +14,7 @@ university_profile_url: "https://www.hull.ac.uk/staff-directory/shane-lindsay"
 worktribe_url: "https://hull-repository.worktribe.com/person/315748/shane-lindsay/outputs"
 google_scholar_url: "https://scholar.google.co.uk/citations?user=tTSUv-sAAAAJ&hl=en"
 researchgate_url: "https://www.researchgate.net/profile/Shane_Lindsay"
-lab_name: "Body, Brain, and Cognition Lab"
+lab_name: "Breathing, Brain, and Cognition Lab"
 short_description: "Cognition, physiology, and research methods"
 
 permalink: /blog/:year/:month/:title.html
