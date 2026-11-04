@@ -6,7 +6,7 @@ permalink: /lab/
 published: true
 ---
 
-The Breathing, Brain, and Cognition (BBC) Lab at the University of Hull investigates how human breathing interacts with brain activity, perception, attention, memory, sleep, and wellbeing.
+The Breathing, Brain, and Cognition (BBC) Lab at the University of Hull investigates how human breathing interacts with brain activity, perception, attention, memory, sleep, and health.
 
 Breathing is more than gas exchange. Nasal and oral pathways, the phase of each breath, and shifts in respiratory rate and variability are coupled to brain rhythms, autonomic state, and cognitive performance. At the same time, cognitive demands reshape how we breathe.
 
@@ -15,7 +15,7 @@ Breathing is more than gas exchange. Nasal and oral pathways, the phase of each 
 - **Breathing, eye movements, and attention:** How visual attention, oculomotor dynamics, pupil state, and memory encoding vary across inhalation and exhalation, and how breathing coordinates with cognitive tasks.
 - **Nasal versus oral breathing:** How the route of breathing affects visual search and memory consolidation across wakefulness and rest.
 - **Brain and respiratory coupling:** Using neuroimaging and physiological recordings to study how breathing rhythms and sighs interact with cortical dynamics, arousal, and task performance.
-- **Individual differences and respiratory signatures:** How stable a person's breathing patterns are across days, tasks, and rest, and how respiratory traits relate to cognition, sleep, and wellbeing in large cohorts.
+- **Individual differences and respiratory signatures:** How stable a person's breathing patterns are across days, tasks, and rest, and how respiratory traits relate to cognition, sleep, and health and wellbeing in large cohorts.
 
 ## Methods
 

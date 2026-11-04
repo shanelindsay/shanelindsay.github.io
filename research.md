@@ -11,7 +11,7 @@ I lead the [Breathing, Brain, and Cognition Lab]({{ '/lab/' | relative_url }}) a
 
 How do the rhythms and pathways of breathing shape the way we attend, remember, and act, and how do cognitive demands and brain states in turn alter how we breathe?
 
-In laboratory studies using respiratory recording and eye tracking, we investigate both the route of breathing (nasal versus oral) and how visual perception, attention, and memory encoding vary across inhalation and exhalation. Current work combines these experimental approaches with large neuroimaging and physiological datasets to examine individual differences in breathing patterns, how respiratory rhythms couple with brain activity, and how bodily regulation relates to cognition, sleep, and wellbeing.
+In laboratory studies using respiratory recording and eye tracking, we investigate both the route of breathing (nasal versus oral) and how visual perception, attention, and memory encoding vary across inhalation and exhalation. Current work combines these experimental approaches with large neuroimaging and physiological datasets to examine individual differences in breathing patterns, how respiratory rhythms couple with brain activity, and how bodily regulation relates to cognition, sleep, and health and wellbeing.
 
 - [Does oral breathing disrupt memory consolidation during waking rest? A registered report](https://doi.org/10.1177/17470218251328994) (2025).
 - Respiratory phase and visuospatial attention: A replication and extension (Roberts et al., 2026). [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
