@@ -7,8 +7,11 @@ published: true
 
 ## Current doctoral supervision
 
-- **Yumeng Lyu**. First supervisor (with Dr Kate Stone; China Scholarship Council scholarship). Verbal fluency, test retest reliability, and cognitive processes in language production.
 - **Caitlin Swan**. First supervisor (with Dr Anastasia Gouseti and Professor Kevin Burden; ESRC White Rose DTP studentship). Human judgement, trust, and responsibility in AI assisted statistical analysis.
+
+### Language and cognition (with Dr Kate Stone)
+
+- **Yumeng Lyu**. First supervisor (with Dr Kate Stone; China Scholarship Council scholarship). Verbal fluency, test retest reliability, and cognitive processes in language production.
 - **Ruihao Zhou**. First supervisor (with Dr Kate Stone; ESRC White Rose DTP studentship). Individual differences and cognitive control in bilingual language comprehension.
 
 ## Previous doctoral supervision
