@@ -95,3 +95,45 @@ Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped word
 - Website copy: papers/Mather_Lindsay_2025_fast_mapped_word_retention.pdf
 - Verification: author corrected accepted manuscript; 58 pages; title, authors, DOI, full article and references checked. Existing self-archiving notice preserved.
 - SHA-256: 767461f5598ebabf66cbc64459d67f9e90239268fb01f9e8c96c40bb25e5577d
+
+## Final five published-paper gaps, 14 November 2026
+
+### Lyu_et_al_2025_verbal_fluency_insomnia.pdf
+
+- Canonical record: https://doi.org/10.1080/13803395.2025.2572088
+- Local source: /tmp/website-lyu-render/Revised manuscript Verbal Fluency in Insomnia.pdf
+- Website copy: papers/Lyu_et_al_2025_verbal_fluency_insomnia.pdf
+- Verification: 27 pages; revised author manuscript converted from /home/sl/Downloads/Revised manuscript Verbal Fluency in Insomnia.docx using the bundled render_docx.py LibreOffice renderer. No tracked changes or comments in the source. All rendered pages inspected, including figures, tables and Chinese characters; existing revision highlights preserved.
+- SHA-256: 78f9c72333943ff3ecebe98dc76363d39c76cf3ada13a42bbbd4f2f80e071189
+
+### Richards_et_al_2025_oral_breathing_waking_rest.pdf
+
+- Canonical record: https://doi.org/10.1177/17470218251328994
+- Local source: /home/sl/Downloads/richards-et-al-2025-express-does-oral-breathing-disrupt-memory-consolidation-during-waking-rest-a-registered-report.pdf
+- Website copy: papers/Richards_et_al_2025_oral_breathing_waking_rest.pdf
+- Verification: 51 pages; author accepted manuscript including submission cover and all 50 numbered article pages, references and figures. Title, authors and DOI checked; existing notices preserved.
+- SHA-256: 6ce26e135a4aa6ca799f41233830c7e7593e730ee69a4cd39014474dedadbeb1
+
+### Lindsay_Mather_2022_measurement_precision.pdf
+
+- Canonical record: https://doi.org/10.1002/icd.2321
+- Local source: /home/sl/github/dotfiles/stow/llm-configs/.codex/attachments/103fe767-058b-407a-9f07-5dc8ec3ed8e0/Commentary on Byers-Heinlein.pdf
+- Website copy: papers/Lindsay_Mather_2022_measurement_precision.pdf
+- Verification: 8 pages; peer reviewed author manuscript, title, authors, DOI and final references checked. Self-archiving notice preserved.
+- SHA-256: 00d9795015025b12eac332d8c02847de5e9e4b732397715fef48618de65fcb7f
+
+### Macinska_et_al_2024_dynamic_emotional_faces.pdf
+
+- Canonical record: https://doi.org/10.1007/s10803-023-05979-8
+- Local source: /tmp/website-pdf-online/macinska_2024.pdf
+- Website copy: papers/Macinska_et_al_2024_dynamic_emotional_faces.pdf
+- Verification: 13 pages; publisher version retrieved by Luna from https://pmc-oa-opendata.s3.amazonaws.com/PMC11143001.1/PMC11143001.1.pdf . Title, authors, DOI, final references and copyright notice checked. CC BY notice preserved.
+- SHA-256: 3c350f50065bcccb7f8cf1c1324e14c2c87af05ad1e19e1bedd9ed07f9c0534c
+
+### Cairney_et_al_2017_memory_retrieval_slow_wave_sleep.pdf
+
+- Canonical record: https://doi.org/10.1093/sleep/zsx114
+- Local source: /tmp/website-pdf-online/cairney_2017.pdf
+- Website copy: papers/Cairney_et_al_2017_memory_retrieval_slow_wave_sleep.pdf
+- Verification: 12 pages; publisher version retrieved by Luna from https://pmc-oa-opendata.s3.amazonaws.com/PMC5804984.1/PMC5804984.1.pdf . Title, authors, DOI, references and disclosures checked. CC BY notice preserved.
+- SHA-256: 9e4727886f9b34fe023d118c1e208cc19b089cec8fdd3a6983b0da9db5211acd

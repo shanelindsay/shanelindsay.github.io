@@ -9,21 +9,21 @@ published: true
 
 Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (2027). Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words. *Journal of Memory and Language, 152*, 104815. [DOI](https://doi.org/10.1016/j.jml.2026.104815) · [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
 
-Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088)
+Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088) · [PDF]({{ '/papers/Lyu_et_al_2025_verbal_fluency_insomnia.pdf' | relative_url }})
 
 Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped words? A pre-registered meta-analysis of retention following the mutual exclusivity response. *Infant and Child Development, 34*(3), e70019. [DOI](https://doi.org/10.1002/icd.70019) · [PDF]({{ '/papers/Mather_Lindsay_2025_fast_mapped_word_retention.pdf' | relative_url }})
 
-Richards, B., Holle, H., & Lindsay, S. (2025). Does oral breathing disrupt memory consolidation during waking rest? A registered report. *Quarterly Journal of Experimental Psychology, 78*(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994)
+Richards, B., Holle, H., & Lindsay, S. (2025). Does oral breathing disrupt memory consolidation during waking rest? A registered report. *Quarterly Journal of Experimental Psychology, 78*(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994) · [PDF]({{ '/papers/Richards_et_al_2025_oral_breathing_waking_rest.pdf' | relative_url }})
 
 Gould, E., Fraser, H. S., Parker, T. H., et al. (2025). Same data, different analysts: Variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology, 23*, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x) · [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 
-Macinska, S., Lindsay, S., & Jellema, T. (2024). Visual attention to dynamic emotional faces in adults on the autism spectrum. *Journal of Autism and Developmental Disorders, 54*(6), 2211-2223. [DOI](https://doi.org/10.1007/s10803-023-05979-8)
+Macinska, S., Lindsay, S., & Jellema, T. (2024). Visual attention to dynamic emotional faces in adults on the autism spectrum. *Journal of Autism and Developmental Disorders, 54*(6), 2211-2223. [DOI](https://doi.org/10.1007/s10803-023-05979-8) · [PDF]({{ '/papers/Macinska_et_al_2024_dynamic_emotional_faces.pdf' | relative_url }})
 
 Terry, J., Ross, R. M., Nagy, T., et al. (2023). Data from an international multi-centre study of statistics and mathematics anxieties and related variables in university students (the SMARVUS dataset). *Journal of Open Psychology Data, 11*(1), Article 8. [DOI](https://doi.org/10.5334/jopd.80) · [PDF]({{ '/papers/Terry_et_al_2023_SMARVUS_dataset.pdf' | relative_url }})
 
 Lindsay, S., Clayards, M., Gennari, S., & Gaskell, M. G. (2022). Plasticity of categories in speech perception and production. *Language, Cognition and Neuroscience, 37*(6), 707-731. [DOI](https://doi.org/10.1080/23273798.2021.2018471) · [PDF]({{ '/papers/Lindsay_et_al_2022_speech_category_plasticity.pdf' | relative_url }})
 
-Lindsay, S., & Mather, E. (2022). Developmental psychologists should care about measurement precision. *Infant and Child Development, 31*(5), e2321. [DOI](https://doi.org/10.1002/icd.2321)
+Lindsay, S., & Mather, E. (2022). Developmental psychologists should care about measurement precision. *Infant and Child Development, 31*(5), e2321. [DOI](https://doi.org/10.1002/icd.2321) · [PDF]({{ '/papers/Lindsay_Mather_2022_measurement_precision.pdf' | relative_url }})
 
 Tseng, H., Lindsay, S., & Davis, C. J. (2020). Semantic interpretability does not influence masked priming effects. *Quarterly Journal of Experimental Psychology, 73*(6), 856-867. [DOI](https://doi.org/10.1177/1747021819896766) · [PDF]({{ '/papers/Tseng_et_al_2020_semantic_interpretability_masked_priming.pdf' | relative_url }})
 
@@ -35,7 +35,7 @@ Lindsay, S., & Nightingale, R. (2018). Interference effects of novel word-object
 
 Cairney, S. A., Lindsay, S., Paller, K. A., & Gaskell, M. G. (2018). Sleep preserves original and distorted memory traces. *Cortex, 99*, 39-44. [DOI](https://doi.org/10.1016/j.cortex.2017.10.005) · [PDF]({{ '/papers/cairney2017.pdf' | relative_url }})
 
-Cairney, S. A., Sobczak, J. M., Lindsay, S., & Gaskell, M. G. (2017). Mechanisms of memory retrieval in slow-wave sleep. *Sleep, 40*(9), zsx114. [DOI](https://doi.org/10.1093/sleep/zsx114)
+Cairney, S. A., Sobczak, J. M., Lindsay, S., & Gaskell, M. G. (2017). Mechanisms of memory retrieval in slow-wave sleep. *Sleep, 40*(9), zsx114. [DOI](https://doi.org/10.1093/sleep/zsx114) · [PDF]({{ '/papers/Cairney_et_al_2017_memory_retrieval_slow_wave_sleep.pdf' | relative_url }})
 
 Cairney, S. A., Lindsay, S., Sobczak, J. M., Paller, K. A., & Gaskell, M. G. (2016). The benefits of targeted memory reactivation for consolidation in sleep are contingent on memory accuracy and direct cue-memory associations. *Sleep, 39*(5), 1139-1150. [DOI](https://doi.org/10.5665/sleep.5772) · [PDF]({{ '/papers/MS%20%23%20SP-00533-15.pdf' | relative_url }})
 
