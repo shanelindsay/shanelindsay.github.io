@@ -11,7 +11,7 @@ Lindsay, S., Lucas, A., O'Connor, R., Riggs, K., & Gaskell, M. G. (2027). Does f
 
 Lyu, Y., Lindsay, S., Wang, S., & Zheng, Y. (2025). Verbal fluency difficulties in Chinese insomnia patients: Insights from semantic and phonemic tasks. *Journal of Clinical and Experimental Neuropsychology, 47*(7), 658-671. [DOI](https://doi.org/10.1080/13803395.2025.2572088)
 
-Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped words? A pre-registered meta-analysis of retention following the mutual exclusivity response. *Infant and Child Development, 34*(3), e70019. [DOI](https://doi.org/10.1002/icd.70019)
+Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped words? A pre-registered meta-analysis of retention following the mutual exclusivity response. *Infant and Child Development, 34*(3), e70019. [DOI](https://doi.org/10.1002/icd.70019) · [PDF]({{ '/papers/Mather_Lindsay_2025_fast_mapped_word_retention.pdf' | relative_url }})
 
 Richards, B., Holle, H., & Lindsay, S. (2025). Does oral breathing disrupt memory consolidation during waking rest? A registered report. *Quarterly Journal of Experimental Psychology, 78*(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994)
 
@@ -19,19 +19,19 @@ Gould, E., Fraser, H. S., Parker, T. H., et al. (2025). Same data, different ana
 
 Macinska, S., Lindsay, S., & Jellema, T. (2024). Visual attention to dynamic emotional faces in adults on the autism spectrum. *Journal of Autism and Developmental Disorders, 54*(6), 2211-2223. [DOI](https://doi.org/10.1007/s10803-023-05979-8)
 
-Terry, J., Ross, R. M., Nagy, T., et al. (2023). Data from an international multi-centre study of statistics and mathematics anxieties and related variables in university students (the SMARVUS dataset). *Journal of Open Psychology Data, 11*(1), Article 8. [DOI](https://doi.org/10.5334/jopd.80)
+Terry, J., Ross, R. M., Nagy, T., et al. (2023). Data from an international multi-centre study of statistics and mathematics anxieties and related variables in university students (the SMARVUS dataset). *Journal of Open Psychology Data, 11*(1), Article 8. [DOI](https://doi.org/10.5334/jopd.80) · [PDF]({{ '/papers/Terry_et_al_2023_SMARVUS_dataset.pdf' | relative_url }})
 
-Lindsay, S., Clayards, M., Gennari, S., & Gaskell, M. G. (2022). Plasticity of categories in speech perception and production. *Language, Cognition and Neuroscience, 37*(6), 707-731. [DOI](https://doi.org/10.1080/23273798.2021.2018471)
+Lindsay, S., Clayards, M., Gennari, S., & Gaskell, M. G. (2022). Plasticity of categories in speech perception and production. *Language, Cognition and Neuroscience, 37*(6), 707-731. [DOI](https://doi.org/10.1080/23273798.2021.2018471) · [PDF]({{ '/papers/Lindsay_et_al_2022_speech_category_plasticity.pdf' | relative_url }})
 
 Lindsay, S., & Mather, E. (2022). Developmental psychologists should care about measurement precision. *Infant and Child Development, 31*(5), e2321. [DOI](https://doi.org/10.1002/icd.2321)
 
-Tseng, H., Lindsay, S., & Davis, C. J. (2020). Semantic interpretability does not influence masked priming effects. *Quarterly Journal of Experimental Psychology, 73*(6), 856-867. [DOI](https://doi.org/10.1177/1747021819896766)
+Tseng, H., Lindsay, S., & Davis, C. J. (2020). Semantic interpretability does not influence masked priming effects. *Quarterly Journal of Experimental Psychology, 73*(6), 856-867. [DOI](https://doi.org/10.1177/1747021819896766) · [PDF]({{ '/papers/Tseng_et_al_2020_semantic_interpretability_masked_priming.pdf' | relative_url }})
 
 O’Connor, R. J., Lindsay, S., Mather, E., & Riggs, K. J. (2019). Why would a special FM process exist in adults, when it does not appear to exist in children? *Cognitive Neuroscience, 10*(4), 221-222. [DOI](https://doi.org/10.1080/17588928.2019.1574260) · [PDF]({{ '/papers/OConnor_et_al_2019_fast_mapping_adults_children.pdf' | relative_url }})
 
 Gaskell, M. G., & Lindsay, S. (2019). Reasons to doubt the generalizability, reliability, and diagnosticity of fast mapping (FM) for rapid lexical integration. *Cognitive Neuroscience, 10*(4), 234-236. [DOI](https://doi.org/10.1080/17588928.2019.1600487) · [PDF]({{ '/papers/Gaskell_Lindsay_2019_fast_mapping_lexical_integration.pdf' | relative_url }})
 
-Lindsay, S., & Nightingale, R. (2018). Interference effects of novel word-object learning on visual perception. *Proceedings of the Annual Meeting of the Cognitive Science Society, 40*. [Paper](https://escholarship.org/uc/item/0b3118pc)
+Lindsay, S., & Nightingale, R. (2018). Interference effects of novel word-object learning on visual perception. *Proceedings of the Annual Meeting of the Cognitive Science Society, 40*. [Paper](https://escholarship.org/uc/item/0b3118pc) · [PDF]({{ '/papers/Lindsay_Nightingale_2018_word_object_learning_visual_perception.pdf' | relative_url }})
 
 Cairney, S. A., Lindsay, S., Paller, K. A., & Gaskell, M. G. (2018). Sleep preserves original and distorted memory traces. *Cortex, 99*, 39-44. [DOI](https://doi.org/10.1016/j.cortex.2017.10.005) · [PDF]({{ '/papers/cairney2017.pdf' | relative_url }})
 
@@ -51,7 +51,7 @@ Gaskell, M. G., Warker, J., Lindsay, S., Frost, R., Guest, J., Snowdon, R., & St
 
 Krieger-Redwood, K., Gaskell, M. G., Lindsay, S., & Jefferies, E. (2013). The selective role of premotor cortex in speech perception: A contribution to phoneme judgements but not speech comprehension. *Journal of Cognitive Neuroscience, 25*(12), 2179-2188. [DOI](https://doi.org/10.1162/jocn_a_00463) · [PDF]({{ '/papers/jocn_a_00463_1_.pdf' | relative_url }})
 
-Lindsay, S., Scheepers, C., & Kamide, Y. (2013). To dash or to dawdle: Verb-associated speed of motion influences eye movements during spoken sentence comprehension. *PLOS ONE, 8*(6), e67187. [DOI](https://doi.org/10.1371/journal.pone.0067187)
+Lindsay, S., Scheepers, C., & Kamide, Y. (2013). To dash or to dawdle: Verb-associated speed of motion influences eye movements during spoken sentence comprehension. *PLOS ONE, 8*(6), e67187. [DOI](https://doi.org/10.1371/journal.pone.0067187) · [PDF]({{ '/papers/Lindsay_et_al_2013_to_dash_or_dawdle.pdf' | relative_url }})
 
 Lindsay, S., & Gaskell, M. G. (2013). Lexical integration of novel words without sleep. *Journal of Experimental Psychology: Learning, Memory, and Cognition, 39*(2), 608-622. [DOI](https://doi.org/10.1037/a0029243) · [PDF]({{ '/papers/Lexical_integration_of_novel_words_without_sleep.pdf' | relative_url }})
 
