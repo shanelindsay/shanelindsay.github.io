@@ -28,6 +28,7 @@ My work on bodily states grew out of research on how sleep and waking rest conso
 
 I have a longstanding interest in word learning, spoken language processing, and how language interacts with visual attention and motor systems. Current doctoral research with Dr Kate Stone examines verbal fluency and cognitive control in bilingual language comprehension.
 
+- Tracking the integration of novel words into the mental lexicon: Evidence from mouse movement trajectories (Lucas et al., under review). [PsyArXiv](https://osf.io/preprints/psyarxiv/t5cuh_v1/) · [Data and code](https://osf.io/dbyz9/).
 - [Does fast mapping accelerate lexical integration? Evidence from spoken and written novel words](https://doi.org/10.1016/j.jml.2026.104815) (2027). [PDF]({{ '/papers/1-s2.0-S0749596X26000859-main.pdf' | relative_url }})
 - [How well do children remember fast mapped words?](https://doi.org/10.1002/icd.70019) (2025).
 - [Plasticity of categories in speech perception and production](https://doi.org/10.1080/23273798.2021.2018471) (2022).

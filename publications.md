@@ -67,6 +67,8 @@ Bergen, B. K., Lindsay, S., Matlock, T., & Narayanan, S. (2007). Spatial and lin
 
 ## Under review
 
+Lucas, A. P., O'Connor, R. J., Riggs, K. J., & Lindsay, S. (2026). Tracking the integration of novel words into the mental lexicon: Evidence from mouse movement trajectories. Manuscript under review at *Memory & Cognition*. [PsyArXiv](https://osf.io/preprints/psyarxiv/t5cuh_v1/) · [Data and code](https://osf.io/dbyz9/).
+
 Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
 
 Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety: A multi-lab, multi-study investigation. *Manuscript under review*.
