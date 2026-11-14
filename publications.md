@@ -15,7 +15,7 @@ Mather, E., & Lindsay, S. (2025). How well do children remember fast-mapped word
 
 Richards, B., Holle, H., & Lindsay, S. (2025). Does oral breathing disrupt memory consolidation during waking rest? A registered report. *Quarterly Journal of Experimental Psychology, 78*(12), 2610-2626. [DOI](https://doi.org/10.1177/17470218251328994)
 
-Gould, E., Fraser, H. S., Parker, T. H., et al. (2025). Same data, different analysts: Variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology, 23*, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x) · [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }}) · [CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+Gould, E., Fraser, H. S., Parker, T. H., et al. (2025). Same data, different analysts: Variation in effect sizes due to analytical decisions in ecology and evolutionary biology. *BMC Biology, 23*, Article 35. [DOI](https://doi.org/10.1186/s12915-024-02101-x) · [PDF]({{ '/papers/Gould_et_al_2025_same_data_different_analysts.pdf' | relative_url }})
 
 Macinska, S., Lindsay, S., & Jellema, T. (2024). Visual attention to dynamic emotional faces in adults on the autism spectrum. *Journal of Autism and Developmental Disorders, 54*(6), 2211-2223. [DOI](https://doi.org/10.1007/s10803-023-05979-8)
 
@@ -27,9 +27,9 @@ Lindsay, S., & Mather, E. (2022). Developmental psychologists should care about 
 
 Tseng, H., Lindsay, S., & Davis, C. J. (2020). Semantic interpretability does not influence masked priming effects. *Quarterly Journal of Experimental Psychology, 73*(6), 856-867. [DOI](https://doi.org/10.1177/1747021819896766)
 
-O’Connor, R. J., Lindsay, S., Mather, E., & Riggs, K. J. (2019). Why would a special FM process exist in adults, when it does not appear to exist in children? *Cognitive Neuroscience, 10*(4), 221-222. [DOI](https://doi.org/10.1080/17588928.2019.1574260)
+O’Connor, R. J., Lindsay, S., Mather, E., & Riggs, K. J. (2019). Why would a special FM process exist in adults, when it does not appear to exist in children? *Cognitive Neuroscience, 10*(4), 221-222. [DOI](https://doi.org/10.1080/17588928.2019.1574260) · [PDF]({{ '/papers/OConnor_et_al_2019_fast_mapping_adults_children.pdf' | relative_url }})
 
-Gaskell, M. G., & Lindsay, S. (2019). Reasons to doubt the generalizability, reliability, and diagnosticity of fast mapping (FM) for rapid lexical integration. *Cognitive Neuroscience, 10*(4), 234-236. [DOI](https://doi.org/10.1080/17588928.2019.1600487)
+Gaskell, M. G., & Lindsay, S. (2019). Reasons to doubt the generalizability, reliability, and diagnosticity of fast mapping (FM) for rapid lexical integration. *Cognitive Neuroscience, 10*(4), 234-236. [DOI](https://doi.org/10.1080/17588928.2019.1600487) · [PDF]({{ '/papers/Gaskell_Lindsay_2019_fast_mapping_lexical_integration.pdf' | relative_url }})
 
 Lindsay, S., & Nightingale, R. (2018). Interference effects of novel word-object learning on visual perception. *Proceedings of the Annual Meeting of the Cognitive Science Society, 40*. [Paper](https://escholarship.org/uc/item/0b3118pc)
 
@@ -67,9 +67,9 @@ Bergen, B. K., Lindsay, S., Matlock, T., & Narayanan, S. (2007). Spatial and lin
 
 ## Under review
 
-Lucas, A. P., O'Connor, R. J., Riggs, K. J., & Lindsay, S. (2026). Tracking the integration of novel words into the mental lexicon: Evidence from mouse movement trajectories. Manuscript under review at *Memory & Cognition*. [PsyArXiv](https://osf.io/preprints/psyarxiv/t5cuh_v1/) · [Data and code](https://osf.io/dbyz9/).
+Lucas, A. P., O'Connor, R. J., Riggs, K. J., & Lindsay, S. (2026). Tracking the integration of novel words into the mental lexicon: Evidence from mouse movement trajectories. Manuscript under review at *Memory & Cognition*. [PDF]({{ '/papers/Lucas_et_al_2026_novel_words_mouse_tracking.pdf' | relative_url }}) · [PsyArXiv](https://osf.io/preprints/psyarxiv/t5cuh_v1/) · [Data and code](https://osf.io/dbyz9/).
 
-Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
+Roberts, T. E., Richards, B., Skarratt, P. A., Fischer, M. H., & Lindsay, S. (Under review). Respiratory phase and visuospatial attention: A replication and extension. *Manuscript under review*. [PDF]({{ '/papers/Roberts_et_al_2026_respiratory_phase_visuospatial_attention.pdf' | relative_url }}) · [PsyArXiv](https://osf.io/preprints/psyarxiv/n5ha3_v1).
 
 Terry, J., et al. (Under review). The fault in our STARS: The Statistics Anxiety Rating Scale does not measure statistics anxiety: A multi-lab, multi-study investigation. *Manuscript under review*.
 
