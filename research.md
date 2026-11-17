@@ -43,4 +43,6 @@ I work on measurement precision, reliability, effect sizes, meta analysis, and p
 - [Data from an international multi centre study of statistics and mathematics anxieties](https://doi.org/10.5334/jopd.80) (2023).
 - [Developmental psychologists should care about measurement precision](https://doi.org/10.1002/icd.2321) (2022).
 
+Interactive explainer: [Why 2 × 2 interactions are hard to measure reliably]({{ '/explainers/variance-geometry/' | relative_url }}).
+
 See the full [publication list]({{ '/publications/' | relative_url }}) and [research students]({{ '/research-students/' | relative_url }}).

@@ -1,0 +1,354 @@
+<!doctype html>
+<html lang="en-GB">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Why 2 × 2 interactions are hard to measure reliably | Shane Lindsay</title>
+<meta name="description" content="An interactive guide to signal, measurement error and covariance in repeated measures 2 × 2 designs.">
+<style>
+  body { margin:0; background:#fff; color:#222; font:17px/1.65 Georgia, "Times New Roman", serif; }
+  main { max-width:880px; margin:0 auto; padding:40px 24px 72px; }
+  a { color:#222; }
+  .back { font-size:15px; }
+  h1 { font-size:2rem; line-height:1.2; font-weight:normal; margin:18px 0 10px; }
+  h2 { font-size:1.35rem; font-weight:normal; margin:48px 0 10px; }
+  h3 { font-size:1rem; font-weight:bold; margin:0 0 14px; }
+  .sub { color:#555; font-size:1.08rem; margin:0 0 8px; }
+  .byline { font-size:15px; color:#555; margin-bottom:28px; }
+  .math { font-style:italic; }
+  .note { border-left:2px solid #999; padding:2px 0 2px 18px; margin:24px 0; font-size:.96rem; }
+  .note ul { margin:8px 0 0; padding-left:20px; }
+  .interactive { border-top:1px solid #222; border-bottom:1px solid #222; padding:18px 0; margin:28px 0; }
+  .controls { display:grid; grid-template-columns:repeat(auto-fit, minmax(170px, 1fr)); gap:12px 24px; margin-bottom:14px; font-size:14px; }
+  .ctrl label { display:flex; justify-content:space-between; gap:8px; margin-bottom:2px; }
+  .ctrl input { width:100%; accent-color:#222; }
+  .presets { margin-bottom:14px; font-size:14px; }
+  .presets button { font:inherit; background:none; border:0; padding:0; color:#222; text-decoration:underline; cursor:pointer; }
+  .presets button.active { font-weight:bold; text-decoration:none; }
+  .presets .sep { color:#999; margin:0 6px; }
+  svg { width:100%; height:auto; display:block; font-family:Georgia, "Times New Roman", serif; }
+  .readouts { display:grid; grid-template-columns:repeat(auto-fit, minmax(160px, 1fr)); gap:10px 24px; margin-top:12px; padding-top:10px; border-top:1px solid #ddd; }
+  .stat .lbl { font-size:13px; color:#555; }
+  .stat .val { font-size:19px; font-variant-numeric:tabular-nums; }
+  figcaption { font-size:.92rem; color:#555; margin-top:12px; }
+  .takeaway { border-left:2px solid #222; padding:2px 0 2px 18px; margin-top:40px; }
+</style>
+</head>
+<body>
+<main>
+<div class="back"><a href="/research/">← Research</a></div>
+
+<h1>Why 2 × 2 interactions are hard to measure reliably</h1>
+<p class="sub">An interactive guide to signal, measurement error and covariance in repeated measures experiments, and to what they mean for reliability and standardised effect sizes.</p>
+<div class="byline">Shane Lindsay, University of Hull</div>
+
+<h2>1. Signal and error add as squares</h2>
+<p>Take a task with a 60 ms average interference effect. People differ in their true effect: for one person it might be 30 ms, for another 90 ms. Suppose the standard deviation of these true effects across people is 30 ms (τ = 30).</p>
+<p>We never see a person's true effect. We estimate it as the difference between two condition means, each averaged over <span class="math">m</span> trials. If single trials vary with standard deviation <span class="math">s</span>, that estimate carries measurement error with variance <span class="math">2s²/m</span>. With <span class="math">s</span> = 200 ms and <span class="math">m</span> = 50 trials per condition, the error has a standard deviation of 40 ms.</p>
+<p>Because measurement error is unrelated to who has a large or small true effect, the two sources are independent. Independent sources behave like the two sides of a right angled triangle: the spread of observed effects across people is the hypotenuse, √(30² + 40²) = 50 ms. Standard deviations do not add (30 + 40 is not 50), but variances do: 900 + 1,600 = 2,500.</p>
+
+<div class="interactive">
+  <h3>Figure 1. True spread, trial noise, trial count and effect size</h3>
+  <div class="controls">
+    <div class="ctrl"><label for="f1Tau"><span>True SD of effect (τ)</span><span id="f1TauV"></span></label><input id="f1Tau" type="range" min="0" max="80" step="2" value="30"></div>
+    <div class="ctrl"><label for="f1S"><span>SD of single trials (s)</span><span id="f1SV"></span></label><input id="f1S" type="range" min="60" max="320" step="10" value="200"></div>
+    <div class="ctrl"><label for="f1M"><span>Trials per condition (m)</span><span id="f1MV"></span></label><input id="f1M" type="range" min="5" max="200" step="5" value="50"></div>
+    <div class="ctrl"><label for="f1E"><span>Mean effect</span><span id="f1EV"></span></label><input id="f1E" type="range" min="0" max="120" step="5" value="60"></div>
+  </div>
+  <svg id="f1Svg" viewBox="0 0 860 250" role="img" aria-label="Right triangle and squared areas for true variance and error variance"></svg>
+  <div class="readouts">
+    <div class="stat"><div class="lbl">Error SD, √(2s²/m)</div><div class="val" id="f1Err" style="color:#a0412d"></div></div>
+    <div class="stat"><div class="lbl">Observed SD</div><div class="val" id="f1Obs"></div></div>
+    <div class="stat"><div class="lbl">Reliability, τ² / observed variance</div><div class="val" id="f1Rel"></div></div>
+    <div class="stat"><div class="lbl">d<sub>z</sub>, mean effect / observed SD</div><div class="val" id="f1Dz"></div></div>
+  </div>
+  <figcaption>Left: true spread and measurement error meet at a right angle, and the observed spread is the hypotenuse. Right: the squared areas add. Reliability is the grey share of the total square. Changing the mean effect moves d<sub>z</sub> and leaves reliability unchanged; changing the number of trials moves both.</figcaption>
+</div>
+
+<div class="note">
+  <strong>What counts as measurement error here?</strong> It is anything that varies from one observation to the next when we estimate a person's condition mean from a finite number of trials or items:
+  <ul>
+    <li>moment to moment fluctuations such as attentional lapses and motor variability;</li>
+    <li>trends within a session, such as practice and fatigue;</li>
+    <li>differences between stimuli or items, when each trial uses a different word, face or question;</li>
+    <li>binomial sampling on accuracy measures, where even a steady 50% chance of success varies across items.</li>
+  </ul>
+</div>
+
+<h2>2. Why differences between conditions are noisy</h2>
+<p>Suppose two people do a task with two conditions. Ann averages 500 ms in Condition 1 and 550 ms in Condition 2. Ben is slower, at 700 ms and 740 ms. In the left panel of Figure 2 each dot is one person. How far right a dot sits is that person's true Condition 1 score, and how far up is their true Condition 2 score, both measured from the group average. Ben's dot is up and to the right of Ann's because he is slower in both conditions.</p>
+<p>A line through this plot is a recipe for turning each person's two scores into one number. Slide every dot straight onto the line by the shortest route, and where it lands is that person's score. The angle of the line decides which score you get. A horizontal line gives Condition 1 alone. The rising diagonal gives overall speed, because you move along it when both scores go up together, and on it Ann and Ben land far apart. The falling diagonal gives the difference between conditions, because you move along it when one score goes up and the other goes down. Ann's difference is 50 ms and Ben's is 40 ms, so on that line they land almost on the same spot.</p>
+<p>People who are slow in one condition are slow in the other, so the cloud is a long thin ellipse lying along the rising diagonal. A line along the ellipse spreads people far apart, and a line across it squashes them together. Measurement noise behaves differently. Each condition mean carries its own noise, unrelated to the noise in the other condition, so noise is a round blob, drawn as the red circle. It blurs each person's landing spot by the same amount whichever line you choose. That blur is small next to the spread in overall speed and large next to the spread in differences, which is why difference scores are much less reliable.</p>
+<p>The right panel shows where everyone lands on three lines: the overall level, the difference, and a line you turn with the angle slider. Only 45° and 135° are scores people use. The angles between them show the true spread shrinking smoothly as the line turns while the noise stays the same.</p>
+
+<div class="interactive">
+  <h3>Figure 2. A line through the plot is a score</h3>
+  <div class="controls">
+    <div class="ctrl"><label for="f2R"><span>Correlation between conditions (r)</span><span id="f2RV"></span></label><input id="f2R" type="range" min="0" max="0.95" step="0.05" value="0.8"></div>
+    <div class="ctrl"><label for="f2M"><span>Trials per condition (m)</span><span id="f2MV"></span></label><input id="f2M" type="range" min="8" max="200" step="4" value="40"></div>
+    <div class="ctrl"><label for="f2A"><span>Angle of your line</span><span id="f2AV"></span></label><input id="f2A" type="range" min="0" max="180" step="5" value="100"></div>
+  </div>
+  <svg id="f2Svg" viewBox="0 0 860 430" role="img" aria-label="Scatter of true scores in two conditions, and the same people's overall and difference scores with measurement noise"></svg>
+  <figcaption>Left: true scores in two conditions, relative to the group average. The solid line is your line, with open circles where Ann and Ben land on it. Right: each mark is one person. The black bar spans one true SD either side of the average; the red bar spans one SD of measurement noise. Scores are distances along each line, which for the overall level and the difference means dividing the sum or difference by √2. This gives every line identical noise. Each condition has a true SD of 100 ms, and single trials have an SD of 200 ms.</figcaption>
+</div>
+
+<h2>3. Four conditions: the 2 × 2 interaction</h2>
+<p>A 2 × 2 design has four conditions and four scores of this kind: the overall level, two main effects and the interaction. Scaled in the same way (every coefficient ±½), each of them carries exactly the same noise variance, <span class="math">s²/m</span>. If people's true scores were equally correlated across all four conditions, the main effects and the interaction would also have the same true variance. The interaction becomes the hardest score to measure when people differ less in their interaction than in their main effects. The second slider in Figure 3 sets that ratio.</p>
+
+<div class="interactive">
+  <h3>Figure 3. Noise and true variance in a 2 × 2 design</h3>
+  <div class="presets" id="f3Presets">Examples:
+    <button type="button" data-r="0.8" data-k="0.5" data-m="40" data-e="40">Starting example</button><span class="sep">·</span><button type="button" data-r="0.9" data-k="0.2" data-m="40" data-e="40">Interaction barely varies</button><span class="sep">·</span><button type="button" data-r="0.7" data-k="1" data-m="40" data-e="40">Interaction varies as much as main effects</button><span class="sep">·</span><button type="button" data-r="0.8" data-k="0.5" data-m="12" data-e="40">Few trials</button>
+  </div>
+  <div class="controls">
+    <div class="ctrl"><label for="f3R"><span>Correlation between conditions (r)</span><span id="f3RV"></span></label><input id="f3R" type="range" min="0" max="0.95" step="0.05" value="0.8"></div>
+    <div class="ctrl"><label for="f3K"><span>Interaction / main effect true variance</span><span id="f3KV"></span></label><input id="f3K" type="range" min="0" max="1.5" step="0.05" value="0.5"></div>
+    <div class="ctrl"><label for="f3M"><span>Trials per condition (m)</span><span id="f3MV"></span></label><input id="f3M" type="range" min="8" max="200" step="4" value="40"></div>
+    <div class="ctrl"><label for="f3E"><span>Interaction effect (difference of differences)</span><span id="f3EV"></span></label><input id="f3E" type="range" min="0" max="120" step="5" value="40"></div>
+  </div>
+  <svg id="f3Svg" viewBox="0 0 860 250" role="img" aria-label="Noise and true variance for each 2 by 2 score"></svg>
+  <div class="readouts">
+    <div class="stat"><div class="lbl">Noise per score, s²/m</div><div class="val" id="f3Noise" style="color:#a0412d"></div></div>
+    <div class="stat"><div class="lbl">Main effect reliability</div><div class="val" id="f3RelA"></div></div>
+    <div class="stat"><div class="lbl">Interaction reliability</div><div class="val" id="f3RelAB" style="color:#a0412d"></div></div>
+    <div class="stat"><div class="lbl">Interaction d<sub>z</sub></div><div class="val" id="f3Dz"></div></div>
+  </div>
+  <figcaption>Each bar is one score's observed variance across people: the red block is noise, identical for every score, and the grey block is true variance. Each condition has a true SD of 100 ms, and single trials have an SD of 200 ms. The overall level bar runs off the scale.</figcaption>
+</div>
+
+<h2>4. More trials raise reliability and d<sub>z</sub></h2>
+<p>Averaging more trials shrinks only the noise block, <span class="math">s²/m</span>. This raises reliability, and it also raises the standardised effect size d<sub>z</sub>, because d<sub>z</sub> divides the mean effect by the observed spread, which includes noise. As the number of trials grows, d<sub>z</sub> approaches a ceiling set by the true spread alone. When people barely differ in their true interaction, that ceiling is high and d<sub>z</sub> depends heavily on how many trials a study ran. The same raw effect can then produce very different d<sub>z</sub> values in two studies.</p>
+
+<div class="interactive">
+  <h3>Figure 4. Reliability and d<sub>z</sub> as the number of trials grows</h3>
+  <svg id="f4Svg" viewBox="0 0 860 300" role="img" aria-label="Reliability and interaction d_z plotted against trials per condition"></svg>
+  <figcaption>Curves use the settings in Figure 3; change them there and these update. The dot marks the current number of trials. The dashed line in the right panel is the d<sub>z</sub> ceiling, the interaction effect divided by its true spread.</figcaption>
+</div>
+
+<div class="takeaway">
+  <strong>For experimentalists.</strong> Before correlating an interaction score with age, questionnaires or symptoms, compare its observed variance with the noise floor <span class="math">s²/m</span>. Before comparing d<sub>z</sub> values across studies, check how many trials each study ran. Subtracting conditions removes what they share and keeps all of the noise.
+</div>
+</main>
+
+<script>
+(function () {
+  function $(id) { return document.getElementById(id); }
+  function f(x, d) { return x.toFixed(d); }
+  function n(x) { return Math.round(x).toLocaleString("en-GB"); }
+  var INK = "#222222", GREY = "#dddddd", MUTED = "#666666", RED = "#a0412d", PINK = "#f2ddd5";
+
+  // Figure 1
+  function fig1() {
+    var tau = +$("f1Tau").value, s = +$("f1S").value, m = +$("f1M").value, eff = +$("f1E").value;
+    var vTrue = tau * tau, vErr = 2 * s * s / m, vObs = vTrue + vErr;
+    var errSd = Math.sqrt(vErr), obsSd = Math.sqrt(vObs), rel = vTrue / vObs;
+    $("f1TauV").textContent = tau + " ms"; $("f1SV").textContent = s + " ms";
+    $("f1MV").textContent = m; $("f1EV").textContent = eff + " ms";
+    $("f1Err").textContent = f(errSd, 1) + " ms"; $("f1Obs").textContent = f(obsSd, 1) + " ms";
+    $("f1Rel").textContent = f(rel, 2); $("f1Dz").textContent = f(eff / obsSd, 2);
+    var k = 150 / Math.max(tau, errSd, 50);
+    var w = Math.max(2, tau * k), h = Math.max(2, errSd * k), x0 = 110, y0 = 205;
+    var q = 125 / Math.max(obsSd, 50);
+    var sT = Math.max(3, tau * q), sE = Math.max(3, errSd * q), sO = Math.max(4, obsSd * q);
+    var xE = 430 + sT + 40, xO = xE + sE + 40;
+    $("f1Svg").innerHTML =
+      '<text x="20" y="24" font-size="14" font-weight="bold" fill="' + INK + '">A. Standard deviations (ms)</text>' +
+      '<line x1="' + x0 + '" y1="' + y0 + '" x2="' + x0 + '" y2="' + (y0 - h) + '" stroke="' + RED + '" stroke-width="5"/>' +
+      '<line x1="' + x0 + '" y1="' + y0 + '" x2="' + (x0 + w) + '" y2="' + y0 + '" stroke="#333333" stroke-width="5"/>' +
+      '<line x1="' + x0 + '" y1="' + (y0 - h) + '" x2="' + (x0 + w) + '" y2="' + y0 + '" stroke="#000000" stroke-width="3"/>' +
+      '<text x="' + (x0 - 10) + '" y="' + (y0 - h / 2 + 4) + '" font-size="13" fill="' + RED + '" text-anchor="end">error ' + f(errSd, 0) + '</text>' +
+      '<text x="' + (x0 + w / 2) + '" y="' + (y0 + 22) + '" font-size="13" fill="' + INK + '" text-anchor="middle">τ = ' + tau + '</text>' +
+      '<text x="' + (x0 + w / 2 + 14) + '" y="' + (y0 - h / 2 - 8) + '" font-size="13" fill="' + INK + '">observed ' + f(obsSd, 1) + '</text>' +
+      '<line x1="400" y1="12" x2="400" y2="238" stroke="' + GREY + '"/>' +
+      '<text x="430" y="24" font-size="14" font-weight="bold" fill="' + INK + '">B. Variances (ms²)</text>' +
+      '<rect x="430" y="' + (195 - sT) + '" width="' + sT + '" height="' + sT + '" fill="' + GREY + '" stroke="#333333" stroke-width="1.5"/>' +
+      '<text x="' + (430 + sT / 2) + '" y="218" font-size="12" fill="' + INK + '" text-anchor="middle">τ² = ' + n(vTrue) + '</text>' +
+      '<text x="' + (430 + sT + 20) + '" y="150" font-size="20" fill="' + MUTED + '" text-anchor="middle">+</text>' +
+      '<rect x="' + xE + '" y="' + (195 - sE) + '" width="' + sE + '" height="' + sE + '" fill="' + PINK + '" stroke="' + RED + '" stroke-width="1.5"/>' +
+      '<text x="' + (xE + sE / 2) + '" y="218" font-size="12" fill="' + RED + '" text-anchor="middle">2s²/m = ' + n(vErr) + '</text>' +
+      '<text x="' + (xE + sE + 20) + '" y="150" font-size="20" fill="' + MUTED + '" text-anchor="middle">=</text>' +
+      '<rect x="' + xO + '" y="' + (195 - sO) + '" width="' + sO + '" height="' + (sO * (1 - rel)) + '" fill="' + PINK + '"/>' +
+      '<rect x="' + xO + '" y="' + (195 - sO * rel) + '" width="' + sO + '" height="' + (sO * rel) + '" fill="' + GREY + '"/>' +
+      '<rect x="' + xO + '" y="' + (195 - sO) + '" width="' + sO + '" height="' + sO + '" fill="none" stroke="#000000" stroke-width="1.5"/>' +
+      '<text x="' + (xO + sO / 2) + '" y="218" font-size="12" fill="' + INK + '" text-anchor="middle">' + n(vObs) + ' (' + Math.round(rel * 100) + '% true)</text>';
+  }
+  ["f1Tau", "f1S", "f1M", "f1E"].forEach(function (id) { $(id).addEventListener("input", fig1); });
+  fig1();
+
+  var SIG2 = 10000, S2 = 40000;
+  var pts = [];
+  for (var i = 0; i < 60; i++) {
+    var u1 = ((i * 73 + 19) % 97) / 98 + 0.005, u2 = ((i * 41 + 53) % 89) / 90 + 0.005;
+    var rad = Math.sqrt(-2 * Math.log(u1)), th = 2 * Math.PI * u2;
+    pts.push([rad * Math.cos(th), rad * Math.sin(th)]);
+  }
+
+  // Figure 2: a line through the plot is a score.
+  var ANN = [-100, -95], BEN = [100, 95];
+  function fig2() {
+    var r = +$("f2R").value, m = +$("f2M").value, ang = +$("f2A").value, ph = ang * Math.PI / 180;
+    var names = { 0: "Condition 1", 45: "overall level", 90: "Condition 2", 135: "difference", 180: "Condition 1" };
+    $("f2AV").textContent = ang + "°" + (names[ang] ? " (" + names[ang] + ")" : "");
+    $("f2RV").textContent = f(r, 2); $("f2MV").textContent = m;
+    var sdO = Math.sqrt(SIG2 * (1 + r)), sdD = Math.sqrt(SIG2 * (1 - r)), sdN = Math.sqrt(S2 / m);
+    var px = 0.62, cx = 205, cy = 215, ux = Math.cos(ph), uy = Math.sin(ph);
+    var people = pts.map(function (p) {
+      var a = p[0] * sdO, b = p[1] * sdD;
+      return [(a - b) * Math.SQRT1_2, (a + b) * Math.SQRT1_2];
+    });
+    var dots = "";
+    people.forEach(function (c) {
+      dots += '<circle cx="' + f(c[0] * px, 1) + '" cy="' + f(-c[1] * px, 1) + '" r="2.6" fill="#333333" fill-opacity="0.4"/>';
+    });
+    function named(c, name, side) {
+      var t = c[0] * ux + c[1] * uy, lx = t * ux * px, ly = -t * uy * px, x = c[0] * px, y = -c[1] * px;
+      return '<line x1="' + f(x, 1) + '" y1="' + f(y, 1) + '" x2="' + f(lx, 1) + '" y2="' + f(ly, 1) + '" stroke="#000000" stroke-width="1"/>' +
+        '<circle cx="' + f(lx, 1) + '" cy="' + f(ly, 1) + '" r="4" fill="#ffffff" stroke="#000000" stroke-width="1.6"/>' +
+        '<circle cx="' + f(x, 1) + '" cy="' + f(y, 1) + '" r="5" fill="#000000"/>' +
+        '<text x="' + f(x + side * 9, 1) + '" y="' + f(y + 4, 1) + '" font-size="13" font-weight="bold" fill="#000000" text-anchor="' + (side < 0 ? "end" : "start") + '">' + name + '</text>';
+    }
+    var L = 165;
+    var scatter =
+      '<text x="20" y="24" font-size="14" font-weight="bold" fill="' + INK + '">A. True scores in two conditions</text>' +
+      '<defs><clipPath id="f2Clip"><rect x="-185" y="-170" width="380" height="345"/></clipPath></defs>' +
+      '<g transform="translate(' + cx + ',' + cy + ')"><g clip-path="url(#f2Clip)">' +
+        '<line x1="-' + L + '" y1="0" x2="' + L + '" y2="0" stroke="#bbbbbb"/><line x1="0" y1="' + L + '" x2="0" y2="-' + L + '" stroke="#bbbbbb"/>' +
+        '<line x1="-150" y1="150" x2="150" y2="-150" stroke="#888888" stroke-dasharray="5,4"/>' +
+        '<line x1="-110" y1="-110" x2="110" y2="110" stroke="#888888" stroke-dasharray="5,4"/>' +
+        dots +
+        '<ellipse rx="' + f(sdO * px, 1) + '" ry="' + f(Math.max(2, sdD * px), 1) + '" transform="rotate(-45)" fill="none" stroke="#000000" stroke-width="1.2"/>' +
+        '<circle r="' + f(sdN * px, 1) + '" fill="' + PINK + '" fill-opacity="0.7" stroke="' + RED + '" stroke-width="2"/>' +
+        '<line x1="' + f(-200 * ux, 1) + '" y1="' + f(200 * uy, 1) + '" x2="' + f(200 * ux, 1) + '" y2="' + f(-200 * uy, 1) + '" stroke="#000000" stroke-width="2"/>' +
+        named(ANN, "Ann", -1) + named(BEN, "Ben", 1) +
+      '</g>' +
+        '<text x="' + (L + 4) + '" y="4" font-size="12" fill="' + MUTED + '">Cond 1</text>' +
+        '<text x="0" y="-' + (L + 6) + '" font-size="12" fill="' + MUTED + '" text-anchor="middle">Cond 2</text>' +
+        '<text x="122" y="-140" font-size="12" fill="' + INK + '">overall level</text>' +
+        '<text x="92" y="128" font-size="12" fill="' + INK + '">difference</text>' +
+      '</g>';
+
+    var sc = 0.5, x0 = 650;
+    function strip(y, label, sdTrue, proj) {
+      var marks = "";
+      people.forEach(function (c) {
+        var v = proj(c) * sc;
+        if (Math.abs(v) < 190) marks += '<line x1="' + f(x0 + v, 1) + '" y1="' + (y - 8) + '" x2="' + f(x0 + v, 1) + '" y2="' + (y + 8) + '" stroke="#333333" stroke-opacity="0.45"/>';
+      });
+      function lim(v) { return Math.max(-185, Math.min(185, v)); }
+      var vA = lim(proj(ANN) * sc), vB = lim(proj(BEN) * sc);
+      [vA, vB].forEach(function (v) {
+        marks += '<line x1="' + f(x0 + v, 1) + '" y1="' + (y - 13) + '" x2="' + f(x0 + v, 1) + '" y2="' + (y + 13) + '" stroke="#000000" stroke-width="2.5"/>';
+      });
+      function lab(v, t) { return '<text x="' + f(x0 + v, 1) + '" y="' + (y - 17) + '" font-size="11" font-weight="bold" fill="#000000" text-anchor="middle">' + t + '</text>'; }
+      marks += Math.abs(vA - vB) < 30 ? lab((vA + vB) / 2, vA <= vB ? "Ann, Ben" : "Ben, Ann") : lab(vA, "Ann") + lab(vB, "Ben");
+      var rel = sdTrue * sdTrue / (sdTrue * sdTrue + sdN * sdN), edge = x0 + Math.max(sdTrue, sdN) * sc + 8;
+      return '<text x="460" y="' + (y - 36) + '" font-size="14" font-weight="bold" fill="' + INK + '">' + label + '</text>' +
+        '<line x1="' + (x0 - 190) + '" y1="' + y + '" x2="' + (x0 + 190) + '" y2="' + y + '" stroke="#bbbbbb"/>' + marks +
+        '<rect x="' + f(x0 - sdTrue * sc, 1) + '" y="' + (y + 18) + '" width="' + f(2 * sdTrue * sc, 1) + '" height="7" fill="#000000"/>' +
+        '<rect x="' + f(x0 - sdN * sc, 1) + '" y="' + (y + 30) + '" width="' + f(2 * sdN * sc, 1) + '" height="7" fill="' + RED + '"/>' +
+        '<text x="' + f(edge, 1) + '" y="' + (y + 25) + '" font-size="11" fill="' + INK + '">true spread</text>' +
+        '<text x="' + f(edge, 1) + '" y="' + (y + 38) + '" font-size="11" fill="' + RED + '">noise</text>' +
+        '<text x="460" y="' + (y + 60) + '" font-size="13" fill="' + INK + '">true SD ' + f(sdTrue, 0) + ' ms <tspan fill="' + RED + '">· noise SD ' + f(sdN, 0) + ' ms</tspan> · reliability ' + f(rel, 2) + '</text>';
+    }
+    $("f2Svg").innerHTML = scatter +
+      '<line x1="440" y1="12" x2="440" y2="420" stroke="' + GREY + '"/>' +
+      '<text x="460" y="24" font-size="14" font-weight="bold" fill="' + INK + '">B. Where people land on three lines</text>' +
+      strip(100, "Overall level, 45°", sdO, function (c) { return (c[0] + c[1]) * Math.SQRT1_2; }) +
+      strip(225, "Difference, 135°", sdD, function (c) { return (c[1] - c[0]) * Math.SQRT1_2; }) +
+      strip(350, "Your line, " + ang + "°", Math.sqrt(SIG2 * (1 + r * Math.sin(2 * ph))), function (c) { return c[0] * ux + c[1] * uy; });
+  }
+  ["f2R", "f2M", "f2A"].forEach(function (id) { $(id).addEventListener("input", fig2); });
+  fig2();
+
+  // 2 x 2 model shared by Figures 3 and 4.
+  function model(r, k, m) {
+    var noise = S2 / m, tA = SIG2 * (1 - r);
+    return { noise: noise, tL: SIG2 * (1 + 3 * r), tA: tA, tAB: k * tA };
+  }
+  function dzAB(eff, tAB, noise) { var v = tAB + noise; return v > 0 ? (eff / 2) / Math.sqrt(v) : 0; }
+
+  function fig3() {
+    var r = +$("f3R").value, k = +$("f3K").value, m = +$("f3M").value, eff = +$("f3E").value;
+    var M = model(r, k, m);
+    $("f3RV").textContent = f(r, 2); $("f3KV").textContent = f(k, 2) + "×";
+    $("f3MV").textContent = m; $("f3EV").textContent = eff + " ms";
+    $("f3Noise").textContent = n(M.noise) + " ms²";
+    $("f3RelA").textContent = f(M.tA / (M.tA + M.noise), 2);
+    $("f3RelAB").textContent = f(M.tAB / (M.tAB + M.noise), 2);
+    $("f3Dz").textContent = f(dzAB(eff, M.tAB, M.noise), 2);
+    var maxV = 6000, barW = 520, bx = 190;
+    function bp(v) { return Math.min(barW, v / maxV * barW); }
+    var nP = bp(M.noise), bars = "";
+    [["Overall level", "(+ + + +)/2", M.tL], ["Main effect", "e.g. (− − + +)/2", M.tA], ["Interaction", "(+ − − +)/2", M.tAB]].forEach(function (row, j) {
+      var y = 20 + j * 66, tot = M.noise + row[2], totP = bp(tot), nW = Math.min(nP, totP), sW = Math.max(0, totP - nW);
+      bars += '<text x="20" y="' + (y + 15) + '" font-size="14" font-weight="bold" fill="' + (j === 2 ? RED : INK) + '">' + row[0] + '</text>' +
+        '<text x="20" y="' + (y + 32) + '" font-size="12" fill="' + MUTED + '">' + row[1] + '</text>' +
+        '<rect x="' + bx + '" y="' + y + '" width="' + f(nW, 1) + '" height="32" fill="' + PINK + '" stroke="' + RED + '" stroke-width="1.2"/>' +
+        (sW > 0.5 ? '<rect x="' + f(bx + nW, 1) + '" y="' + y + '" width="' + f(sW, 1) + '" height="32" fill="' + GREY + '" stroke="#333333" stroke-width="1.2"/>' : "") +
+        (tot > maxV ? '<text x="' + (bx + totP - 14) + '" y="' + (y + 21) + '" font-size="14" fill="' + INK + '">»</text>' : "") +
+        '<text x="' + f(bx + totP + 8, 1) + '" y="' + (y + 21) + '" font-size="13" fill="' + INK + '">reliability ' + f(row[2] / tot, 2) + '</text>';
+    });
+    $("f3Svg").innerHTML = bars +
+      '<line x1="' + f(bx + nP, 1) + '" y1="10" x2="' + f(bx + nP, 1) + '" y2="218" stroke="' + RED + '" stroke-dasharray="4,3"/>' +
+      '<text x="' + f(bx + nP, 1) + '" y="238" font-size="12" fill="' + RED + '" text-anchor="middle">noise ' + n(M.noise) + ' ms²</text>';
+    fig4(r, k, m, eff);
+  }
+
+  function fig4(r, k, mNow, eff) {
+    var mMin = 4, mMax = 200, W = 330, H = 190;
+    function xs(m) { return (m - mMin) / (mMax - mMin) * W; }
+    function path(fn, ymax) {
+      var d = "";
+      for (var m = mMin; m <= mMax; m += 2) d += (m === mMin ? "M" : "L") + f(xs(m), 1) + "," + f(H - Math.min(fn(m), ymax) / ymax * H, 1);
+      return d;
+    }
+    function relA(m) { var M = model(r, k, m); return M.tA / (M.tA + M.noise); }
+    function relAB(m) { var M = model(r, k, m); return M.tAB / (M.tAB + M.noise); }
+    function dz(m) { var M = model(r, k, m); return dzAB(eff, M.tAB, M.noise); }
+    var tAB = model(r, k, mNow).tAB, ceil = tAB > 0 ? (eff / 2) / Math.sqrt(tAB) : Infinity;
+    var dzMax = Math.max(0.5, Math.min(3, Math.max(dz(mMax), isFinite(ceil) ? ceil : 0) * 1.15));
+    function axes(label, ymax, ticks) {
+      var s = '<line x1="0" y1="' + H + '" x2="' + W + '" y2="' + H + '" stroke="#999999"/><line x1="0" y1="0" x2="0" y2="' + H + '" stroke="#999999"/>';
+      [4, 50, 100, 150, 200].forEach(function (m) { s += '<text x="' + xs(m) + '" y="' + (H + 16) + '" font-size="11" fill="' + MUTED + '" text-anchor="middle">' + m + '</text>'; });
+      ticks.forEach(function (t) { var y = H - t / ymax * H; s += '<line x1="0" y1="' + y + '" x2="' + W + '" y2="' + y + '" stroke="#eeeeee"/><text x="-6" y="' + (y + 4) + '" font-size="11" fill="' + MUTED + '" text-anchor="end">' + t + '</text>'; });
+      return s + '<text x="' + W / 2 + '" y="' + (H + 34) + '" font-size="12" fill="' + MUTED + '" text-anchor="middle">Trials per condition (m)</text>' +
+        '<text x="0" y="-12" font-size="14" font-weight="bold" fill="' + INK + '">' + label + '</text>';
+    }
+    var dzTicks = [], step = dzMax > 1.5 ? 1 : 0.5;
+    for (var t = 0; t <= dzMax + 1e-9; t += step) dzTicks.push(+t.toFixed(1));
+    var yc = isFinite(ceil) ? H - ceil / dzMax * H : 0;
+    var ceilLine = isFinite(ceil) && ceil <= dzMax
+      ? '<line x1="0" y1="' + f(yc, 1) + '" x2="' + W + '" y2="' + f(yc, 1) + '" stroke="#000000" stroke-dasharray="5,4"/><text x="' + W + '" y="' + f(yc - 6, 1) + '" font-size="11" fill="' + INK + '" text-anchor="end">ceiling ' + f(ceil, 2) + '</text>'
+      : '<text x="' + W + '" y="12" font-size="11" fill="' + INK + '" text-anchor="end">ceiling ' + (isFinite(ceil) ? f(ceil, 2) : "∞") + ', above chart</text>';
+    $("f4Svg").innerHTML =
+      '<g transform="translate(55,45)">' + axes("A. Reliability", 1, [0, 0.25, 0.5, 0.75, 1]) +
+        '<path d="' + path(relA, 1) + '" fill="none" stroke="#333333" stroke-width="2.4"/>' +
+        '<path d="' + path(relAB, 1) + '" fill="none" stroke="' + RED + '" stroke-width="2.4"/>' +
+        '<circle cx="' + xs(mNow) + '" cy="' + (H - relA(mNow) * H) + '" r="5" fill="#333333"/>' +
+        '<circle cx="' + xs(mNow) + '" cy="' + (H - relAB(mNow) * H) + '" r="5" fill="' + RED + '"/>' +
+        '<text x="' + (W - 4) + '" y="' + (H - relA(mMax) * H - 8) + '" font-size="12" fill="#333333" text-anchor="end">Main effect</text>' +
+        '<text x="' + (W - 4) + '" y="' + (H - relAB(mMax) * H + 16) + '" font-size="12" fill="' + RED + '" text-anchor="end">Interaction</text>' +
+      '</g>' +
+      '<g transform="translate(485,45)">' + axes('B. Interaction d<tspan baseline-shift="sub" font-size="10">z</tspan>', dzMax, dzTicks) + ceilLine +
+        '<path d="' + path(dz, dzMax) + '" fill="none" stroke="#000000" stroke-width="2.4"/>' +
+        '<circle cx="' + xs(mNow) + '" cy="' + (H - Math.min(dz(mNow), dzMax) / dzMax * H) + '" r="5" fill="#000000"/>' +
+      '</g>';
+  }
+
+  var presets = document.querySelectorAll("#f3Presets button");
+  function clearPresets() { presets.forEach(function (b) { b.classList.remove("active"); }); }
+  presets.forEach(function (b) {
+    b.addEventListener("click", function () {
+      clearPresets(); b.classList.add("active");
+      $("f3R").value = b.dataset.r; $("f3K").value = b.dataset.k; $("f3M").value = b.dataset.m; $("f3E").value = b.dataset.e;
+      fig3();
+    });
+  });
+  ["f3R", "f3K", "f3M", "f3E"].forEach(function (id) { $(id).addEventListener("input", function () { clearPresets(); fig3(); }); });
+  presets[0].classList.add("active");
+  fig3();
+})();
+</script>
+</body>
+</html>
+
